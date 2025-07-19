@@ -1,0 +1,695 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home/waisakap/domains/waisakaproperty.com/awstats/.data/awstats.waisakaproperty.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2116                
+POS_TIME 2799                
+POS_VISITOR 11257               
+POS_DAY 18565               
+POS_DOMAIN 3658                
+POS_LOGIN 3891                
+POS_ROBOT 4046                
+POS_WORMS 4800                
+POS_EMAILSENDER 4931                
+POS_EMAILRECEIVER 5074                
+POS_SESSION 19244               
+POS_SIDER 19431               
+POS_FILETYPES 5209                
+POS_DOWNLOADS 5440                
+POS_OS 5488                
+POS_BROWSER 5746                
+POS_SCREENSIZE 6967                
+POS_UNKNOWNREFERER 7041                
+POS_UNKNOWNREFERERBROWSER 7244                
+POS_ORIGIN 7442                
+POS_SEREFERRALS 7582                
+POS_PAGEREFS 7768                
+POS_SEARCHWORDS 7916                
+POS_KEYWORDS 8068                
+POS_MISC 2461                
+POS_ERRORS 8127                
+POS_CLUSTER 3747                
+POS_SIDER_403 8276                
+POS_SIDER_400 8358                
+POS_SIDER_404 8440                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601015810 118 30365 9362628546453
+FirstTime 20240507122654
+LastTime 20240531205109
+LastUpdate 20240601040830 118 0 117 0 0
+TotalVisits 196                 
+TotalUnique 174                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 187                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 200 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 3 44013 11 45 560569
+1 10 52 8684127 36 77 1387150
+2 12 72 13033469 15 90 10244025
+3 5 5 32552 37 138 17953418
+4 6 10 154563 20 39 289420
+5 16 16 174835 29 47 344626
+6 7 7 65604 39 170 13965807
+7 5 5 147426 73 165 8214507
+8 11 11 153372 19 29 1185550
+9 14 22 232415 26 115 19558042
+10 4 4 30007 8 26 2863076
+11 12 212 34243382 23 29 1010743
+12 26 330 49666848 30 112 4336496
+13 13 90 12862571 10 45 6213376
+14 9 95 18915924 11 32 4212578
+15 15 79 8662531 28 115 1827841
+16 15 130 12325560 11 37 2013649
+17 13 157 24636813 21 139 12091989
+18 13 63 9796467 123 233 548305
+19 6 50 11935749 38 53 537377
+20 17 235 42533056 31 66 2194334
+21 12 109 24494919 27 75 863983
+22 12 133 21263890 26 49 1678828
+23 7 49 8750353 19 65 2408529
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 262 1939 302840446
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Googlebot/ 329 3114825 20240530181253 24
+feed 322 44047339 20240531222525 17
+bot[\s_+:,\.\;\/\\-] 189 34213878 20240530130837 11
+bingbot/ 176 8904814 20240531180450 14
+SemrushBot/ 131 554106 20240529101010 64
+Applebot/ 28 9328251 20240512121657 5
+Googlebot\-Image/ 20 4794429 20240529233507 0
+no_user_agent 10 305072 20240527072217 5
+unknown 9 3738 20240524021444 9
+python 6 81556 20240522042211 0
+AhrefsBot/ 1 9832 20240509212438 0
+ips\-agent 4 22061 20240509215952 1
+custo 1 61091 20240521043706 0
+Go\-http\-client/ 2 19663 20240520014108 0
+facebookexternalhit/ 4 118800 20240530013105 2
+crawl 5 33989 20240513033940 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 361 3128644 0 0
+png 159 123185432 0 0
+woff2 142 9513472 0 0
+php 145 1938215 0 0
+js 448 5462588 0 0
+jpg 549 158207957 0 0
+jpeg 18 778713 0 0
+Unknown 117 625425 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx15 52 52
+winxp 5 3
+ios_iphone 300 20
+android 2 2
+macosx12 1 1
+androidmarshmallow 9 9
+linux 203 19
+win7 48 5
+macosx 1 1
+android10 722 37
+win10 586 107
+win8.1 5 1
+Unknown 4 4
+macosx13 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 57
+firefox57.0 1 1
+chrome112.0.5615.136 1 1
+firefox115 1 1
+chrome23.0.1271.64 10 0
+chrome88.0.4324.192 2 2
+chrome87.0.4280.88 4 4
+chrome101.0.4951.7 1 1
+chrome79.0.3945.79 86 2
+chrome124.0.0.0 444 87
+chrome97.0.4692.99 1 1
+firefox54.0 1 1
+opera89.0.4447.51 2 2
+chrome107.0.0.0 1 1
+chrome23.0.1271.95 2 0
+chrome83.0.4103.97 4 4
+iphone 1 1
+opera80.4.4244.7786 1 1
+firefox125.0 112 17
+chrome83.0.4103.61 41 3
+chrome91.0.4472.114 3 3
+firefox108.0 2 2
+chrome125.0.0.0 300 18
+chrome66.0.3359.181 43 2
+safari13.0.3 7 7
+chrome106.0.0.0 1 1
+chrome114.0.0.0 1 1
+Unknown 4 4
+safari17.4.1 121 7
+firefox50.0 2 0
+chrome118.0.0.0 1 1
+chrome117.0.5938.132 129 3
+opera83.0.4254.16 1 1
+chrome37.0.2049.0 2 0
+chrome122.0.0.0 2 2
+chrome63.0.3239.132 2 2
+chrome100.0.4896.60 1 1
+chrome78.0.3904.108 2 2
+chrome113.0.0.0 1 1
+safari16.3 1 0
+firefox67.0 1 1
+chrome125.0.6422.65 9 9
+firefox33.0 2 2
+chrome36.0.1985.143 7 7
+chrome78.0.3904.97 1 1
+chrome63.0.3239.108 1 1
+mozilla 3 3
+chrome117.0.0.0 55 2
+chrome94.0.4606.61 6 6
+msie10.0 1 0
+chrome92.0.4515.159 135 3
+chrome105.0.0.0 9 6
+chrome121.0.0.0 188 23
+chrome120.0.0.0 4 4
+chrome41.0.2228.0 2 0
+chrome116.0.0.0 1 1
+firefox36.0 2 0
+safari 170 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WhatsApp/2.23.20.0 20240529203609
+NetAPI_v1 20240519234501
+got_(https://github.com/sindresorhus/got) 20240529234641
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.23.20.0 20240529203609
+NetAPI_v1 20240519234501
+got_(https://github.com/sindresorhus/got) 20240529234641
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 186 224
+From1 5 5
+From2 17 18
+From3 0 0
+From4 54 1692
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_co_id 0 1
+www_google_com 17 17
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 32 24999
+405 11 2143501
+500 41 7683774
+404 224 658641
+301 246 263277
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 107
+/sitemap.xml 6 -
+/.well-known/traffic-advice 3 -
+/IJl2sy.php 1 -
+/rkqb3M 1 -
+/contact 1 https://waisakaproperty.com/contact
+/wp-admin/install.php 1 -
+/BvdQo6.php 1 -
+/lejNch.js 1 -
+/shop 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/RnURPH 1 -
+/Sgut4H.html 1 -
+//news/wp-includes/wlwmanifest.xml 1 -
+/3ds.php 8 -
+/lander/gazinvest-forma9maymadrid-thanksqz9may/thank-QZ 4 -
+/qamocW.html 1 -
+/public/filemanager 5 -
+/fPQyiG.aspx 1 -
+/lander/test 4 -
+/wordpress 1 -
+/blog 1 -
+/setting 1 -
+/public/laravel-filemanager 5 -
+/.5hXl9X 1 -
+/lCaeN7.js 1 -
+/merchant/code 8 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+//media/wp-includes/wlwmanifest.xml 1 -
+/.well-known/security.txt 1 -
+/UY3Gto 1 -
+/4wT4Bm 1 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+/assets/admin/vendor/jquery/jquery.min.js 13 https://www.waisakaproperty.com/login
+/.8HZBJk 1 -
+/enhance 2 -
+/old 1 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/lYFjwh.jsp 1 -
+/emergency.php 1 -
+/Y6SFL6 1 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/lander/gazprom-prelandergnidanewkomment-thanksstory2-objv2/land/thank-you 3 -
+/KQRDmgB 4 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/index_sber.php 4 -
+/FjZI65.jsp 1 -
+//sito/wp-includes/wlwmanifest.xml 1 -
+/reset.php 1 -
+/75BuxP 1 -
+//website/wp-includes/wlwmanifest.xml 1 -
+/66Ll1G 1 -
+/TAC5PS.js 1 -
+/nMSCda 1 -
+/3ds1633693954432212 9 -
+/login/forgot 1 https://www.waisakaproperty.com/login
+/tFvEOP.aspx 1 -
+/9IfQTd.jsp 1 -
+/merchant/z/payment 10 -
+/LGLtIj.aspx 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/public/file-manager/index 5 -
+/uRhjMv 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/9AkY3l.aspx 1 -
+/refresher 4 -
+/hlfnvz.php 1 -
+/url 2 -
+/lNfEpP 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+//wp-includes/wlwmanifest.xml 1 -
+/QYiMPE.jsp 1 -
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/Mm4NeU.html 1 -
+/.hPxsFg 1 -
+/4usC17.php 1 -
+/sitemaps.xml 2 -
+/xuavpV.js 1 -
+/lander/testsberv4_1703110539 4 -
+/new 1 -
+/sberbank-quiz-v2 4 -
+/ads.txt 1 -
+/x4wrYh.html 1 -
+/test 1 -
+/wp-content/plugins/acf-frontend-form-element/assets/js/try-pro-min.js 1 -
+/.VeXPEq 1 -
+/file-manager/index 5 -
+/3bowPo.aspx 1 -
+/EY9edd.php 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/admin 7 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/sitemap_index.xml 2 -
+/wp 1 -
+/sberchat008-prilca 4 -
+/tink_chat 4 -
+/pass.php 1 -
+/yCdu3x.js 1 -
+/wp-admin/setup-config.php 1 -
+//xmlrpc.php 1 -
+/sitemap.xml.gz 2 -
+/laravel-filemanager 5 -
+/filemanager 5 -
+/.eWY2BD 1 -
+/lander/sber-fix 4 -
+/FN3Ee8.html 1 -
+/ZVVWKf.jsp 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 187
+180.243.15.216 15 99 9930019 20240507134328
+182.2.167.88 7 105 12107697 20240531150959
+154.36.80.231 7 7 45789 20240517050207
+43.254.59.190 6 6 66720 20240516055304
+138.68.180.18 6 6 46934 20240522182357
+114.122.22.134 6 85 12605731 20240520223435
+120.188.5.150 5 80 12705374 20240522134753
+182.0.215.35 4 19 2531102 20240507151704
+165.227.215.83 4 4 28058 20240516165242
+34.1.19.170 3 11 125567 20240514093944
+64.227.185.136 1 1 11210 20240520134242
+43.130.37.62 1 1 11210 20240519052741
+162.55.129.246 1 1 59376 20240519234501
+192.81.216.25 1 1 11209 20240510092642
+143.198.114.137 1 1 11209 20240524074944
+103.171.147.66 1 9 327881 20240523121103
+159.223.235.220 1 1 8145 20240509220045
+65.21.185.79 1 1 6528 20240514101653
+103.250.69.202 1 1 9464 20240519082427
+205.169.39.241 2 61 12927202 20240510021404
+178.254.24.91 1 1 9831 20240528182936
+5.161.207.177 1 1 6718 20240516141333
+54.149.140.32 0 2 21422 
+35.93.78.179 1 1 11209 20240509091303
+104.197.69.115 1 45 11879919 20240511203408
+176.111.174.153 1 1 60746 20240530041434
+103.171.147.69 2 52 10071586 20240523120826
+93.158.91.30 1 1 11209 20240530173654
+165.232.163.49 1 1 6231 20240512202419
+142.93.179.75 2 2 13707 20240516161358
+18.236.105.30 0 1 12007 
+165.232.91.134 1 1 9832 20240509211747
+185.212.138.112 1 1 9464 20240522203437
+143.198.239.225 3 3 17807 20240513054944
+64.23.214.43 1 1 8126 20240510023427
+182.2.143.92 2 51 9681803 20240529184929
+164.92.155.8 1 1 11209 20240520091953
+35.203.242.192 0 10 3890698 
+66.249.70.200 1 1 7712 20240517123958
+37.27.81.158 1 1 7297 20240516003344
+209.97.138.149 1 1 9145 20240509232059
+93.158.91.29 1 2 36716 20240524213656
+119.13.202.117 1 43 8619225 20240508113229
+103.47.133.142 1 25 6785394 20240528162026
+193.186.4.140 1 1 3430 20240520215307
+45.192.148.21 1 1 9501 20240509215819
+146.190.20.205 1 1 11209 20240526083908
+52.34.96.243 1 1 11209 20240525165017
+193.186.4.145 1 1 8168 20240520215306
+143.198.41.85 1 1 5391 20240516030707
+64.227.39.153 1 1 11209 20240518094849
+161.35.137.225 1 1 3301 20240511221402
+34.122.147.229 1 45 11879919 20240515213922
+180.252.160.80 0 1 24941 
+95.217.15.107 1 1 6600 20240516165659
+205.169.39.249 1 5 60250 20240517045640
+54.201.107.102 0 1 7803 
+170.106.82.193 1 1 11210 20240520042232
+209.97.151.182 2 2 13111 20240516170821
+192.241.137.43 1 1 11172 20240522134707
+89.104.111.247 1 1 11209 20240508181057
+89.104.111.175 1 1 11209 20240509191919
+143.198.41.148 1 1 7514 20240512204215
+64.23.152.17 1 1 11209 20240517151009
+205.169.39.99 2 61 12926134 20240511204030
+66.249.71.166 2 2 9793 20240527162938
+165.22.227.86 1 1 11209 20240522092920
+83.97.73.239 1 1 60746 20240529142239
+182.253.15.143 1 36 3374324 20240520114216
+198.23.254.123 1 1 9832 20240522155651
+72.14.201.146 1 1 8168 20240526120220
+94.130.231.28 1 1 6520 20240514093831
+146.190.216.176 1 1 11209 20240516104230
+165.22.123.240 1 1 6803 20240514031036
+3.88.84.6 1 1 60715 20240524054224
+143.110.241.189 1 1 11209 20240508083336
+209.38.130.231 1 1 3693 20240513053146
+103.47.133.103 2 2 16250 20240528163713
+198.12.65.160 1 1 11210 20240520232000
+43.155.152.154 1 1 11210 20240510070015
+165.232.173.222 1 1 7117 20240515023132
+66.249.73.200 1 1 9544 20240519052444
+159.65.48.169 1 1 5374 20240514105952
+103.171.147.88 0 23 6512757 
+168.151.139.30 1 39 8356666 20240508113207
+185.213.83.220 2 2 22240 20240528114109
+176.53.223.133 1 1 11209 20240511020254
+93.158.127.79 1 1 11172 20240518062716
+142.93.43.189 1 1 3315 20240509233726
+128.90.141.25 1 1 11209 20240510193340
+66.249.66.168 1 1 4566 20240522012251
+192.166.246.254 2 2 22240 20240527192012
+165.227.215.68 1 1 4587 20240512014104
+103.47.133.83 2 58 5322247 20240521123352
+128.90.170.12 1 1 11209 20240527023206
+165.232.139.125 2 2 13546 20240510173402
+205.237.94.250 1 44 8672172 20240508113217
+35.90.251.240 0 1 30299 
+66.249.66.17 1 1 9501 20240530062929
+159.223.229.17 2 2 11153 20240514140907
+176.53.223.75 1 1 11209 20240510062533
+66.249.71.97 1 1 5238 20240517134646
+180.252.94.106 3 14 337979 20240529203609
+143.198.41.140 1 1 3517 20240511052029
+157.230.21.30 1 1 11209 20240512080221
+34.116.179.183 1 45 11879919 20240509192628
+18.234.69.197 1 1 11209 20240526152429
+45.55.112.20 1 1 11173 20240522134652
+66.96.225.132 3 54 10602870 20240531205109
+113.23.64.135 1 1 60746 20240529121352
+95.217.218.143 1 1 5394 20240514214414
+199.244.88.229 1 1 9831 20240507214802
+5.133.192.88 1 2 36716 20240519001331
+5.78.68.40 2 2 12222 20240516110825
+54.189.251.70 0 3 14162 
+137.184.214.45 1 1 11209 20240531081608
+3.91.75.154 1 1 9464 20240529234641
+43.130.62.164 1 1 11210 20240525063616
+18.237.197.14 2 2 22418 20240509090205
+62.122.184.194 1 1 60746 20240522110358
+222.79.104.23 1 1 11209 20240522170139
+188.211.25.147 1 43 5105827 20240508113130
+192.36.109.114 1 1 11172 20240523192823
+64.23.214.40 2 2 8917 20240516135137
+192.36.24.172 1 1 11172 20240512163131
+134.209.183.203 1 1 6832 20240512182736
+103.171.147.86 1 19 1841956 20240528161948
+103.47.133.179 1 33 3186232 20240510160017
+43.156.97.22 1 1 11173 20240523064946
+182.2.147.238 2 44 8630478 20240520215438
+176.9.18.134 1 1 11209 20240511050531
+117.102.83.3 1 42 420006 20240512161305
+52.27.253.161 1 1 11209 20240511202049
+84.32.41.136 2 2 13970 20240521175536
+85.209.11.117 1 1 60746 20240530082927
+5.133.192.133 1 2 36716 20240513023455
+193.186.4.146 1 1 8168 20240526120207
+143.110.219.156 1 1 3624 20240510082619
+46.101.78.79 1 1 11209 20240530085049
+65.154.226.170 1 43 8619225 20240515222844
+66.249.71.165 1 1 4806 20240522030657
+35.93.74.191 1 1 11209 20240525165016
+5.78.99.239 1 1 6766 20240516060206
+103.171.147.90 0 24 6777269 
+165.232.141.65 1 1 4350 20240510144452
+180.243.178.225 2 55 9914862 20240523175456
+43.163.6.35 1 1 11210 20240511044028
+185.190.42.200 1 1 60746 20240511141617
+161.35.137.92 1 1 9127 20240510014117
+65.154.226.167 1 43 8646634 20240509232448
+161.35.154.175 1 1 6896 20240514100114
+195.90.221.76 1 1 9831 20240519122421
+103.47.133.169 1 7 81449 20240519171339
+64.23.245.52 1 1 3707 20240512180244
+44.227.127.2 1 43 8619225 20240520014110
+158.140.162.205 1 43 8619225 20240507124912
+134.209.183.200 2 2 10601 20240513160412
+34.102.72.56 2 2 121252 20240515072751
+65.154.226.169 2 44 6599894 20240527160939
+134.209.183.190 2 2 13747 20240515013013
+176.53.217.176 1 1 11209 20240512013940
+176.53.222.73 1 1 11209 20240509013657
+162.55.59.25 1 1 6583 20240516131653
+35.89.6.187 0 2 17401 
+66.249.71.99 1 1 4566 20240522015632
+78.47.117.48 1 1 11172 20240529225241
+103.47.133.145 0 19 2098343 
+3.215.200.136 1 1 9501 20240527225420
+167.99.207.201 1 1 8176 20240516023021
+103.193.179.233 1 1 11209 20240523234045
+43.153.210.150 1 1 11172 20240507124000
+103.47.133.140 0 36 8537776 
+23.80.155.238 1 1 11210 20240521180859
+43.130.32.224 1 1 11210 20240518033506
+65.109.141.123 1 1 6221 20240515024642
+64.23.249.118 1 1 7414 20240512113345
+204.217.204.92 1 1 1316 20240517044229
+23.95.218.242 1 1 9832 20240509020640
+206.189.53.12 1 1 11209 20240514092749
+159.223.233.152 3 3 20562 20240513204753
+62.141.44.236 1 1 9831 20240511084931
+199.244.88.224 1 1 9831 20240529151035
+168.151.98.12 1 1 9532 20240508113139
+182.3.45.186 3 89 18769559 20240507144931
+209.38.130.188 1 1 6986 20240515211622
+209.97.151.183 3 3 18028 20240516010141
+18.246.211.251 0 1 30940 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20240507 25 252 39870908 6
+20240508 7 172 30785840 7
+20240509 15 111 24536863 14
+20240510 16 107 16208288 15
+20240511 13 169 31654712 12
+20240512 15 56 518943 15
+20240513 6 7 67766 6
+20240514 12 20 187920 10
+20240515 12 98 20691953 9
+20240516 19 19 143342 18
+20240517 12 16 131514 6
+20240518 3 3 33591 3
+20240519 7 50 8755366 7
+20240520 16 214 33286195 10
+20240521 5 85 12124696 3
+20240522 21 96 12891051 12
+20240523 8 119 20347883 6
+20240524 3 4 108640 3
+20240525 3 3 33628 3
+20240526 4 46 8649854 4
+20240527 7 7 63953 6
+20240528 7 49 8675671 5
+20240529 10 70 10171741 7
+20240530 8 57 6203127 6
+20240531 8 109 16697001 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+5mn-15mn 1
+30s-2mn 5
+15mn-30mn 1
+0s-30s 188
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 35
+/ 145 1938215 125 112
+/login 14 17724 1 1
+/about 11 52356 1 6
+/about_project 8 33702 6 6
+/properti/16/dijual-cepat-kavling-hoek-cluster-west-covina-kota-wisata 7 45968 2 3
+/search/jual 7 63345 6 6
+/properti/15/dijual-rumah-bagus-full-furnished-cluster-florence-kota-wisata-kota-wisata-bogor 6 42201 2 4
+/properti/14/dijual-rumah-semi-furnished-2lt-cluster-visalia-kota-wisata-kota-wisata-bogor 6 41431 4 5
+/berita/read/developer-tawarkan-program-menarik-untuk-dapatkan-hunian-apartemen 5 24833 4 4
+/berita 4 16534 4 4
+/agent/8 1 5391 1 1
+/search2/done 2 10762 2 2
+/properti/7/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm 1 6718 1 1
+/properti/13/dijual-kavling-hoek-cluster-nebraska-kota-wisata-shm 2 14244 2 2
+/search2/in_progress 2 10775 2 2
+/kontak 2 8093 1 2
+/berita/kategori/updates 2 6616 2 2
+/agent/6 2 10057 1 2
+/berita/read/lampu-pintar-mewujudkan-konsep-rumah-pintar-smart-home 3 12613 2 3
+/properti/12/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm-sudah-renov 2 13647 2 2
+/properti/10/rumah-disewakan-di-kota-wisata-1-lt-siap-huni 2 13048 2 2
+/agent/7 2 12452 2 2
+/properti/5/rumah-disewakan-di-legenda-wisata-siap-huni-2-lt 2 13814 2 2
+/admin/dasbor 1 6292 0 0
+/properti/8/rumah-dijual-di-kota-wisata-siap-huni-2nd-boulevard 2 13709 2 2
+/berita/kategori/berita 2 7046 2 2
+/agent/5 1 6778 1 1
+/properti/4/kota-wisata-siap-huni-2-lantai 2 13519 2 2
+/properti/9/rumah-dijual-di-legenda-wisata-2-lt-siap-huni-sudah-renovasi 2 13614 2 2
+/agent/9 1 5404 1 1
+/search/sewa 3 25738 2 2
+/properti/11/di-jual-rumah-di-komplek-graha-jala-yudha-angkatan-laut-al-shm-siap-huni 3 19600 2 3
+/admin/berita 1 7175 0 0
+/properti/6/rumah-diajual-di-citra-indah-siap-huni-sudah-renov 2 13183 2 2
+/berita/read/arkamaya-apartment-hadirkan-hunian-nyaman-untuk-generasi-milenial 4 17043 3 3
+END_SIDER

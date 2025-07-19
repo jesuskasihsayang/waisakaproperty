@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.waisakaproperty.com$ [NC]
+RewriteRule ^(.*)$ http://waisakaproperty.com/awstats/$1 [R=301,L]

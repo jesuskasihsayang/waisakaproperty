@@ -1,0 +1,1505 @@
+AWSTATS DATA FILE 7.9 (build 20230109)
+# If you remove this file, all statistics for date 202504 will be lost/reset.
+# Last config file used to build this data file was /home/waisakap/domains/waisakaproperty.com/awstats/.data/awstats.waisakaproperty.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2150                
+POS_TIME 2833                
+POS_VISITOR 31637               
+POS_DAY 54477               
+POS_DOMAIN 3749                
+POS_LOGIN 3983                
+POS_ROBOT 4138                
+POS_WORMS 5485                
+POS_EMAILSENDER 5616                
+POS_EMAILRECEIVER 5759                
+POS_SESSION 55320               
+POS_FILESIZE 58803               
+POS_SIDER 55521               
+POS_FILETYPES 5894                
+POS_DOWNLOADS 6157                
+POS_OS 6205                
+POS_BROWSER 6562                
+POS_SCREENSIZE 8185                
+POS_UNKNOWNREFERER 8259                
+POS_UNKNOWNREFERERBROWSER 8866                
+POS_ORIGIN 9076                
+POS_SEREFERRALS 9217                
+POS_PAGEREFS 9412                
+POS_SEARCHWORDS 9592                
+POS_KEYWORDS 9744                
+POS_MISC 2495                
+POS_ERRORS 9803                
+POS_CLUSTER 3839                
+POS_SIDER_403 31305               
+POS_SIDER_404 10051               
+POS_SIDER_400 9969                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250501002010 104 24619 8153650569842
+FirstTime 20250401003356
+LastTime 20250430234825
+LastUpdate 20250501065457 104 0 103 0 0
+TotalVisits 962                 
+TotalUnique 526                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 607                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 846 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 29 80 14513152 73 162 8862803
+1 29 79 10179742 51 131 6943885
+2 33 108 14173787 93 143 4761740
+3 47 49 764293 56 125 3820853
+4 55 100 9442980 260 550 2948266
+5 48 50 3840261 68 212 8641539
+6 51 52 489423 84 188 10925005
+7 63 112 12486995 52 117 4681491
+8 44 49 9265086 60 120 6255826
+9 56 104 12575673 87 181 5895903
+10 37 73 7274453 87 154 3460309
+11 31 84 9616050 252 598 7693312
+12 27 31 809209 67 439 14007149
+13 36 44 3964492 61 136 5482430
+14 74 82 4054314 161 340 28737007
+15 78 300 53118941 75 157 17684153
+16 52 173 33307087 61 102 10875558
+17 60 328 44677989 61 187 2539099
+18 67 178 26158433 69 129 9394405
+19 28 96 15615220 69 118 8508372
+20 38 234 36551993 537 601 4161200
+21 46 135 17758380 52 147 7004985
+22 40 43 729008 266 608 5468040
+23 51 213 18831902 53 157 12535125
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1120 2797 360198863
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 31
+Googlebot/ 569 5310925 20250430185346 40
+SemrushBot/ 274 1200661 20250430182258 130
+bot[\s_+:,\.\;\/\\-] 262 9616291 20250430101517 81
+Bytespider 260 28114046 20250430125852 7
+feed 251 1026450 20250429092757 0
+python 234 73796648 20250430224739 1
+DotBot/ 214 3190244 20250429150246 115
+bingbot/ 137 2865913 20250430230522 22
+AhrefsBot/ 132 924934 20250430152243 26
+facebookexternalhit/ 63 3324973 20250430165027 45
+archive\.org_bot 1 11384 20250405061135 0
+(firefox/)([0-9]\.|[0-1][0]\.) 6 36554 20250425061912 1
+YandexBot/ 2 11927 20250430224829 1
+Googlebot\-Image/ 34 23895714 20250429150050 0
+dataprovider\.com 53 5671887 20250416141815 1
+MSIE[\x20]6 2 22840 20250412043637 0
+Barkrowler 43 310697 20250428162150 2
+scrapy 2 22840 20250423103041 0
+nbot 1 469 20250410022922 1
+crawl 29 188092 20250420064523 4
+netcraft 1 61594 20250407234123 0
+Applebot/ 52 521678 20250424052733 5
+java 1 1316 20250420044614 0
+Go\-http\-client/ 16 65972 20250426212624 9
+ips\-agent 12 66942 20250416100040 3
+curl 8 245620 20250412035436 0
+[\s_+:,\.\;\/\\-]bot 3 16696 20250414094908 0
+unknown 14 6936 20250424124954 14
+facebook 17 647863 20250428003022 0
+domainchecker 1 0 20250423102626 0
+no_user_agent 11 431741 20250430171550 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+jpeg 108 22611718 0 0
+php 465 6249410 0 0
+map 1 192586 0 0
+css 340 2970459 0 0
+woff2 133 9201124 0 0
+js 425 4696851 0 0
+jpg 465 56823725 0 0
+md 1 0 0 0
+Unknown 653 4978330 0 0
+png 206 252474660 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx9 1 1
+linux 288 15
+win8 2 2
+win11 2 2
+androidlollipop 1 1
+win7 97 12
+android10 287 26
+android 2 0
+androidoreo 1 0
+bsdopenbsd 1 1
+androidnougat 1 1
+win10 726 173
+winlong 1 1
+unix 1 1
+linuxubuntu 12 8
+macosx12 2 0
+ios_iphone 1245 775
+macosx 1 0
+macosx10 1 0
+Unknown 74 51
+macosx15 51 50
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 76
+chrome103.0.0.0 1 1
+chrome115.0.0.0 2 2
+firefox54.0 1 1
+firefox124.0 1 1
+firefox110.0 2 2
+chrome91.0.4472.114 4 4
+chrome134.0.6998.165 1 0
+firefox114.0 1 1
+chrome88.0.4240.193 2 2
+chrome124.0.0.0 11 11
+chrome94.0.4606.61 17 17
+chrome84.0.4147.105 1 1
+netscape5.0 8 8
+safari13.0.3 742 742
+chrome125.0.0.0 49 2
+chrome132.0.0.0 52 9
+chrome135.0.0.0 279 27
+chrome58.0.3029.110 3 3
+chrome127.0.6533.119 1 0
+firefox136.0 1 1
+chrome39.0.2171.95 1 0
+chrome129.0.0.0 2 2
+chrome61.0.3163.91 1 1
+safari17.0 8 1
+chrome125.0.6422.60 137 3
+chrome121.0.0.0 11 0
+safari17.1.2 2 2
+chrome97.0.4280.67 1 1
+firefox130.0 3 3
+chrome80.0.3987.162 1 1
+safari15.4 86 2
+chrome131.0.0.0 3 3
+chrome134.0.6998.135 1 0
+chrome133.0.0.0 64 38
+chrome122.0.6261.64 1 0
+firefox123.0 4 0
+firefox72.0 4 0
+chrome108.0.0.0 2 2
+chrome79.0.3945.79 215 5
+chrome73.0.3683.90 1 1
+safari 72 21
+chrome104.0.0.0 14 14
+chrome109.0.0.0 21 0
+safari17.5 47 1
+chrome66.0.3359.181 4 4
+chrome130.0.0.0 1 1
+chrome83.0.4103.61 91 6
+firefox29.0 1 1
+chrome106.0.0.0 1 1
+firefox83.0 1 1
+chrome60.0.3112.107 1 1
+chrome105.0.0.0 10 6
+chrome26.0.1384.2 2 2
+safari18.3.1 51 1
+chrome131.0.6778.205 2 2
+opera94.0.0.0 1 1
+chrome79.0.3945.130 21 21
+chrome122.0.0.0 12 6
+firefox28.0 1 1
+msie9.0 1 1
+chrome135.0.7049.37 1 0
+safari10.0 239 5
+chrome134.0.0.0 56 11
+chrome74.0.3729.169 5 5
+chrome66.0.3359.117 3 3
+safari17.3.1 1 1
+chrome91.0.4472.124 3 3
+chrome114.0.0.0 58 39
+chrome81.0.4044.92 39 1
+firefox24.0 3 3
+chrome113.0.5672.93 1 1
+chrome117.0.5938.132 171 5
+Unknown 14 13
+chrome72.0.3626.121 63 2
+chrome78.0.3904.62 4 4
+mozilla 54 32
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+quic-go-HTTP/3 20250404100448
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250402092729
+cpp-httplib/0.15.3 20250416162703
+ALittle_Client 20250429104918
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250421005741
+WhatsApp/2.23.20.0 20250407170729
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250403094543
+Mozilla/5.0_(compatible) 20250429150334
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20250425091216
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+quic-go-HTTP/3 20250404100448
+ALittle_Client 20250429104918
+WhatsApp/2.23.20.0 20250407170729
+cpp-httplib/0.15.3 20250416162703
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 719 842
+From1 0 0
+From2 17 23
+From3 1 1
+From4 383 1931
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_bing_com 0 1
+yandexru 1 1
+www_google_com 16 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://waisaitei-larosa.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 1198 1264875
+500 159 35565546
+403 7 11232
+404 774 2008721
+302 112 159936
+405 1 195215
+END_ERRORS
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 384
+/OLD-UP-ova.php 1 http://waisakaproperty.com/OLD-UP-ova.php
+/wp-content/plugins/about.php 1 -
+/wp-content/plugins/core-plugin/include.php 1 http://waisakaproperty.com/wp-content/plugins/core-plugin/include.php
+/modules/mod_simplefileuploadv1.3/elements/Clean.php 1 http://waisakaproperty.com/modules/mod_simplefileuploadv1.3/elements/Clean.php
+/wordpress 1 https://waisakaproperty.com/wordpress/
+/kontak 1 -
+/assets/library.php 1 http://waisakaproperty.com/assets/library.php
+/search/jual 5 -
+/nqw80 6 -
+/403.php 1 http://waisakaproperty.com/403.php
+/wp-l0gin.php 1 http://waisakaproperty.com/wp-l0gin.php
+/randkeyword.PhP7 1 http://waisakaproperty.com/randkeyword.PhP7
+/administrator/templates/isis/index.php 1 http://waisakaproperty.com/administrator/templates/isis/index.php
+/cabinet 6 -
+/properti/10/rumah-disewakan-di-kota-wisata-1-lt-siap-huni 1 -
+/q1gpDhK4 6 -
+/wp-includes/Text/about.php 1 http://waisakaproperty.com/wp-includes/Text/about.php
+/wp-includes/css/index.php 1 http://waisakaproperty.com/wp-includes/css/index.php
+//xmlrpc.php 1 -
+/cgi-sys/defaultwebpage.cgi 2 http://103.163.138.121:80/cgi-sys/defaultwebpage.cgi
+/wp-admin/css/colors/coffee/index.php 1 http://waisakaproperty.com/wp-admin/css/colors/coffee/index.php
+/3vt4yTCT 6 -
+/content.php 1 http://waisakaproperty.com/content.php
+/files 2 binance.com
+/plugin.php 1 http://waisakaproperty.com/plugin.php
+/templates/protostar/index.php 1 http://waisakaproperty.com/templates/protostar/index.php
+/.well-known 3 https://waisakaproperty.com/.well-known/
+/28kxhS 6 -
+/jp.php 1 http://waisakaproperty.com/jp.php
+/assets/aws/js/popper.min.js.map 1 -
+/wp-admin/user/index.php 1 http://waisakaproperty.com/wp-admin/user/index.php
+/chosen.php 1 http://waisakaproperty.com/chosen.php
+/ioxi002.PhP7 1 http://waisakaproperty.com/ioxi002.PhP7
+/cgi-bin/wp-login.php 1 http://waisakaproperty.com/cgi-bin/wp-login.php
+/wp-admin/images/admin.php 1 http://waisakaproperty.com/wp-admin/images/admin.php
+/uploads 2 binance.com
+/BNp8hDTk 6 -
+/upgrade.php 1 http://waisakaproperty.com/upgrade.php
+/wp-includes/rest-api/about.php 1 http://waisakaproperty.com/wp-includes/rest-api/about.php
+/byp.php 1 http://waisakaproperty.com/byp.php
+/wp-content/plugins/fix/up.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/lander/testsberv4-copy--1 6 -
+/YRWnWHy7 6 -
+/zMmL28CN 6 -
+/Njima.php 1 http://waisakaproperty.com/Njima.php
+/wp-includes/item.php 1 http://waisakaproperty.com/wp-includes/item.php
+/ws.php 1 http://waisakaproperty.com/ws.php
+/nfvX2mRq 6 -
+/wp-includes/ID3/index.php 1 http://waisakaproperty.com/wp-includes/ID3/index.php
+/properti/18/rumah-kota-wisata-hoek-mewah-depan-taman 1 -
+/properti/6/rumah-diajual-di-citra-indah-siap-huni-sudah-renov 2 -
+/wp-content/themes/seotheme/db.php 1 http://waisakaproperty.com/wp-content/themes/seotheme/db.php
+/wp-content/cong.php 1 http://waisakaproperty.com/wp-content/cong.php
+/wp-admin/js/about.php 1 http://waisakaproperty.com/wp-admin/js/about.php
+/4gpzSvhY 6 -
+/tiny.php 1 http://waisakaproperty.com/tiny.php
+/download 1 -
+/sberbank-quiz-v2 6 -
+/fm.php 1 http://waisakaproperty.com/fm.php
+/xl2023.php 1 http://waisakaproperty.com/xl2023.php
+/mah.php 1 http://waisakaproperty.com/mah.php
+/ticket/vendor/htmlawed/htmlawed/gel4y.php 1 http://waisakaproperty.com/ticket/vendor/htmlawed/htmlawed/gel4y.php
+/BSDLw5Mp 6 -
+/wp-admin/maint/index.php 1 http://waisakaproperty.com/wp-admin/maint/index.php
+/berita/read/kota-wisata-jadi-satu-satunya-perumahan-dengan-gerbang-tol-langsung-di-cibubur 1 -
+/6bXX29bt 6 -
+/small.php 1 http://waisakaproperty.com/small.php
+/yZdx79 6 -
+/administrator/templates/isis/error.php 1 http://waisakaproperty.com/administrator/templates/isis/error.php
+/wp-content/themes/sketch/404.php 1 http://waisakaproperty.com/wp-content/themes/sketch/404.php
+/w.php 1 http://waisakaproperty.com/w.php
+/404.php 1 http://waisakaproperty.com/404.php
+/properti/7/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm 1 -
+/3m/wp-admin/css/colors/blue 1 https://waisakaproperty.com/3m/wp-admin/css/colors/blue/
+/admin.php 2 http://waisakaproperty.com/admin.php
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 http://waisakaproperty.com/modules/mod_simplefileuploadv1.3/elements/udd.php
+/elp.php 1 http://waisakaproperty.com/elp.php
+/SyhZkyvD 6 -
+/css.php 1 http://waisakaproperty.com/css.php
+/login.php 1 http://waisakaproperty.com/login.php
+//sito/wp-includes/wlwmanifest.xml 1 -
+/radio.php 1 http://waisakaproperty.com/radio.php
+/dropdown.php 1 http://waisakaproperty.com/dropdown.php
+/lander/sber-fix 6 -
+/assets/upload/property/img-20221112-wa0031-1681831321.jpg 1 -
+/administrator/templates/hathor/index.php 1 http://waisakaproperty.com/administrator/templates/hathor/index.php
+/sites/default/files 2 binance.com
+/wp-includes/fonts/about.php 1 http://waisakaproperty.com/wp-includes/fonts/about.php
+/KLFzmbdm 6 -
+/ini.php 1 http://waisakaproperty.com/ini.php
+/hehehehe.php 1 http://waisakaproperty.com/hehehehe.php
+/wp-content/themes/homey/css/main.css 1 -
+/h.php 1 http://waisakaproperty.com/h.php
+/wp-content/plugins/HelloDollyV2/hello_dolly_v2.php 1 -
+/wp-content/classwithtostring.php 1 http://waisakaproperty.com/wp-content/classwithtostring.php
+//site/wp-includes/wlwmanifest.xml 1 -
+/alfa.php 1 http://waisakaproperty.com/alfa.php
+/n5cw4Z3Y 6 -
+/wp-admin/admin.php 1 http://waisakaproperty.com/wp-admin/admin.php
+/link.php 1 http://waisakaproperty.com/link.php
+/wp-content/uploads/about.php 1 http://waisakaproperty.com/wp-content/uploads/about.php
+/templates/beez3/error.php 1 http://waisakaproperty.com/templates/beez3/error.php
+/wp-content/languages/index.php 1 http://waisakaproperty.com/wp-content/languages/index.php
+/plugins.php 1 http://waisakaproperty.com/plugins.php
+/wp-includes/customize/index.php 1 http://waisakaproperty.com/wp-includes/customize/index.php
+/wp-includes/wp-class.php 1 http://waisakaproperty.com/wp-includes/wp-class.php
+/504.php 1 http://waisakaproperty.com/504.php
+/berita/kategori/berita 1 -
+/.well-known/pki-validation/index.php 1 http://waisakaproperty.com/.well-known/pki-validation/index.php
+/GJcjXsGY 6 -
+/wp-includes/admin.php 1 http://waisakaproperty.com/wp-includes/admin.php
+/83036323 6 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/sitemap_index.xml 2 -
+/b.php 1 http://waisakaproperty.com/b.php
+/3ds.php 8 -
+/wp-includes/wp-login.php 1 http://waisakaproperty.com/wp-includes/wp-login.php
+/templates/beez_20/index.php 1 http://waisakaproperty.com/templates/beez_20/index.php
+/defaul.php 1 http://waisakaproperty.com/defaul.php
+/ova.php 1 http://waisakaproperty.com/ova.php
+/wp-includes/customize/about.php 1 http://waisakaproperty.com/wp-includes/customize/about.php
+/moon.php 1 http://waisakaproperty.com/moon.php
+/dwztdbhG 6 -
+/user.php 1 http://waisakaproperty.com/user.php
+/assets/upload/property/img-20211109-174230-1-1681833546.jpg 1 -
+/wp-includes/product.php 1 http://waisakaproperty.com/wp-includes/product.php
+/lander/sber 6 -
+/wp-includes/Text/wp-login.php 1 http://waisakaproperty.com/wp-includes/Text/wp-login.php
+/.well-known/security.txt 1 -
+/wp-header.php 1 http://waisakaproperty.com/wp-header.php
+/wp-content/mah.php 1 http://waisakaproperty.com/wp-content/mah.php
+/sberbank-quiz-4 6 -
+/sitemap.xml 8 -
+/wp-conflg.php 1 http://waisakaproperty.com/wp-conflg.php
+/wp-content/themes.php 1 http://waisakaproperty.com/wp-content/themes.php
+/sKmcMfjD 6 -
+/baxa1.phP8 1 http://waisakaproperty.com/baxa1.phP8
+/search/agent9 1 -
+/wp-includes/js/jquery/jquery.js 1 http://waisakaproperty.com/wp-includes/js/jquery/jquery.js
+/.env 1 -
+//website/wp-includes/wlwmanifest.xml 1 -
+/5jshCV 6 -
+/xt/index.php 1 http://waisakaproperty.com/xt/index.php
+/x/index.php 1 http://waisakaproperty.com/x/index.php
+/wp-admin/images/about.php 1 http://waisakaproperty.com/wp-admin/images/about.php
+//wp/wp-includes/wlwmanifest.xml 1 -
+/properti/15/dijual-rumah-bagus-full-furnished-cluster-florence-kota-wisata-kota-wisata-bogor 2 -
+/properti/17/rumah-kota-wisata-mewah-shm-siap-huni 1 -
+/.tmb/wp-login.php 1 http://waisakaproperty.com/.tmb/wp-login.php
+/search2/done 2 -
+/.well-known/acme-challenge/about.php 1 http://waisakaproperty.com/.well-known/acme-challenge/about.php
+/.well-known/about.php 1 http://waisakaproperty.com/.well-known/about.php
+/search/agent7 1 -
+/agent/5 2 -
+/data.php 1 http://waisakaproperty.com/data.php
+/wp-admin/css/colors/HsFPDcD.php 1 http://waisakaproperty.com/wp-admin/css/colors/HsFPDcD.php
+/humans.txt 1 -
+/templates/protostar/error.php 1 http://waisakaproperty.com/templates/protostar/error.php
+/zxDLJZ 6 -
+/vendor/bin/loader.php 1 http://waisakaproperty.com/vendor/bin/loader.php
+/1.php 1 http://waisakaproperty.com/1.php
+/agent/9 1 -
+/lock.php 1 http://waisakaproperty.com/lock.php
+/n6PdMqLz 6 -
+/wp-includes/rest-api/index.php 1 http://waisakaproperty.com/wp-includes/rest-api/index.php
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/lander/sberchat5v4_tds_newcrm_038-vnutr_1721815245/index.php 6 -
+/prVdNCXD 6 -
+/properti/4/kota-wisata-siap-huni-2-lantai 1 -
+/wp-admin/wp-login.php 1 http://waisakaproperty.com/wp-admin/wp-login.php
+/properti/12/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm-sudah-renov 2 -
+/wp-content/plugins/ubh/up.php 1 http://waisakaproperty.com/wp-content/plugins/ubh/up.php
+/assets/upload/image/thumbs/berita-2-1681572605.jpg 1 -
+/randkeyword.php 1 http://waisakaproperty.com/randkeyword.php
+/about/function.php 1 http://waisakaproperty.com/about/function.php
+/wp-content/themes/include.php 1 http://waisakaproperty.com/wp-content/themes/include.php
+/function.php 1 http://waisakaproperty.com/function.php
+/wp-includes/js/index.php 1 http://waisakaproperty.com/wp-includes/js/index.php
+//news/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/mah.php 1 http://waisakaproperty.com/wp-includes/mah.php
+/bk/index.php 1 http://waisakaproperty.com/bk/index.php
+/.well-known/pki-validation/moon.php 1 http://waisakaproperty.com/.well-known/pki-validation/moon.php
+//2019/wp-includes/wlwmanifest.xml 1 -
+/search/agent6 1 -
+/xmlrpc.php 1 http://waisakaproperty.com/xmlrpc.php
+/templates/atomic/error.php 1 http://waisakaproperty.com/templates/atomic/error.php
+/autoload_classmap.php 1 http://waisakaproperty.com/autoload_classmap.php
+/fpyB8SZ3 6 -
+/media/system/js/core.js 1 http://waisakaproperty.com/media/system/js/core.js
+/wp-includes/SimplePie/about.php 1 http://waisakaproperty.com/wp-includes/SimplePie/about.php
+/x.php 1 http://waisakaproperty.com/x.php
+/wp-admin/css 2 binance.com
+/wso.php 1 http://waisakaproperty.com/wso.php
+/login/forgot 6 -
+/SrBkPK64 6 -
+/css/index.php 1 http://waisakaproperty.com/css/index.php
+/wp-content/plugins/hello.php 1 http://waisakaproperty.com/wp-content/plugins/hello.php
+/wp-content/content.php 1 http://waisakaproperty.com/wp-content/content.php
+/editor.php 1 http://waisakaproperty.com/editor.php
+/bypass.php 1 http://waisakaproperty.com/bypass.php
+/as.php 1 http://waisakaproperty.com/as.php
+/test.php 1 http://waisakaproperty.com/test.php
+/wp-content/themes/twentyfive/include.php 1 http://waisakaproperty.com/wp-content/themes/twentyfive/include.php
+/index/function.php 1 http://waisakaproperty.com/index/function.php
+/llms.txt 2 -
+/Kd67Fq1x 6 -
+/262LBNFp 6 -
+/assets/upload/image/waisaka-1680919289.png 1 -
+/ova-tools.php 1 http://waisakaproperty.com/ova-tools.php
+/images 2 binance.com
+//wp2/wp-includes/wlwmanifest.xml 1 -
+/templates/beez5/index.php 1 http://waisakaproperty.com/templates/beez5/index.php
+/wp-admin/classwithtostring.php 1 http://waisakaproperty.com/wp-admin/classwithtostring.php
+/wp-content/plugins/revslider/includes/external/page/index.php 1 http://waisakaproperty.com/wp-content/plugins/revslider/includes/external/page/index.php
+/filemanager.php 1 -
+/about.php 2 http://waisakaproperty.com/about.php
+/wp-admin/about.php 1 http://waisakaproperty.com/wp-admin/about.php
+/.well-known/acme-challenge/upfile.php 1 http://waisakaproperty.com/.well-known/acme-challenge/upfile.php
+/.well-known/acme-challenge/index.php 1 http://waisakaproperty.com/.well-known/acme-challenge/index.php
+/wp-admin/css/about.php 1 http://waisakaproperty.com/wp-admin/css/about.php
+/class.php 1 http://waisakaproperty.com/class.php
+/admin/controller/extension/extension 2 binance.com
+/YWy6BPtM 6 -
+/wp-includes/pomo/wp-login.php 1 http://waisakaproperty.com/wp-includes/pomo/wp-login.php
+/wp-content/index.php 1 http://waisakaproperty.com/wp-content/index.php
+/text.php 1 http://waisakaproperty.com/text.php
+/templates/beez_20/error.php 1 http://waisakaproperty.com/templates/beez_20/error.php
+/inc.php 1 http://waisakaproperty.com/inc.php
+/kXMGtQpC 6 -
+/wp-content/ThreeFox_Exploit/index.php 1 http://waisakaproperty.com/wp-content/ThreeFox_Exploit/index.php
+/m.php 1 http://waisakaproperty.com/m.php
+/wp-includes/fonts/wp-login.php 1 http://waisakaproperty.com/wp-includes/fonts/wp-login.php
+/vNyFhhL5 6 -
+/wp.php 2 http://waisakaproperty.com/wp.php
+/sitemap.txt 2 -
+/lander/sberchat5v4_tds_newcrm_017-ec_register-_1732091122/index.php 6 -
+/wp-signup.php 1 http://waisakaproperty.com/wp-signup.php
+/cong.php 1 http://waisakaproperty.com/cong.php
+/merchant/code 8 -
+/CMdTKBx3 6 -
+/qJYNKtCd 6 -
+/wp-content/shell.php 1 http://waisakaproperty.com/wp-content/shell.php
+/worksec.php 1 http://waisakaproperty.com/worksec.php
+/berita/read/gerbang-tol-cbd-hingga-mall-tingkatkan-nilai-properti-di-kota-wisata-cibubur 1 -
+/templates/atomic/index.php 1 http://waisakaproperty.com/templates/atomic/index.php
+/wp-content/plugins/instant-appointment/assets/css/bootstrap-icons.min.css 1 -
+/xx.php 1 http://waisakaproperty.com/xx.php
+/wp-includes/widgets/include.php 1 http://waisakaproperty.com/wp-includes/widgets/include.php
+/simple.php 1 http://waisakaproperty.com/simple.php
+/back.php 1 http://waisakaproperty.com/back.php
+/p3y69 6 -
+/5fH7sTTJ 6 -
+/apps/admin/view/default/layui/images/face/11.gif 1 http://waisakaproperty.com/apps/admin/view/default/layui/images/face/11.gif
+/wp-content/themes/hideo/network.php 1 http://waisakaproperty.com/wp-content/themes/hideo/network.php
+/sitemap 3 -
+/web.php 1 http://waisakaproperty.com/web.php
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/lander/sberchat5v4_tds_newcrm_017-ec_register-_1730370309/index.php 6 -
+//wp-includes/wlwmanifest.xml 1 -
+/CtdJ76V 6 -
+/edit.php 1 http://waisakaproperty.com/edit.php
+/goods.php 1 http://waisakaproperty.com/goods.php
+/search/agent14 1 -
+/wp-add.php 1 http://waisakaproperty.com/wp-add.php
+/c.php 1 http://waisakaproperty.com/c.php
+/wp-content/upgrade/about.php 1 http://waisakaproperty.com/wp-content/upgrade/about.php
+/1337.php 1 http://waisakaproperty.com/1337.php
+/wp-admin/dropdown.php 1 http://waisakaproperty.com/wp-admin/dropdown.php
+/merchant/z/payment 8 -
+/gpLFR5sr 6 -
+/wp-content/themes/digital-download/new.php 1 http://waisakaproperty.com/wp-content/themes/digital-download/new.php
+/wp-content/about.php 1 http://waisakaproperty.com/wp-content/about.php
+/wp-content/plugins/WordPressCore/index.php 1 http://waisakaproperty.com/wp-content/plugins/WordPressCore/index.php
+/wp-includes/sitemaps/about.php 1 http://waisakaproperty.com/wp-includes/sitemaps/about.php
+/new.php 1 http://waisakaproperty.com/new.php
+/3ds1633693954432212 8 -
+/ads.txt 4 http://waisakaproperty.com/ads.txt
+/wp-admin/css/colors/index.php 1 http://waisakaproperty.com/wp-admin/css/colors/index.php
+/s.php 1 http://waisakaproperty.com/s.php
+/templates/beez5/error.php 1 http://waisakaproperty.com/templates/beez5/error.php
+/xv2qwZ3s 6 -
+/xml.php 1 http://waisakaproperty.com/xml.php
+/wp-content/themes/seotheme/mar.php 1 http://waisakaproperty.com/wp-content/themes/seotheme/mar.php
+/wp-info.php 1 http://waisakaproperty.com/wp-info.php
+/wp-mail.php 1 http://waisakaproperty.com/wp-mail.php
+/doc.php 1 http://waisakaproperty.com/doc.php
+/search2/in_progress 1 -
+/assets/upload/property/f1-1692071321.jpg 1 -
+/wp-content/plugins/WordPressCore/include.php 1 http://waisakaproperty.com/wp-content/plugins/WordPressCore/include.php
+/wp-content/item.php 1 http://waisakaproperty.com/wp-content/item.php
+/mini.php 1 http://waisakaproperty.com/mini.php
+/classwithtostring.php 1 http://waisakaproperty.com/classwithtostring.php
+/style.php 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/images/index.php 1 http://waisakaproperty.com/wp-admin/images/index.php
+/j26HRfdD 6 -
+/agent/7 2 -
+/wp-admin/network/about.php 1 http://waisakaproperty.com/wp-admin/network/about.php
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/pridmag/db.php 1 http://waisakaproperty.com/wp-content/themes/pridmag/db.php
+/.well-known/pki-validation/about.php 1 http://waisakaproperty.com/.well-known/pki-validation/about.php
+/wp-admin/css/colors/about.php 1 http://waisakaproperty.com/wp-admin/css/colors/about.php
+/wp-admin/css/index.php 1 http://waisakaproperty.com/wp-admin/css/index.php
+/wp-aa.php 1 -
+/sbr 6 -
+/wp-content/admin.php 1 http://waisakaproperty.com/wp-content/admin.php
+/uploaded_script.php 3 www.google.com
+/en/index.php 1 http://waisakaproperty.com/en/index.php
+/wp-includes/link.php 1 http://waisakaproperty.com/wp-includes/link.php
+/n4TWwtZ4 6 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/wp-admin.php 1 http://waisakaproperty.com/wp-admin.php
+/README.md 1 http://waisakaproperty.com/README.md
+/9XgxmrM3 6 -
+/wp-content/uploads/index.php 1 http://waisakaproperty.com/wp-content/uploads/index.php
+/wp-content/plugins/index.php 1 http://waisakaproperty.com/wp-content/plugins/index.php
+/9hs69 6 -
+/wp-includes/images/wp-login.php 1 http://waisakaproperty.com/wp-includes/images/wp-login.php
+/wp-login.php 6 -
+/blog/index.php 1 http://waisakaproperty.com/blog/index.php
+/alfa-rex.php 1 http://waisakaproperty.com/alfa-rex.php
+/wp-content/json.php 1 http://waisakaproperty.com/wp-content/json.php
+/wp-content/tmpls.php 1 http://waisakaproperty.com/wp-content/tmpls.php
+/themes.php 1 http://waisakaproperty.com/themes.php
+/search/agent5 1 -
+/ckeditor/ckfinder/core/connector/php/connector.php 1 -
+/wp-content/plugins/security-malware-firewall/readme.txt 1 -
+/wp-admin/css/colors/blue 1 https://waisakaproperty.com/wp-admin/css/colors/blue/
+/templates/beez/index.php 2 http://waisakaproperty.com/templates/beez/index.php
+/a.php 1 http://waisakaproperty.com/a.php
+/wp-admin/network/admin.php 1 http://waisakaproperty.com/wp-admin/network/admin.php
+/wp-includes/room.php 1 http://waisakaproperty.com/wp-includes/room.php
+/wp-admin/network/index.php 1 http://waisakaproperty.com/wp-admin/network/index.php
+/wp-links.php 1 http://waisakaproperty.com/wp-links.php
+/wp-includes/assets/index.php 1 http://waisakaproperty.com/wp-includes/assets/index.php
+/class.api.php 1 http://waisakaproperty.com/class.api.php
+/templates/beez3/jsstrings.php 1 http://waisakaproperty.com/templates/beez3/jsstrings.php
+/home.php 1 http://waisakaproperty.com/home.php
+/setup-config.php 1 -
+/jindex.php 1 http://waisakaproperty.com/jindex.php
+/wp-includes/fonts/index.php 1 http://waisakaproperty.com/wp-includes/fonts/index.php
+/defaults.php 1 http://waisakaproperty.com/defaults.php
+/berita 2 -
+/lufix.php 1 http://waisakaproperty.com/lufix.php
+//test/wp-includes/wlwmanifest.xml 1 -
+/properti/8/rumah-dijual-di-kota-wisata-siap-huni-2nd-boulevard 2 -
+/properti/5/rumah-disewakan-di-legenda-wisata-siap-huni-2-lt 1 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 http://waisakaproperty.com/wp-content/plugins/dummyyummy/wp-signup.php
+/9LBgkTzq 6 -
+/sad/about.php 1 http://waisakaproperty.com/sad/about.php
+/wp-admin/js/index.php 1 http://waisakaproperty.com/wp-admin/js/index.php
+/wp-content/languages/wp-login.php 1 http://waisakaproperty.com/wp-content/languages/wp-login.php
+/security.txt 1 -
+/mQ2bDkV4 6 -
+/lander/sberquiz-2223-3 6 -
+/customize.php 1 http://waisakaproperty.com/customize.php
+/install.php 1 http://waisakaproperty.com/install.php
+/menu.php 1 http://waisakaproperty.com/menu.php
+/properti/11/di-jual-rumah-di-komplek-graha-jala-yudha-angkatan-laut-al-shm-siap-huni 1 -
+/version.php 1 http://waisakaproperty.com/version.php
+/wp-config-sample.php 1 http://waisakaproperty.com/wp-config-sample.php
+/lander/sberchat5v4_tds_newcrm_028-vnutr/index.php 6 -
+/sFRWyHsz 6 -
+/tink_chat 6 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/atomlib.php 2 http://waisakaproperty.com/atomlib.php
+/wp-admin/maint/upfile.php 1 http://waisakaproperty.com/wp-admin/maint/upfile.php
+/.well-known/traffic-advice 5 -
+/NWJs6k27 6 -
+/wp-content/plugins/pwnd/pwnd.php 1 http://waisakaproperty.com/wp-content/plugins/pwnd/pwnd.php
+/sitemap.xml.gz 1 -
+/wp-includes/SimplePie/index.php 1 http://waisakaproperty.com/wp-includes/SimplePie/index.php
+/wp-content/plugins/ioxi/alfa-ioxi.php 1 http://waisakaproperty.com/wp-content/plugins/ioxi/alfa-ioxi.php
+/administrator/templates/bluestork/error.php 1 http://waisakaproperty.com/administrator/templates/bluestork/error.php
+/wp-includes/ID3/about.php 1 http://waisakaproperty.com/wp-includes/ID3/about.php
+/file.php 2 http://waisakaproperty.com/file.php
+/robots.txt 10 -
+/administrator/templates/hathor/error.php 1 http://waisakaproperty.com/administrator/templates/hathor/error.php
+/properti/9/rumah-dijual-di-legenda-wisata-2-lt-siap-huni-sudah-renovasi 1 -
+/wp-admin/network/wp-login.php 1 http://waisakaproperty.com/wp-admin/network/wp-login.php
+/shell.php 1 http://waisakaproperty.com/shell.php
+/sberchat008-prilca 6 -
+/log.php 1 http://waisakaproperty.com/log.php
+END_SIDER_404
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 2
+/.git/config 2 -
+/ 5 -
+END_SIDER_403
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 607
+91.242.228.206 32 32 190607 20250412183623
+69.160.160.57 22 60 5294338 20250419153152
+204.137.14.68 20 20 607728 20250423142659
+158.140.175.130 10 126 29075179 20250407165653
+43.130.3.120 9 9 72242 20250429215540
+43.153.71.12 8 8 55990 20250427235117
+181.214.58.118 8 8 198486 20250413211420
+43.157.150.69 6 6 56652 20250428001028
+170.106.11.6 6 6 53049 20250429121240
+170.106.73.216 6 6 50914 20250430154908
+3.84.119.191 2 2 16786 20250407204319
+122.51.104.231 1 1 11421 20250427035546
+83.229.83.32 1 1 11419 20250416043909
+113.141.91.58 3 3 34263 20250413090922
+44.246.134.207 2 2 22838 20250411222929
+43.166.128.187 3 3 12745 20250424012942
+68.183.228.202 0 1 39290 
+43.165.69.68 2 2 22840 20250425021527
+185.26.122.73 1 1 1316 20250430054304
+43.135.134.127 2 2 16443 20250429065519
+128.199.62.94 1 1 11382 20250401042318
+165.22.61.53 0 3 424498 
+43.167.239.66 3 3 19763 20250429131114
+54.254.9.75 0 1 74547 
+43.166.136.24 4 4 31567 20250425045525
+42.83.147.55 2 2 22838 20250426154312
+43.156.156.96 4 4 35397 20250429231436
+122.248.240.221 0 1 89886 
+170.106.163.84 2 2 16340 20250420053950
+43.157.188.74 2 2 15802 20250411174059
+182.44.67.97 2 2 22840 20250409182328
+72.14.201.144 2 2 11505 20250417101758
+209.38.151.130 1 2 3141310 20250403085654
+158.140.175.153 0 1 65901 
+43.135.172.89 3 3 31340 20250426123512
+185.247.137.226 0 1 180197 
+94.159.108.209 1 1 0 20250425085831
+176.53.221.229 1 1 11419 20250409083633
+91.123.10.142 1 1 11419 20250423082355
+43.133.220.37 2 2 20157 20250420043712
+125.75.66.97 2 2 22840 20250413184832
+158.140.175.188 1 19 1941453 20250414040747
+35.229.124.184 1 1 10040 20250418030434
+43.130.78.203 1 1 6376 20250414021425
+43.166.240.231 5 5 39770 20250427053920
+47.79.7.230 0 1 10464 
+43.153.85.46 5 5 36599 20250429213632
+192.36.119.194 1 1 11382 20250416123838
+51.20.64.153 1 1 506 20250402092723
+176.53.222.125 1 1 11419 20250412124251
+159.65.219.252 0 1 3457357 
+185.31.202.247 1 1 4488 20250414063839
+152.42.243.138 0 2 205820 
+43.157.147.3 2 2 19623 20250425043614
+88.210.10.79 2 2 19850 20250404144925
+43.166.244.251 3 3 27745 20250419164935
+170.106.113.159 2 2 11901 20250427054503
+43.166.129.247 4 4 24667 20250427062953
+158.140.175.145 0 25 6942795 
+43.159.149.56 1 1 9573 20250423112406
+170.106.160.90 1 1 11419 20250412173455
+78.47.43.211 1 1 11382 20250425152922
+42.83.147.54 1 1 11419 20250428073756
+43.135.145.77 1 1 8217 20250415031323
+185.21.13.119 2 2 19850 20250410140846
+43.153.47.240 1 43 5426891 20250407230748
+49.51.178.45 2 2 17301 20250424144641
+158.140.175.144 1 44 8884248 20250423155830
+47.82.9.21 0 1 11790 
+14.233.204.146 2 2 14212 20250403125737
+124.226.222.66 3 3 34259 20250425142213
+5.135.58.200 1 1 0 20250405145425
+170.106.82.209 3 3 25539 20250429073052
+104.197.69.115 2 92 20665667 20250415203939
+47.82.9.101 0 1 11790 
+175.6.217.4 1 1 11421 20250423030030
+43.159.145.149 1 1 10575 20250423060525
+94.247.172.129 1 1 11384 20250425133048
+3.1.172.206 0 1 40346 
+212.34.146.152 2 2 19850 20250422172027
+182.44.2.148 2 2 22838 20250418001646
+43.133.253.253 1 1 8324 20250408000708
+43.159.128.237 3 3 23876 20250414155546
+161.35.35.205 1 2 1674942 20250401073021
+49.51.33.159 2 2 15874 20250424202817
+43.157.209.67 2 2 14173 20250423032236
+146.190.93.73 0 1 265080 
+140.143.98.18 2 2 22838 20250428025158
+36.81.239.8 1 1 11419 20250428184529
+43.157.142.101 2 2 11962 20250414074057
+91.84.111.136 2 2 19850 20250426052825
+110.40.186.63 1 1 11421 20250425105418
+43.135.186.135 2 2 14775 20250428020841
+64.15.129.108 1 1 60254 20250403151217
+5.133.192.138 1 2 3469345 20250409023933
+43.153.76.247 2 2 13116 20250419032810
+43.130.72.177 4 4 33795 20250427233213
+134.209.213.164 1 2 3469345 20250404202813
+176.53.219.130 1 1 11419 20250410102503
+49.51.195.195 5 5 38595 20250430053226
+43.153.49.151 4 4 32075 20250429141210
+146.190.62.85 1 2 323262 20250427072405
+93.158.91.239 1 1 11382 20250408182704
+49.51.233.46 2 2 10584 20250427234352
+43.157.209.252 1 1 5098 20250403002651
+43.166.132.142 4 4 31725 20250425091420
+43.157.170.13 1 1 5367 20250401120920
+43.130.57.46 2 2 17388 20250429212507
+34.118.39.40 1 48 12799779 20250409155743
+158.140.175.191 1 1 8393 20250407165945
+199.244.88.225 1 1 10040 20250423200316
+176.53.222.110 1 1 11419 20250408071150
+49.51.52.250 2 2 9987 20250429062659
+193.176.23.38 1 1 61218 20250430000824
+49.51.39.209 3 3 23923 20250428011514
+44.203.54.222 1 1 8348 20250407204317
+170.106.197.109 3 3 24637 20250423190831
+13.212.125.54 1 1 517 20250402092722
+43.159.140.236 3 3 28037 20250421075945
+43.130.47.33 4 4 31366 20250424021719
+43.153.15.51 3 3 25218 20250428220457
+43.159.141.150 1 1 8230 20250419171821
+47.82.10.191 0 1 30977 
+178.62.251.89 1 1 0 20250417091437
+165.22.99.247 0 1 8870 
+170.106.140.110 1 1 7986 20250424224447
+182.42.105.144 5 5 57101 20250428221926
+43.130.14.245 1 1 5022 20250408061459
+49.51.243.95 3 3 24118 20250425223754
+134.122.103.126 1 1 7135 20250417182036
+54.254.94.167 0 1 16157 
+205.169.39.48 1 44 5426891 20250415203932
+43.153.27.244 1 1 11419 20250404013607
+162.62.213.165 2 2 12042 20250424010702
+5.133.192.108 1 2 3469345 20250418002202
+47.82.10.116 0 1 4097 
+193.186.4.144 1 1 8393 20250416105928
+43.128.149.102 2 2 21230 20250420045754
+47.82.9.31 0 1 6567 
+34.27.118.143 1 1 11419 20250420085204
+43.153.10.13 4 4 30874 20250429124100
+43.165.65.75 2 2 14900 20250412173250
+49.51.203.164 1 1 6830 20250424011720
+43.165.70.220 4 4 25336 20250423182920
+158.140.175.163 0 1 765100 
+103.31.110.3 0 1 32274 
+43.135.140.225 4 4 36375 20250423175914
+3.1.6.192 1 1 506 20250402092728
+205.169.39.177 2 61 6437506 20250408023537
+143.244.140.85 1 2 1035421 20250429150332
+162.14.210.15 1 1 11421 20250425042302
+47.82.9.32 0 1 2050 
+54.179.3.9 0 1 298560 
+34.116.185.152 1 48 11775307 20250413210930
+206.168.34.66 1 2 3469308 20250403094530
+43.130.67.6 2 2 16612 20250409200048
+43.135.133.241 1 1 8510 20250429134246
+34.217.131.73 1 1 61217 20250425144207
+80.85.246.74 2 2 19850 20250427071643
+43.166.255.122 2 2 13201 20250420055830
+43.153.107.22 3 3 26644 20250418074916
+43.135.142.37 1 1 4465 20250419044046
+178.254.29.124 1 1 10040 20250404044054
+80.85.245.37 1 1 11382 20250408033018
+165.227.228.42 1 2 2043582 20250411075903
+87.236.176.194 0 1 1621125 
+121.4.97.180 1 1 11421 20250427233204
+165.22.101.95 0 1 292836 
+139.59.240.240 0 1 391628 
+165.22.107.245 0 1 203572 
+43.153.123.3 3 3 25428 20250424205405
+138.246.253.7 1 1 0 20250404100448
+43.157.95.131 2 2 13086 20250408151241
+43.159.128.155 3 3 34261 20250430062241
+5.133.192.133 1 2 3469345 20250426053005
+47.82.10.99 0 1 30336 
+45.55.54.114 1 1 5162 20250417191542
+3.0.169.22 0 1 50637 
+54.36.173.89 6 6 223390 20250402223522
+43.159.143.187 2 2 17959 20250419023234
+192.175.111.238 1 1 59878 20250403193026
+80.85.245.5 2 2 19850 20250424195857
+117.33.163.216 1 1 11419 20250427134214
+129.226.93.214 3 3 22663 20250419102839
+43.130.3.122 4 4 27477 20250424170630
+43.173.2.116 1 1 11419 20250425031129
+43.129.38.128 3 3 27094 20250428013410
+43.159.144.16 3 3 17890 20250419112625
+123.207.198.35 2 2 22768 20250424043439
+43.135.142.7 1 1 5284 20250424154426
+43.166.134.47 2 2 12473 20250419020930
+43.157.251.48 1 1 5098 20250409051335
+49.51.253.83 3 3 24163 20250413234427
+43.130.39.254 2 2 16852 20250424132749
+34.209.5.171 1 1 506 20250402092729
+110.230.252.114 1 1 11384 20250417122256
+43.133.91.48 1 1 6540 20250427045239
+176.53.221.172 2 2 22482 20250408111916
+159.89.204.52 1 1 3852 20250417110956
+178.128.237.216 1 2 2158270 20250413095058
+159.65.50.185 1 2 2567872 20250405183541
+13.251.146.16 0 1 103778 
+180.251.182.19 1 51 5372586 20250419110805
+176.53.223.76 2 2 22482 20250411045617
+72.14.201.186 1 1 5873 20250423114238
+178.20.47.92 3 3 31232 20250421200815
+43.135.144.81 2 2 14904 20250417170115
+180.244.250.76 1 34 5443685 20250419101534
+43.156.228.27 3 3 22039 20250430070551
+43.130.32.245 2 2 20330 20250410171221
+43.128.67.187 2 2 13216 20250430082641
+43.157.201.184 3 3 23777 20250428004410
+170.106.167.214 2 2 11137 20250429071721
+43.159.152.187 1 1 5109 20250413235345
+43.166.251.233 3 3 28545 20250420042906
+158.140.175.182 2 47 2215528 20250407170358
+158.140.175.146 1 47 7003950 20250419001622
+43.130.67.33 4 4 29653 20250420051850
+43.166.253.94 3 3 27477 20250414144512
+182.42.104.32 1 1 11419 20250408182145
+64.15.129.113 0 1 3457357 
+43.159.139.164 3 3 24863 20250423053914
+43.134.141.244 2 2 22838 20250410094703
+170.106.148.137 1 1 7419 20250429232538
+89.104.111.189 1 1 11419 20250408072032
+43.159.128.247 2 2 20343 20250414135455
+34.29.72.100 1 1 10040 20250418101741
+195.2.81.171 2 2 19850 20250429195424
+43.166.136.153 4 4 31825 20250427232117
+43.166.247.82 5 5 44416 20250427040915
+43.153.74.75 2 2 22840 20250413151636
+34.118.23.107 1 47 10750907 20250411192320
+43.133.139.6 1 1 11419 20250419024602
+43.155.188.157 3 3 27940 20250424153659
+68.183.142.226 1 1 11421 20250421111926
+165.22.98.148 0 1 54472 
+43.130.106.18 4 4 34467 20250420104124
+43.135.185.59 3 3 27516 20250425215318
+222.79.103.59 1 1 11421 20250418045903
+43.157.38.131 1 1 4561 20250414015310
+223.15.245.170 3 3 34257 20250424032050
+87.236.176.175 1 1 11384 20250421005741
+68.183.234.75 0 2 170479 
+43.130.228.73 2 2 12655 20250419105928
+129.226.213.145 1 1 8217 20250409045430
+152.42.212.41 0 2 309967 
+43.130.16.140 3 3 29223 20250418203308
+93.158.91.235 1 1 11382 20250423202720
+185.21.13.25 2 2 22764 20250410061919
+43.155.27.244 2 2 10205 20250418054610
+176.53.218.64 1 1 11419 20250408212929
+114.117.233.112 2 2 22842 20250430215609
+49.51.183.15 1 1 8924 20250424070210
+43.165.67.57 3 3 23806 20250429224519
+180.102.134.69 1 1 11419 20250410182541
+43.157.156.190 2 2 12029 20250429230515
+43.165.65.180 5 5 35701 20250425032632
+46.228.199.158 1 1 10040 20250417120037
+44.195.44.251 1 1 11419 20250430173718
+146.190.104.195 0 1 62061 
+43.157.250.180 2 2 17976 20250419015626
+43.130.31.17 2 2 17361 20250412171422
+180.244.255.132 0 1 65901 
+192.175.111.247 0 1 3457357 
+170.106.15.3 3 3 25430 20250419213249
+158.140.175.168 2 3 308802 20250407170728
+43.157.170.126 2 2 13600 20250430074537
+101.35.214.220 1 1 0 20250421074413
+205.169.39.0 1 43 5454294 20250407175416
+43.129.58.235 3 3 18317 20250424065040
+16.170.165.57 1 1 506 20250402092728
+43.133.69.37 3 3 21639 20250424013729
+101.42.117.179 1 1 11421 20250429075739
+23.178.112.101 1 1 517 20250402092727
+43.153.58.28 4 4 26889 20250424150409
+104.239.5.119 1 1 5884 20250414063807
+43.153.54.138 3 3 29800 20250418063730
+43.153.79.218 1 1 8092 20250409193132
+43.153.96.233 2 2 22842 20250430141028
+104.248.203.231 1 1 5177 20250417155558
+157.245.248.188 1 2 2158270 20250429083408
+98.81.54.4 5 5 41875 20250416163230
+43.135.133.194 4 4 34306 20250419181902
+43.153.35.128 2 2 22842 20250427155149
+43.153.48.240 2 2 17950 20250425163451
+158.140.175.190 1 1 7479 20250407170046
+170.106.181.163 1 1 8217 20250420044907
+43.130.150.80 6 6 42832 20250423173517
+94.103.88.24 2 2 19850 20250424183115
+205.169.39.235 2 61 6437506 20250413235552
+180.244.160.117 0 1 124215 
+119.96.24.54 1 1 11421 20250408035407
+43.157.153.236 2 2 22842 20250430224234
+43.155.195.141 3 3 30388 20250429064407
+124.236.100.56 4 4 45676 20250430083053
+194.145.227.125 1 1 61217 20250429104918
+13.250.227.154 0 1 392511 
+178.156.146.224 1 1 7342 20250417163844
+170.106.193.108 1 1 5098 20250402232905
+49.51.243.156 2 2 17235 20250430071830
+170.106.180.153 1 1 6542 20250419113859
+44.193.11.208 2 2 16696 20250410232742
+205.169.39.21 1 1 11421 20250403092940
+15.204.182.106 2 2 22840 20250404102658
+49.51.180.2 2 2 16894 20250430234825
+43.166.246.180 3 3 17823 20250424213305
+195.211.77.142 1 1 11419 20250402093121
+43.156.109.53 6 6 50420 20250419161652
+170.106.147.63 2 2 19654 20250424074140
+205.169.39.70 2 61 6437506 20250411233626
+45.196.46.135 1 1 11421 20250401003356
+89.104.111.85 1 1 11419 20250409084648
+18.138.206.84 0 1 53580 
+175.41.131.8 0 1 61495 
+43.166.7.113 2 2 10207 20250414153456
+203.33.203.148 1 1 11421 20250412134156
+91.84.104.205 2 2 19850 20250426093834
+49.51.196.42 3 3 29204 20250421095904
+54.204.99.126 2 2 16786 20250418032315
+195.211.77.140 1 1 1316 20250402093102
+43.131.39.179 1 1 6813 20250408205438
+170.106.72.93 6 6 43802 20250424214245
+192.104.34.34 1 1 9724 20250415094809
+170.106.11.141 2 2 14281 20250413035518
+43.133.187.11 1 1 4604 20250402225711
+47.130.20.148 0 1 102759 
+43.159.136.201 2 2 16338 20250403073235
+198.44.188.36 1 1 0 20250430031336
+49.51.233.95 6 6 39163 20250424165552
+43.166.1.243 3 3 23370 20250423035633
+3.238.147.168 2 2 16786 20250410232743
+49.51.245.241 3 3 23705 20250424161630
+120.71.59.24 1 1 11421 20250415090325
+49.51.50.147 4 4 32745 20250419162946
+43.130.111.40 6 6 38741 20250428102736
+43.157.207.78 2 2 16292 20250403081048
+152.42.170.101 2 2 122256 20250418170446
+64.15.129.107 1 1 59878 20250403193028
+43.130.74.193 1 1 10587 20250408141225
+182.44.8.254 1 1 11419 20250420011738
+91.246.41.166 4 4 39700 20250428222546
+161.35.234.181 1 1 3974 20250417112738
+170.106.113.235 2 2 17932 20250428005317
+176.53.223.57 1 1 11419 20250410100940
+142.93.155.8 1 1 3729 20250417093015
+58.49.233.126 1 1 11421 20250423123424
+151.106.191.239 0 1 28321 
+50.28.8.220 1 1 9724 20250421202105
+13.250.216.254 0 1 264512 
+158.140.175.131 1 1 3112 20250407170241
+159.223.36.122 0 1 155823 
+170.106.84.136 1 1 10572 20250415025502
+43.159.149.216 3 3 17797 20250424223309
+54.251.56.172 0 1 151249 
+42.83.147.56 2 2 22660 20250418170413
+170.106.65.93 1 1 8207 20250419045158
+106.119.167.146 1 1 11419 20250411040449
+43.153.119.119 6 6 47296 20250430075700
+47.79.123.193 0 1 3368 
+43.166.255.102 2 2 16530 20250429050633
+198.144.190.77 1 1 8855 20250414063926
+132.232.165.4 1 1 11421 20250424214828
+47.130.57.161 0 1 66279 
+43.130.100.35 5 5 37819 20250424222309
+206.189.149.115 1 1 3731 20250417164036
+170.106.35.153 3 3 19943 20250423122347
+43.130.139.177 1 1 8764 20250417175227
+193.239.160.12 2 2 19448 20250416192527
+43.153.7.191 3 3 22262 20250424162742
+43.166.250.187 1 1 11419 20250420034425
+47.82.10.241 0 1 4097 
+195.20.18.224 2 2 22660 20250425200610
+49.51.72.76 6 6 50633 20250429051828
+43.135.182.95 1 1 5216 20250414085944
+44.199.204.18 1 1 11419 20250423114314
+47.130.38.155 0 1 61495 
+114.80.36.40 2 2 22840 20250418194645
+43.131.243.61 2 2 15036 20250430064823
+128.199.30.49 1 2 2305728 20250417142006
+43.130.57.76 2 2 17806 20250423233829
+146.190.91.139 0 2 161144 
+43.153.12.58 4 4 27406 20250419170841
+43.153.122.30 2 2 18244 20250427052043
+5.135.58.193 1 1 61180 20250405145937
+157.230.244.1 0 1 124783 
+98.80.216.32 1 1 11419 20250403203437
+52.221.10.145 0 1 475709 
+182.44.10.67 2 2 22838 20250409133919
+121.229.185.160 2 2 22840 20250423075004
+170.106.152.218 3 3 34261 20250422112104
+43.167.241.46 3 3 22313 20250428012230
+195.20.18.175 2 2 122434 20250407174438
+43.130.91.95 1 1 8199 20250420052853
+43.166.245.250 2 2 17804 20250426201202
+43.130.102.7 2 2 13389 20250418160305
+80.85.245.241 2 2 19850 20250403063715
+124.156.157.91 2 2 13609 20250423104145
+45.156.128.74 1 1 11419 20250423022054
+64.226.76.229 1 2 3469345 20250418115933
+89.248.172.183 0 1 0 
+111.172.249.49 1 1 11419 20250414091636
+13.251.179.232 0 1 298560 
+165.227.119.3 1 1 10042 20250416221807
+43.130.34.74 4 4 45678 20250429044117
+43.157.179.227 1 1 11419 20250427235402
+43.156.168.214 2 2 22840 20250422200111
+43.153.54.14 2 2 13259 20250418143232
+43.130.105.21 3 3 28044 20250422000846
+34.85.189.206 0 1 0 
+43.153.102.138 4 4 26959 20250418151406
+170.106.165.186 3 3 26728 20250413230543
+43.130.37.243 6 6 51765 20250430081416
+43.135.145.73 2 2 13873 20250418071857
+170.106.192.208 4 4 32137 20250429222627
+152.42.250.66 0 4 443686 
+43.135.182.43 2 2 13493 20250415033224
+162.62.213.187 1 1 8505 20250419160720
+212.34.155.126 2 2 19850 20250428061837
+43.135.145.117 3 3 28566 20250413045611
+89.110.80.171 2 2 19850 20250428171109
+43.157.149.188 1 1 5109 20250402051045
+34.72.176.129 1 45 8716188 20250409155649
+87.236.176.59 1 1 11382 20250411183943
+125.94.144.102 1 1 11419 20250403130043
+49.51.38.193 3 3 30479 20250419091514
+43.155.129.131 1 1 11419 20250408141151
+43.157.180.116 1 1 5098 20250414092905
+49.51.183.75 2 2 22008 20250423190028
+144.126.212.155 1 2 3092160 20250403152949
+139.59.41.249 1 2 1298132 20250415101854
+170.106.180.139 3 3 26195 20250423181858
+34.222.215.251 1 1 506 20250402092723
+15.204.161.7 2 2 12715 20250405110541
+43.166.244.192 3 3 24786 20250425033614
+101.32.208.70 2 2 14866 20250424143735
+43.153.135.208 1 1 11421 20250412162741
+182.43.70.143 1 1 11419 20250409232430
+146.190.104.221 1 1 10040 20250415020014
+87.236.176.247 0 1 3457357 
+43.153.123.4 3 3 31049 20250420041805
+43.131.36.84 1 1 6531 20250429214453
+43.166.238.12 4 4 42363 20250428154114
+34.116.255.58 1 48 11775307 20250407175509
+192.178.15.33 0 1 3173 
+51.159.102.239 1 44 8884248 20250414150547
+123.187.240.242 2 2 22842 20250428185656
+170.106.192.3 3 3 19043 20250403055201
+49.51.47.100 3 3 29430 20250424221413
+43.131.253.14 3 3 29669 20250428101611
+158.140.175.174 0 18 319133 
+49.51.183.84 2 2 20183 20250427061841
+192.175.111.253 2 2 120508 20250403151227
+43.159.135.203 5 5 37197 20250424160455
+195.201.205.15 1 1 10040 20250421115809
+199.244.88.219 1 1 10040 20250408165651
+43.167.232.38 2 2 16676 20250419180733
+43.135.130.202 1 1 8736 20250430083719
+205.169.39.2 1 41 4901071 20250413214207
+43.157.168.43 3 3 22259 20250419100715
+54.36.175.53 1 1 61180 20250416162703
+141.138.208.43 1 1 11382 20250402145622
+104.239.52.143 1 1 8097 20250414063914
+205.169.39.103 2 61 6437684 20250415204018
+43.130.110.130 3 3 23687 20250427065010
+43.153.19.83 2 2 19525 20250423110409
+151.106.166.201 0 1 191120 
+180.252.116.226 1 51 8046188 20250404180535
+170.106.161.78 1 1 5431 20250429060558
+5.133.192.127 1 2 3469345 20250401005551
+47.82.10.180 1 2 208011 20250402023326
+49.51.36.179 1 1 8384 20250408152205
+68.183.129.189 1 1 11419 20250405084645
+49.51.72.236 1 1 11419 20250403190922
+18.142.191.196 0 1 74547 
+43.153.96.79 5 5 39433 20250419174851
+217.160.202.182 2 2 20080 20250425052239
+124.220.24.137 2 2 22764 20250412025306
+43.157.95.239 3 3 15939 20250429055454
+43.153.87.54 2 2 17610 20250429123232
+158.140.175.183 2 2 16741 20250407170918
+151.106.190.62 0 1 124783 
+133.242.174.119 1 1 11241 20250402153227
+132.232.203.74 1 1 11419 20250424114927
+43.167.157.80 1 1 8924 20250419085006
+34.214.230.166 2 2 22838 20250410231040
+43.157.22.57 2 2 16703 20250429061421
+43.135.144.126 1 1 5462 20250423041556
+35.170.78.107 1 1 11419 20250405103400
+14.215.163.132 1 1 11419 20250407231116
+149.56.150.222 1 1 61593 20250416141748
+43.130.139.136 1 1 4381 20250408005910
+20.169.155.251 0 21 6354024 
+151.106.186.76 0 1 204214 
+43.166.134.114 2 2 16528 20250416220108
+43.155.140.157 2 2 14653 20250420100942
+43.130.16.212 1 1 11419 20250416164852
+47.82.10.165 0 1 966 
+43.159.143.139 2 2 17797 20250419111903
+43.130.12.43 3 3 15952 20250423115316
+87.236.176.75 1 1 11382 20250412024839
+182.42.105.85 1 1 11421 20250421211900
+43.157.172.39 3 3 20831 20250428010110
+43.156.202.34 2 2 13322 20250412170152
+49.51.253.26 2 2 16025 20250409043605
+158.140.175.184 2 20 1949801 20250401080039
+34.116.133.182 1 48 12799779 20250409171632
+170.106.163.48 1 1 9573 20250401140315
+162.62.132.25 1 1 11419 20250422011822
+43.159.152.184 2 2 10218 20250429125041
+43.157.158.178 1 1 10572 20250430065529
+223.244.35.77 3 3 34259 20250426105729
+43.166.237.57 3 3 21456 20250419093829
+152.42.241.97 0 1 75114 
+47.79.1.223 0 1 22885 
+43.153.71.132 2 2 22840 20250423110358
+170.106.165.76 3 3 29648 20250428144220
+170.106.180.246 6 6 45949 20250428082656
+134.209.206.150 1 1 11419 20250419070554
+43.166.247.155 2 2 20312 20250409050629
+185.180.141.54 1 1 11419 20250413151700
+43.166.131.228 4 4 32218 20250428081815
+43.153.113.127 3 3 17435 20250429133211
+54.254.87.89 0 2 150061 
+176.53.218.116 2 2 22482 20250413221614
+49.7.227.204 1 1 11421 20250415183951
+47.79.123.96 0 2 10895 
+43.159.145.153 1 1 6803 20250408203626
+44.220.181.56 1 1 11419 20250412233740
+43.135.180.171 1 43 5426891 20250420095410
+209.97.160.144 1 1 9212 20250417184121
+45.90.63.183 1 1 11419 20250407235826
+43.166.226.186 1 1 6540 20250401125812
+117.62.235.53 2 2 22840 20250420205103
+176.53.216.67 1 1 11419 20250411055224
+152.42.255.184 0 2 142120 
+43.166.239.145 1 1 7630 20250414092025
+13.213.93.162 0 1 47456 
+185.227.146.134 1 1 4826 20250414063625
+94.23.49.223 1 1 9724 20250429220106
+138.197.145.235 1 2 2354900 20250425073645
+43.158.91.71 5 5 41278 20250428211711
+170.106.179.68 4 4 30389 20250424083209
+91.196.152.65 1 1 61180 20250405150526
+165.227.99.146 1 1 3644 20250417153916
+205.169.39.168 2 61 6437506 20250409173930
+43.159.152.4 3 3 22999 20250429233808
+72.14.201.145 1 1 3112 20250416105931
+150.109.230.210 4 4 25764 20250429234335
+192.175.111.244 1 1 59878 20250403193016
+158.140.175.128 0 26 7008696 
+158.140.175.178 2 15 1287844 20250407170716
+209.38.218.208 1 2 3469347 20250415131245
+170.106.107.87 1 1 11421 20250418195617
+175.41.148.236 0 1 324060 
+34.121.178.181 1 1 10040 20250414135757
+43.130.9.111 1 1 8386 20250408142509
+49.51.252.146 4 4 36660 20250414083057
+84.55.46.85 1 1 61180 20250416185139
+143.110.215.112 1 2 732884 20250409094815
+45.156.130.27 1 1 11419 20250403142156
+43.130.60.195 1 1 8233 20250429135310
+43.157.82.252 2 2 17053 20250423184055
+114.96.103.33 1 1 11419 20250411232720
+176.53.221.120 1 1 11419 20250409235356
+85.209.132.14 2 2 122434 20250429094021
+110.166.71.39 1 1 11421 20250426005740
+47.82.9.16 0 1 6567 
+137.226.113.44 6 6 50210 20250425091216
+18.142.89.160 0 1 147999 
+193.233.138.171 2 2 10354 20250412183635
+185.157.214.24 2 2 19850 20250406025556
+43.163.206.70 3 3 30470 20250424215152
+222.79.104.23 4 4 45680 20250425011304
+107.189.7.156 2 2 2632 20250402101607
+91.201.115.242 2 2 19850 20250402155520
+45.55.151.3 0 1 3457357 
+180.110.203.108 2 2 22842 20250410040155
+43.135.183.82 1 1 8377 20250430063527
+185.245.83.240 1 1 11421 20250403150612
+13.213.193.94 0 2 113881 
+49.51.73.183 4 4 34519 20250429045643
+124.156.226.179 2 2 22840 20250420091124
+43.157.250.210 2 2 10394 20250409060404
+124.156.225.181 1 1 11421 20250423170940
+23.178.112.100 1 1 517 20250402092722
+129.28.14.231 1 1 11421 20250426142438
+106.227.49.113 1 1 11421 20250427102350
+185.247.137.14 1 1 11384 20250420164343
+13.251.40.9 0 1 89886 
+205.169.39.11 2 44 5464049 20250409183003
+98.206.0.93 1 47 9072340 20250414012833
+43.130.71.237 3 3 18428 20250429070658
+182.42.111.156 1 1 11421 20250421014434
+47.82.9.75 0 1 1881 
+85.254.43.231 1 1 8348 20250419050238
+47.82.10.181 0 2 15098 
+43.159.138.217 2 2 19529 20250430072743
+173.239.214.195 1 1 9724 20250422111829
+43.157.50.58 3 3 24626 20250429221437
+170.106.110.146 2 2 11517 20250419110906
+170.106.143.6 4 4 24280 20250429132051
+43.135.138.128 1 1 11421 20250422191658
+43.153.86.78 2 2 16836 20250414094122
+36.41.75.167 3 3 34263 20250416042503
+43.130.53.252 1 1 8302 20250424220148
+3.91.10.96 1 1 11419 20250409032348
+43.159.132.207 2 2 13356 20250419083050
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20250401 38 85 14586053 36
+20250402 66 85 994704 58
+20250403 48 53 17338516 43
+20250404 20 73 11866622 17
+20250405 18 22 3112681 17
+20250406 2 2 19850 1
+20250407 38 345 56567075 23
+20250408 66 128 7358346 63
+20250409 52 293 50785306 50
+20250410 27 29 463679 20
+20250411 19 129 24736661 14
+20250412 50 55 4564560 17
+20250413 50 245 34868249 40
+20250414 54 189 27579779 53
+20250415 24 178 29386288 23
+20250416 17 22 786201 16
+20250417 27 30 2930086 27
+20250418 38 47 8101702 35
+20250419 86 262 24641849 64
+20250420 32 78 9659644 32
+20250421 12 13 514101 12
+20250422 15 16 161022 14
+20250423 72 116 9985673 53
+20250424 67 69 855864 63
+20250425 30 34 3051237 28
+20250426 13 33 3965522 11
+20250427 27 28 545567 26
+20250428 38 38 327513 33
+20250429 50 74 10024119 49
+20250430 24 26 420394 24
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 8
+30s-2mn 4
+15mn-30mn 1
+2mn-5mn 3
+5mn-15mn 3
+0s-30s 943
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 76
+/ 464 6249410 421 399
+/berita 58 294625 56 57
+/search/jual 40 453834 31 30
+/about 34 322885 25 24
+/properti/13/dijual-kavling-hoek-cluster-nebraska-kota-wisata-shm 30 250904 13 30
+/kontak 20 102660 16 16
+/search/sewa 19 218045 15 15
+/about_project 19 130743 13 14
+/agent/5 17 134146 14 16
+/berita/kategori/updates 17 128012 12 11
+/search/agent5 3 26208 3 3
+/properti/16/dijual-cepat-kavling-hoek-cluster-west-covina-kota-wisata 9 102045 8 8
+/agent/16 3 20398 1 3
+/properti/13/login 7 59530 7 6
+/README.md 1 0 1 1
+/.well-known/acme-challenge/duccSS8ZjsayRhSg2foAjMC4pGwurY92LtLiPpfRxcI 4 2046 4 4
+/agent/14 2 13647 2 1
+/search/agent13 1 8764 1 1
+/berita/layanan/kontraktor 14 88229 11 10
+/properti/11/login 5 41115 5 5
+/search2/login 2 13586 2 2
+/agent/13 3 20436 2 2
+/properti/9/login 4 32812 4 4
+/properti/10/rumah-disewakan-di-kota-wisata-1-lt-siap-huni 3 23744 3 3
+/agent/7 12 91626 12 12
+/berita/kategori/berita 14 68764 9 9
+/search2/in_progress 3 18318 2 2
+/search/agent15 1 8764 1 1
+/galeri 15 79435 12 12
+/search/agent11 2 17528 2 2
+/properti/14/login 4 35102 4 4
+/properti/15/login 9 80112 9 9
+/search/agent6 2 17528 2 2
+/login 14 43152 10 10
+/properti/9/rumah-dijual-di-legenda-wisata-2-lt-siap-huni-sudah-renovasi 7 57430 5 7
+/agent/11 4 44823 2 2
+/search/agent8 1 8736 1 1
+/berita/layanan/jual-property 14 86069 11 11
+/berita/layanan/sewa-property 12 78059 9 9
+/properti/12/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm-sudah-renov 5 41070 5 5
+/properti/4/kota-wisata-siap-huni-2-lantai 3 24452 3 3
+/agent/10 7 65442 6 6
+/atomlib.php 1 0 1 1
+/agent/15 2 13609 1 2
+/properti/10/login 1 7909 1 1
+/search/agent14 1 8764 1 1
+/galeri/detail/15 4 18269 4 4
+/agent/9 5 34063 4 4
+/video 15 76775 12 12
+/.well-known/acme-challenge/6WtdTJfyuhhbMPQsychvRg83VioOhhBi2QoASC6Y9GY 4 2035 4 4
+/properti/11/di-jual-rumah-di-komplek-graha-jala-yudha-angkatan-laut-al-shm-siap-huni 7 56688 7 7
+/properti/17/login 6 48560 6 5
+/search/agent10 3 26264 3 3
+/properti/16/login 3 25142 3 3
+/agent/6 3 20421 3 3
+/properti/12/login 4 32853 4 4
+/properti/7/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm 5 40475 4 4
+/assets/aws/js/bootstrap.min.js.map 1 192586 1 1
+/search/agent7 5 43764 5 5
+/properti/8/rumah-dijual-di-kota-wisata-siap-huni-2nd-boulevard 3 24747 2 2
+/search/agent16 1 8764 1 1
+/properti/5/rumah-disewakan-di-legenda-wisata-siap-huni-2-lt 4 33274 4 4
+/berita/read/kota-wisata-jadi-satu-satunya-perumahan-dengan-gerbang-tol-langsung-di-cibubur 15 93813 13 13
+/properti/14/dijual-rumah-semi-furnished-2lt-cluster-visalia-kota-wisata-kota-wisata-bogor 14 117740 14 14
+/search/login 7 61236 6 7
+/search2/done 3 18308 2 2
+/berita/read/gerbang-tol-cbd-hingga-mall-tingkatkan-nilai-properti-di-kota-wisata-cibubur 14 90314 13 13
+/properti/17/rumah-kota-wisata-mewah-shm-siap-huni 16 154915 12 12
+/properti/15/dijual-rumah-bagus-full-furnished-cluster-florence-kota-wisata-kota-wisata-bogor 12 136969 11 12
+/agent/12 3 38099 1 2
+/agent/8 3 20438 2 2
+/berita/read/mall-living-world-kota-wisata-telah-dibuka 14 71744 13 13
+/properti/6/rumah-diajual-di-citra-indah-siap-huni-sudah-renov 5 39945 4 4
+/properti/18/rumah-kota-wisata-hoek-mewah-depan-taman 15 150824 12 12
+/properti/18/login 11 89257 11 11
+/search/agent9 2 17528 2 2
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+2K-5K 1355
+500-1K 301
+5K+ 3850
+100-500 1055
+0-44 252
+1K-2K 1786
+END_FILESIZE

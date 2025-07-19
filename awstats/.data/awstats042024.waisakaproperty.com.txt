@@ -1,0 +1,462 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/waisakap/domains/waisakaproperty.com/awstats/.data/awstats.waisakaproperty.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2116                
+POS_TIME 2787                
+POS_VISITOR 9217                
+POS_DAY 10634               
+POS_DOMAIN 3516                
+POS_LOGIN 3747                
+POS_ROBOT 3902                
+POS_WORMS 4683                
+POS_EMAILSENDER 4814                
+POS_EMAILRECEIVER 4957                
+POS_SESSION 10834               
+POS_SIDER 10991               
+POS_FILETYPES 5092                
+POS_DOWNLOADS 5420                
+POS_OS 5468                
+POS_BROWSER 5743                
+POS_SCREENSIZE 6607                
+POS_UNKNOWNREFERER 6681                
+POS_UNKNOWNREFERERBROWSER 6933                
+POS_ORIGIN 7015                
+POS_SEREFERRALS 7151                
+POS_PAGEREFS 7295                
+POS_SEARCHWORDS 7443                
+POS_KEYWORDS 7595                
+POS_MISC 2451                
+POS_ERRORS 7654                
+POS_CLUSTER 3603                
+POS_SIDER_403 7795                
+POS_SIDER_400 7883                
+POS_SIDER_404 7965                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240507122123 1 0 8269181960591
+FirstTime 20240401013255
+LastTime 20240406043700
+LastUpdate 20240507160207 1 0 0 0 0
+TotalVisits 33                  
+TotalUnique 32                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 35                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 3 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 23 951985 6 44 1952293
+1 2 2 22418 2 23 4311902
+2 0 0 0 7 37 5465191
+3 0 0 0 7 54 5055314
+4 1 43 8643708 11 28 2337080
+5 15 77 4653438 29 76 2401946
+6 1 1 11210 4 6 224178
+7 1 2 36716 12 56 7087446
+8 3 62 12987028 11 39 4424653
+9 4 4 42082 15 85 6939761
+10 0 0 0 3 37 6896795
+11 1 1 60715 5 32 534084
+12 0 0 0 4 16 2487829
+13 4 24 286763 7 23 2859675
+14 51 149 33653408 30 70 9153059
+15 26 190 31088995 51 265 20648561
+16 2 2 22419 10 45 5540833
+17 0 0 0 6 32 4324010
+18 0 0 0 1 14 2762637
+19 0 0 0 3 21 3709766
+20 1 3 62223 6 22 1658157
+21 0 0 0 5 26 5363709
+22 0 0 0 10 50 6948468
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 113 583 92523108
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+feed 580 86514201 20240405220226 10
+PhantomJS 133 17131047 20240405150250 0
+SemrushBot/ 77 376483 20240404162506 31
+bingbot/ 54 1027864 20240405155030 2
+python 7 78465 20240406042518 0
+curl 4 1860 20240404051731 0
+Googlebot\-Image/ 3 1869936 20240401020656 0
+MSIE[\x20]6 3 30211 20240405145847 0
+Googlebot/ 2 10006 20240401020519 1
+facebookexternalhit/ 2 59400 20240401225247 1
+(firefox/)([0-9]\.|[0-1][0]\.) 1 15425 20240404132006 0
+unknown 1 505 20240405145856 1
+custo 1 61091 20240405044642 0
+archive\.org_bot 1 11173 20240404052211 0
+bot[\s_+:,\.\;\/\\-] 1 11209 20240404054913 0
+ning 1 10464 20240404132006 0
+netcraft 1 61092 20240404000226 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+eot 10 812226 0 0
+css 54 1643789 0 0
+png 61 21890002 0 0
+ttf 8 1070416 0 0
+woff 4 234007 0 0
+woff2 25 1661392 0 0
+php 32 539293 0 0
+html 2 1097 0 0
+js 132 2651095 0 0
+jpg 169 57981069 0 0
+jpeg 4 175314 0 0
+Unknown 71 1797266 0 0
+gif 6 19046 0 0
+svg 5 2047096 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+winxp 12 1
+macosx6 4 0
+macosx11 312 72
+ios_iphone 3 3
+win2000 1 0
+win8 1 0
+linuxdebian 1 0
+macosx15 5 4
+winnt 2 1
+macosx5 1 0
+linux 47 6
+win7 28 3
+macosx 1 1
+macosx10 2 0
+Unknown 12 12
+win10 150 10
+win8.1 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+chrome37.0.2062.124 1 0
+chrome34.0.1866.237 1 0
+edge12 1 0
+chrome79.0.3945.79 43 1
+chrome112.0.0.0 1 0
+firefox31.0 1 0
+iphone 2 0
+firefox85.0 1 1
+chrome35.0.3319.102 1 0
+opera11.52 3 0
+chrome19.0.1084.9 1 1
+firefox40.1 1 0
+chrome83.0.4103.61 18 1
+safari13.0.3 3 3
+firefox52.59.12 1 0
+chrome114.0.0.0 1 1
+opera11.01 2 1
+chrome108.0.0.0 1 1
+opera11.51 3 1
+firefox58.0.1 2 0
+chrome41.0.2224.3 1 0
+chrome117.0.5938.132 30 1
+chrome37.0.2049.0 2 1
+chrome44.0.2403.155 1 0
+firefox58.0 1 0
+chrome41.0.2227.0 3 0
+chrome110.0.0.0 2 2
+chrome60.0.3112.113 2 2
+firefox45.0 312 72
+chrome41.0.2227.1 1 0
+chrome79.0.3945.88 1 0
+mozilla 24 12
+firefox25.0 1 0
+netscape5.0 2 2
+chrome92.0.4515.159 34 1
+chrome105.0.0.0 2 1
+opera11.62 1 0
+opera12.00 1 0
+chrome121.0.0.0 70 6
+chrome120.0.0.0 2 2
+chrome40.0.2214.93 1 0
+firefox27.3 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20240404051807
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240405093049
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 97 404
+From1 0 0
+From2 0 0
+From3 0 0
+From4 16 179
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 3 9065
+302 7 9926
+500 12 5554487
+404 31 56110
+301 173 186000
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/ 3 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 27
+//wp-content/plugins/fix/up.php 2 -
+/assets/aws/js/jquery-3.3.1.min.js 1 -
+/assets/aws/js/popper.min.js 1 -
+/sitemap.xml 1 -
+/login/forgot 1 -
+/robots.txt 3 -
+/assets/aws/css/owl.carousel.min.css 1 -
+/assets/aws/js/jquery.auto-complete.min.js 1 -
+/assets/aws/js/bootstrap.min.js 1 -
+/assets/aws/css/custom.css 1 -
+/assets/aws/js/jquery.prettyPhoto.js 1 -
+/assets/aws/js/slick.min.js 1 -
+/assets/aws/js/isotope.min.js 1 -
+/sitemap.txt 2 -
+/assets/admin/vendor/jquery/jquery.min.js 1 -
+/assets/admin/plugins/fontawesome-free/css/all.min.css 1 -
+/assets/aws/css/responsive.css 1 -
+/assets/aws/js/fancybox.umd.js 1 -
+/assets/aws/js/owl.carousel.min.js 1 -
+/assets/aws/css/prettyPhoto.css 1 -
+/assets/aws/css/bootstrap.min.css 1 -
+/assets/aws/css/all.min.css 1 -
+/assets/aws/css/color.css 1 -
+/assets/aws/css/fancybox.css 1 -
+/assets/aws/js/custom.js 1 -
+/assets/aws/css/jquery.auto-complete.css 1 -
+/assets/aws/js/jquery-migrate-1.4.1.min.js 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 35
+212.193.52.171 72 312 64418720 20240405150131
+47.242.224.70 4 46 554399 20240404153401
+13.229.52.121 2 2 1032 20240404051805
+23.178.112.106 2 2 1010 20240404051807
+205.169.39.162 2 61 12926313 20240405080603
+103.163.138.148 2 2 22418 20240401013520
+146.70.128.243 2 2 19045 20240404052046
+137.226.113.44 2 2 19664 20240405093049
+15.204.183.221 2 2 22419 20240405135742
+143.110.174.200 1 1 11210 20240404144852
+159.203.24.21 1 1 11209 20240402090037
+179.43.152.42 1 23 951985 20240402004922
+54.190.92.15 1 1 505 20240404051806
+182.42.104.32 1 1 11209 20240403160759
+45.154.35.141 1 1 60715 20240402081259
+195.211.77.142 1 1 11209 20240404051944
+34.215.140.146 1 1 505 20240404051740
+65.154.226.168 1 30 4046479 20240404051907
+135.148.195.7 0 1 25507 
+51.20.55.164 1 1 505 20240404051806
+46.4.33.48 1 1 60715 20240404112834
+43.135.129.233 1 1 11210 20240403062344
+135.148.195.2 1 1 11209 20240405200851
+104.197.69.115 0 17 384965 
+16.171.147.66 1 1 505 20240404051739
+43.159.128.149 1 1 11210 20240405165726
+212.193.54.119 1 1 11209 20240405145847
+18.219.237.152 1 1 505 20240404051740
+3.23.59.45 1 1 505 20240404051807
+110.50.81.200 1 43 8643708 20240406043700
+143.244.135.24 1 1 11209 20240405142219
+139.59.77.103 1 1 11209 20240404091519
+5.133.192.136 1 2 36716 20240402072629
+34.72.176.129 1 17 186668 20240404051901
+135.148.195.6 0 1 25507 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20240401 2 2 22418 1
+20240402 4 27 1060625 4
+20240403 2 2 22419 2
+20240404 22 126 5290971 17
+20240405 82 383 77482967 8
+20240406 1 43 8643708 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 2
+0s-30s 31
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 66
+/ 32 539293 25 24
+/berita 7 134974 0 0
+/.well-known/acme-challenge/QBz-ncFCui5I_zdJsNaiX8qpgeoo77FyVVIhPTj8z5c 5 2536 3 5
+/.well-known/acme-challenge/jefItyURga2Ml1c-xbPmFTPIJqdLITmfYg40EWLafJs 5 2536 5 3
+/search/jual 3 183888 0 0
+/agent/8 1 24064 0 0
+/berita/layanan/jual-property 1 18196 0 0
+/properti/7/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm 1 32602 0 0
+/assets/aws/webfonts/fa-regular-400.ttf 1 34492 0 0
+/properti/12/login 1 35614 0 0
+/properti/16/login 1 34618 0 0
+/assets/admin/plugins/fontawesome-free/webfonts/fa-solid-900.ttf 1 395070 0 0
+/agent/6 1 24036 0 0
+/assets/aws/webfonts/fa-brands-400.ttf 1 133130 0 0
+/video 1 15036 0 0
+/assets/aws/webfonts/DroidSans-Bold-webfont.html 1 549 0 0
+/properti/4/login 1 34375 0 0
+/properti/11/login 1 35780 0 0
+/properti/10/rumah-disewakan-di-kota-wisata-1-lt-siap-huni 1 32465 0 0
+/agent/7 1 30037 0 0
+/properti/5/rumah-disewakan-di-legenda-wisata-siap-huni-2-lt 1 34806 0 0
+/properti/7/login 1 32561 0 0
+/properti/8/rumah-dijual-di-kota-wisata-siap-huni-2nd-boulevard 1 34742 0 0
+/properti/15/dijual-rumah-bagus-full-furnished-cluster-florence-kota-wisata-kota-wisata-bogor 1 38551 0 0
+/properti/13/login 1 37443 0 0
+/properti/10/login 1 32425 0 0
+/agent/5 1 37128 0 0
+/assets/aws/webfonts/DroidSans-Bold-webfont-2.html 1 548 0 0
+/berita/layanan/kontraktor 1 18563 0 0
+/properti/9/rumah-dijual-di-legenda-wisata-2-lt-siap-huni-sudah-renovasi 1 33746 0 0
+/login 1 5112 0 0
+/agent/9 1 24059 0 0
+/galeri 1 15661 0 0
+/berita/layanan/sewa-property 1 18768 0 0
+/properti/11/di-jual-rumah-di-komplek-graha-jala-yudha-angkatan-laut-al-shm-siap-huni 1 35847 0 0
+/berita/read/arkamaya-apartment-hadirkan-hunian-nyaman-untuk-generasi-milenial 1 16406 0 0
+/assets/admin/plugins/fontawesome-free/webfonts/fa-brands-400.ttf 1 190086 0 0
+/search2/done 1 26031 0 0
+/properti/8/login 1 34696 0 0
+/properti/14/dijual-rumah-semi-furnished-2lt-cluster-visalia-kota-wisata-kota-wisata-bogor 1 38228 0 0
+/properti/9/login 1 33691 0 0
+/assets/aws/webfonts/fa-solid-900.ttf 1 203018 0 0
+/properti/13/dijual-kavling-hoek-cluster-nebraska-kota-wisata-shm 1 37490 0 0
+/search2/login 1 26039 0 0
+/search2/in_progress 1 26039 0 0
+/assets/aws/webfonts/DroidSans-webfont.ttf 1 40300 0 0
+/kontak 1 16896 0 0
+/about_project 1 18150 0 0
+/berita/kategori/updates 1 15971 0 0
+/berita/read/developer-tawarkan-program-menarik-untuk-dapatkan-hunian-apartemen 1 17722 0 0
+/berita/read/lampu-pintar-mewujudkan-konsep-rumah-pintar-smart-home 1 16420 0 0
+/search/login 1 45220 0 0
+/properti/12/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm-sudah-renov 1 35667 0 0
+/properti/15/login 1 38476 0 0
+/galeri/detail/15 1 15421 0 0
+/properti/6/login 1 33292 0 1
+/assets/admin/plugins/fontawesome-free/webfonts/fa-v4compatibility.ttf 1 10572 0 0
+/properti/16/dijual-cepat-kavling-hoek-cluster-west-covina-kota-wisata 1 34670 0 0
+/properti/5/login 1 34763 0 0
+/about 1 22266 0 0
+/berita/kategori/berita 1 17679 0 0
+/assets/admin/plugins/fontawesome-free/webfonts/fa-regular-400.ttf 1 63748 0 0
+/properti/4/kota-wisata-siap-huni-2-lantai 1 34400 0 0
+/search/sewa 1 49971 0 0
+/properti/14/login 1 38156 0 0
+/properti/6/rumah-diajual-di-citra-indah-siap-huni-sudah-renov 1 33337 0 0
+END_SIDER

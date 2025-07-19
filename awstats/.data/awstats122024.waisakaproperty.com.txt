@@ -1,0 +1,1162 @@
+AWSTATS DATA FILE 7.9 (build 20230109)
+# If you remove this file, all statistics for date 202412 will be lost/reset.
+# Last config file used to build this data file was /home/waisakap/domains/waisakaproperty.com/awstats/.data/awstats.waisakaproperty.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2150                
+POS_TIME 2829                
+POS_VISITOR 31315               
+POS_DAY 43310               
+POS_DOMAIN 3700                
+POS_LOGIN 3933                
+POS_ROBOT 4088                
+POS_WORMS 5081                
+POS_EMAILSENDER 5212                
+POS_EMAILRECEIVER 5355                
+POS_SESSION 44152               
+POS_FILESIZE 46126               
+POS_SIDER 44342               
+POS_FILETYPES 5490                
+POS_DOWNLOADS 5737                
+POS_OS 5785                
+POS_BROWSER 6086                
+POS_SCREENSIZE 7767                
+POS_UNKNOWNREFERER 7841                
+POS_UNKNOWNREFERERBROWSER 8518                
+POS_ORIGIN 8797                
+POS_SEREFERRALS 8940                
+POS_PAGEREFS 9163                
+POS_SEARCHWORDS 10827               
+POS_KEYWORDS 10979               
+POS_MISC 2492                
+POS_ERRORS 11038               
+POS_CLUSTER 3789                
+POS_SIDER_400 31006               
+POS_SIDER_403 11187               
+POS_SIDER_404 11269               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250101001018 47 9057 10068948359870
+FirstTime 20241201004606
+LastTime 20241231220806
+LastUpdate 20250101092713 47 0 46 0 0
+TotalVisits 355                 
+TotalUnique 283                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 312                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 31 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 14 3597759 47 70 3681984
+1 10 10 301929 70 140 16215664
+2 16 17 243618 35 67 244657
+3 16 17 236479 71 153 1369050
+4 11 12 310706 59 144 8613985
+5 11 13 242226 42 117 1474841
+6 8 8 190915 44 85 757855
+7 21 74 26135850 131 203 1799967
+8 18 25 15405111 61 81 1368327
+9 28 124 17842374 44 70 478838
+10 14 53 5785034 47 238 1271109
+11 8 9 687219 41 97 4304437
+12 11 13 340761 596 649 3259722
+13 21 87 15702064 47 80 796770
+14 21 36 6523097 73 107 1533460
+15 22 128 21914852 75 129 3614243
+16 25 122 9460294 47 55 417285
+17 19 20 3635628 44 134 1419676
+18 29 31 455618 66 114 4206278
+19 47 367 59091050 76 119 4416249
+20 25 72 4086518 49 124 1313977
+21 21 65 12558577 60 119 978039
+22 30 339 20710076 71 282 1591761
+23 10 10 109178 46 86 841243
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 455 1666 225566933
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+AhrefsBot/ 574 6448356 20241230232648 59
+Googlebot/ 545 4953657 20241231211941 33
+Bytespider 432 1412431 20241231131945 41
+SemrushBot/ 309 1364536 20241231180900 138
+bingbot/ 82 7542042 20241231224944 24
+Applebot/ 77 776895 20241227062132 6
+bot[\s_+:,\.\;\/\\-] 64 43396 20241231185317 57
+python 57 563845 20241228144853 1
+MJ12bot/ 27 142750 20241230145734 4
+Googlebot\-Image/ 17 28468241 20241228012738 0
+netcraft 1 61594 20241206110956 0
+unknown 10 4949 20241227013125 10
+facebookexternalhit/ 4 1060 20241231235013 4
+Go\-http\-client/ 9 68580 20241217124631 0
+ips\-agent 4 22314 20241221100218 1
+curl 8 0 20241201190145 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 49130 20241202020454 0
+YandexBot/ 3 12433 20241209103251 2
+CCBot/ 6 21055 20241202040753 1
+no_user_agent 3 69808 20241221164050 0
+archive\.org_bot 4 45532 20241201185952 0
+bbot 16 98358 20241206122342 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 141 174109166 0 0
+js 337 3253535 0 0
+php 349 5950737 0 0
+jpeg 48 5955507 0 0
+map 1 192261 0 0
+Unknown 105 583418 0 0
+jpg 269 28136829 0 0
+css 339 2534077 0 0
+woff2 77 4851403 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linuxcentos 3 2
+Unknown 68 53
+android10 477 18
+android 3 2
+macosx 5 0
+linux 444 47
+androidoreo 3 2
+ios_iphone 251 151
+linuxubuntu 1 1
+win8.1 3 3
+macosx15 54 11
+winnt 3 3
+macosx10 1 0
+win7 89 34
+macosx9 2 2
+win10 196 122
+android13 63 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 79
+firefox123.0 1 1
+safari17.1.2 1 1
+chrome91.0.4472.124 5 5
+firefox126.0 1 1
+chrome83.0.4103.7 1 1
+firefox127.0 1 1
+chrome39.0.2171.95 1 0
+firefox83.0 2 2
+safari17.4.1 2 1
+chrome114.0.0.0 3 3
+chrome116.0.0.0 1 0
+chrome112.0.5615.136 1 1
+edge14 1 1
+chrome131.0.0.0 394 16
+chrome124.0.6367.62 2 2
+chrome79.0.3945.88 5 5
+chrome124.0.6367.91 2 2
+chrome49.0.2623.112 80 25
+firefox59.0 1 1
+chrome120.0.0.0 34 34
+chrome83.0.4103.97 2 2
+chrome100.0.3233.863 1 1
+chrome124.0.6367.119 2 2
+chrome87.0.4280.88 1 1
+firefox114.0 2 2
+firefox122.0 7 7
+chrome100.0.4896.60 2 2
+safari18.2 28 1
+chrome129.0.0.0 16 11
+chrome130.0.0.0 11 2
+chrome121.0.0.0 9 9
+chrome66.0.3359.117 3 3
+chrome74.0.3729.169 3 3
+safari18.1.1 50 1
+chrome124.0.6367.79 2 2
+firefox120.0 1 1
+chrome79.0.3945.130 1 1
+chrome58.0.3029.110 6 6
+chrome124.0.6367.93 1 1
+firefox133.0 62 3
+chrome84.0.4147.105 1 1
+chrome91.0.4472.114 6 6
+chrome108.0.0.0 3 3
+netscape5.0 8 8
+chrome57.0.2987.108 1 1
+chrome110.0.0.0 1 1
+safari15.1 1 1
+chrome103.0.5060.66 1 1
+chrome127.0.0.0 15 4
+chrome119.0.0.0 1 1
+chrome99.0.4844.84 2 0
+chrome105.0.0.0 12 7
+chrome124.0.0.0 7 7
+safari 50 1
+chrome33.0.1750.152 2 2
+chrome124.0.6367.63 1 1
+firefox63.0 1 1
+safari14.0 1 1
+chrome124.0.6367.61 3 3
+chrome125.0.0.0 198 12
+chrome78.0.3904.62 1 1
+chrome131.0.6778.41 1 0
+chrome103.0.0.0 1 1
+firefox132.0 3 1
+chrome118.0.5993.80 2 2
+mozilla 51 36
+chrome124.0.6367.60 3 3
+firefox115 1 1
+chrome100.0.9560.134 1 1
+chrome63.0.3239.84 4 4
+chrome131.0.6778.105 1 0
+chrome126.0.0.0 88 2
+chrome131.0.6778.33 277 15
+Unknown 9 9
+chrome122.0.0.0 5 5
+chrome109.0.0.0 1 0
+safari18.0 5 0
+safari13.0.3 147 147
+firefox87.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241229133342
+axios/1.6.7 20241228112858
+Mozilla/5.0_(compatible) 20241230142124
+respond.io 20241201185146
+Owler_(ows.eu/owler) 20241206195933
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241224082540
+Chrome_Privacy_Preserving_Prefetch_Proxy 20241210160415
+quic-go-HTTP/3 20241220101804
+undici 20241202023756
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20241227094147
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20241201185941
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Owler_(ows.eu/owler) 20241206195933
+respond.io 20241201185146
+undici 20241202023756
+axios/1.6.7 20241228112858
+quic-go-HTTP/3 20241220101804
+Chrome_Privacy_Preserving_Prefetch_Proxy 20241210160415
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 221 279
+From1 1 1
+From2 16 24
+From3 26 52
+From4 191 1310
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+id_images_search_yahoo_com 0 1
+baidu 1 1
+www_bing_com 0 1
+www_google_com 15 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 45
+https://dev.rkh-kliniken.de 2 2
+https://www.enoteca.casadivinaprovvidenza.it 2 2
+https://autodiscover.katsoihminen.com 2 2
+http://138.113.133.194:8883 2 2
+http://91.250.64.243 2 2
+https://8.140.102.157 2 2
+http://134.236.93.55 1 1
+https://www.quora.com 1 1
+https://www.eu.softcraftip.nl 1 1
+http://164.46.39.227 1 1
+http://b.kiaf2.synology.me:5010 0 1
+https://rockcityradio.com.mx 0 1
+https://chevron-login.eu.nexthink.cloud 0 1
+https://kauppa.arispo.com 0 1
+https://energyplus.app 0 1
+http://www.tinglyvibes.com.brasupplystore.com.au 0 1
+https://app.respond.io 0 2
+https://www.consulectra.de 0 1
+https://pc118016.uch.edu.tw:5001 0 1
+https://www.delicesducaire.com 0 1
+https://autodiscover.tennischannelcomactivate.com 0 1
+https://priceless-elion.206-189-43-191.plesk.page:443 0 1
+https://3.72.51.47:3672 0 1
+https://catcasino-mc.cfd 0 1
+http://61.7.1.129 0 1
+https://cpcontacts.reinc.us 0 1
+https://mail1.peerlessnet.com 0 1
+https://besthotback2.onlineerp.top 1 1
+http://mail.hatziservice.com 1 1
+https://www.kinotorg.com 0 1
+https://git.deuill.org 1 1
+http://210.176.62.37 1 1
+http://www.ycav3.xyz 1 1
+https://preview.markwarner.co.uk 1 1
+https://sk.metapedia.org 0 1
+http://192.75.95.111 0 1
+https://www.salespot.fun 0 1
+http://b.du5rjrljhy4b2.amplifyapp.com 0 1
+http://73.49.102.75 1 1
+https://www.sonuchaudhari.com 0 1
+https://fabricadevidrioalizu.com.mx 0 1
+https://www.aio-bot.com 0 1
+http://thebaronessghostwriting.com 1 1
+http://clever-almeida.92-119-57-163.plesk.page 1 1
+https://www.shobeauction.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 373 893576
+405 18 3511091
+302 43 38936
+301 698 734648
+500 47 8604795
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 345
+/function.php 1 http://waisakaproperty.com/function.php
+/data.php 1 http://waisakaproperty.com/data.php
+/.well-known/pki-validation/index.php 1 http://waisakaproperty.com/.well-known/pki-validation/index.php
+/shell.php 1 http://waisakaproperty.com/shell.php
+/wp-admin/css/colors/sHQwacY.php 1 http://waisakaproperty.com/wp-admin/css/colors/sHQwacY.php
+/signup 1 -
+/user/filemanager 1 -
+/.well-known/acme-challenge/about.php 1 http://waisakaproperty.com/.well-known/acme-challenge/about.php
+/js 1 -
+/wp-includes/images/about.php 1 http://waisakaproperty.com/wp-includes/images/about.php
+/login.php 1 http://waisakaproperty.com/login.php
+/backend/file-manager 2 -
+/.well-known/pki-validation/about.php 1 http://waisakaproperty.com/.well-known/pki-validation/about.php
+/fm.php 1 http://waisakaproperty.com/fm.php
+/class.api.php 1 http://waisakaproperty.com/class.api.php
+/.well-known/acme-challenge/upfile.php 1 http://waisakaproperty.com/.well-known/acme-challenge/upfile.php
+/backend/filemanager 2 -
+/en/index.php 1 http://waisakaproperty.com/en/index.php
+/fmanager 1 -
+/wp-admin/class-db.php 1 http://waisakaproperty.com/wp-admin/class-db.php
+/admin/filemanager 2 -
+/Nexus.php 1 http://waisakaproperty.com/Nexus.php
+/media/mainstream/all/fc2/2.js 1 -
+/home.php 1 http://waisakaproperty.com/home.php
+/class.php 1 http://waisakaproperty.com/class.php
+/wp-config-sample.php 1 http://waisakaproperty.com/wp-config-sample.php
+/user/file-manager 1 -
+/wp-includes/js/index.php 1 http://waisakaproperty.com/wp-includes/js/index.php
+/dropdown.php 1 http://waisakaproperty.com/dropdown.php
+/atomlib.php 1 http://waisakaproperty.com/atomlib.php
+/hehehehe.php 1 http://waisakaproperty.com/hehehehe.php
+/wp-admin.php 1 http://waisakaproperty.com/wp-admin.php
+/wp-admin/user/index.php 1 http://waisakaproperty.com/wp-admin/user/index.php
+/wp-admin/classwithtostring.php 1 http://waisakaproperty.com/wp-admin/classwithtostring.php
+/link.php 1 http://waisakaproperty.com/link.php
+/.well-known/security.txt 1 -
+/wp-includes/css/index.php 1 http://waisakaproperty.com/wp-includes/css/index.php
+/wp-content/plugins/Core-EconX/up.php 1 http://waisakaproperty.com/wp-content/plugins/Core-EconX/up.php
+/media-manager 1 -
+/public/plugins/file-manager 1 -
+/wp-admin/about.php 1 http://waisakaproperty.com/wp-admin/about.php
+/moon.php 1 http://waisakaproperty.com/moon.php
+/defaul.php 1 http://waisakaproperty.com/defaul.php
+/wp-admin/css/colors/blue 1 https://waisakaproperty.com/wp-admin/css/colors/blue/
+/public/filemanager 2 -
+/wp-admin/css/colors/ectoplasm/zmFM.php 1 -
+/media/laravel-filemanager 1 -
+/wp-includes/rest-api/about.php 1 http://waisakaproperty.com/wp-includes/rest-api/about.php
+/pwp-admin/network/login.php 1 http://waisakaproperty.com/pwp-admin/network/login.php
+/media/filemanager 1 -
+/vendor/bin/loader.php 1 http://waisakaproperty.com/vendor/bin/loader.php
+/shell20211028.php 1 http://waisakaproperty.com/shell20211028.php
+/wp-includes/pomo/zmFM.php 1 -
+/autoload_classmap.php 1 http://waisakaproperty.com/autoload_classmap.php
+/jp.php 1 http://waisakaproperty.com/jp.php
+/css/index.php 1 http://waisakaproperty.com/css/index.php
+/cong.php 1 http://waisakaproperty.com/cong.php
+/wp-content/shell.php 1 http://waisakaproperty.com/wp-content/shell.php
+/wp-content/plugins/index.php 1 http://waisakaproperty.com/wp-content/plugins/index.php
+/wp-admin/css/colors/HsFPDcD.php 1 http://waisakaproperty.com/wp-admin/css/colors/HsFPDcD.php
+/wp-includes/ID3/index.php 1 http://waisakaproperty.com/wp-includes/ID3/index.php
+/lock.php 1 http://waisakaproperty.com/lock.php
+/radio.php 1 http://waisakaproperty.com/radio.php
+/wp-admin/images/admin.php 1 http://waisakaproperty.com/wp-admin/images/admin.php
+/plugins/filemanager 1 -
+/wp-admin/network/wp-login.php 1 http://waisakaproperty.com/wp-admin/network/wp-login.php
+/install.php 1 http://waisakaproperty.com/install.php
+/h.php 1 http://waisakaproperty.com/h.php
+//wp-includes/ID3/license.txt 1 -
+/wp-signup.php 1 http://waisakaproperty.com/wp-signup.php
+/mah/function.php 1 http://waisakaproperty.com/mah/function.php
+/vendor/filemanager 1 -
+/vendor/file-manager 1 -
+/about.php 1 http://waisakaproperty.com/about.php
+/bk/index.php 1 http://waisakaproperty.com/bk/index.php
+/x/index.php 1 http://waisakaproperty.com/x/index.php
+/auth/registration 1 -
+/admin/file-manager 1 -
+/css.php 1 http://waisakaproperty.com/css.php
+/.well-known/acme-challenge/index.php 1 http://waisakaproperty.com/.well-known/acme-challenge/index.php
+/makeasmtp.php 1 http://waisakaproperty.com/makeasmtp.php
+/templates/beez3/jsstrings.php 1 http://waisakaproperty.com/templates/beez3/jsstrings.php
+/jindex.php 1 http://waisakaproperty.com/jindex.php
+/wp-content/themes/newsfeed-theme/bbh.php 1 http://waisakaproperty.com/wp-content/themes/newsfeed-theme/bbh.php
+/public/admin/file-manager 1 -
+/.tmb/wp-login.php 1 http://waisakaproperty.com/.tmb/wp-login.php
+/ticket/vendor/htmlawed/htmlawed/gel4y.php 1 http://waisakaproperty.com/ticket/vendor/htmlawed/htmlawed/gel4y.php
+/wp-admin/includes/nav.php 1 -
+/alfa.php 1 http://waisakaproperty.com/alfa.php
+/wp-admin/network/admin.php 1 http://waisakaproperty.com/wp-admin/network/admin.php
+/.well-known 1 https://waisakaproperty.com/.well-known/
+/index4.php 1 http://waisakaproperty.com/index4.php
+/wp-content/item.php 1 http://waisakaproperty.com/wp-content/item.php
+/wp-includes/customize/index.php 1 http://waisakaproperty.com/wp-includes/customize/index.php
+/file.php 1 http://waisakaproperty.com/file.php
+/public/asset/filemanager 1 -
+/wp-content/themes/hideo/network.php 1 http://waisakaproperty.com/wp-content/themes/hideo/network.php
+/wp-content/themes/twentyfive/include.php 1 http://waisakaproperty.com/wp-content/themes/twentyfive/include.php
+/wp-includes/SimplePie/index.php 1 http://waisakaproperty.com/wp-includes/SimplePie/index.php
+/wp-includes/customize/zmFM.php 1 -
+/doc.php 1 http://waisakaproperty.com/doc.php
+/public/file-manager 1 -
+/assets/library.php 1 http://waisakaproperty.com/assets/library.php
+/login/forgot 1 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 http://waisakaproperty.com/wp-content/plugins/dummyyummy/wp-signup.php
+/upgrade.php 1 http://waisakaproperty.com/upgrade.php
+/wso.php 1 http://waisakaproperty.com/wso.php
+/asset/laravel-filemanager 1 -
+/public/admin/filemanager 1 -
+/wp-admin/css/dnIzIDf.php 1 http://waisakaproperty.com/wp-admin/css/dnIzIDf.php
+/wp-content/plugins/WordPressCore/index.php 1 http://waisakaproperty.com/wp-content/plugins/WordPressCore/index.php
+/a.php 1 http://waisakaproperty.com/a.php
+/classwithtostring.php 1 http://waisakaproperty.com/classwithtostring.php
+/images/files/event-files 1 -
+/blog 1 -
+/admin/function.php 1 http://waisakaproperty.com/admin/function.php
+/admin/laravel-filemanager 2 -
+/wp-includes/mah.php 1 http://waisakaproperty.com/wp-includes/mah.php
+/wp-admin/css/colors/coffee/index.php 1 http://waisakaproperty.com/wp-admin/css/colors/coffee/index.php
+/wp-content/uploads/index.php 1 http://waisakaproperty.com/wp-content/uploads/index.php
+/upload.php 1 http://waisakaproperty.com/upload.php
+/wp-includes/item.php 1 http://waisakaproperty.com/wp-includes/item.php
+/media/file-manager 1 -
+/wp-header.php 1 http://waisakaproperty.com/wp-header.php
+/ini.php 1 http://waisakaproperty.com/ini.php
+/about/function.php 1 http://waisakaproperty.com/about/function.php
+/uploader.php 1 http://waisakaproperty.com/uploader.php
+/wp-admin/maint/upfile.php 1 http://waisakaproperty.com/wp-admin/maint/upfile.php
+/goods.php 1 http://waisakaproperty.com/goods.php
+/m.php 1 http://waisakaproperty.com/m.php
+/wp-content/plugins/pwnd/pwnd.php 1 http://waisakaproperty.com/wp-content/plugins/pwnd/pwnd.php
+/plugins/file-manager 1 -
+/wander.php 1 http://waisakaproperty.com/wander.php
+/laravel-filemanager 2 -
+/wp-content/about.php 1 http://waisakaproperty.com/wp-content/about.php
+/wp-content/plugins/core-plugin/include.php 1 http://waisakaproperty.com/wp-content/plugins/core-plugin/include.php
+/3m/wp-admin/css/colors/blue 1 https://waisakaproperty.com/3m/wp-admin/css/colors/blue/
+/wp-admin/images/index.php 1 http://waisakaproperty.com/wp-admin/images/index.php
+/wp-content/termps.php 1 http://waisakaproperty.com/wp-content/termps.php
+/auth/register 1 -
+/log.php 1 http://waisakaproperty.com/log.php
+/auth/signup 1 -
+/backup 1 -
+/js/filemanager 1 -
+/alfa-rex.php 1 http://waisakaproperty.com/alfa-rex.php
+/sitemap.xml 6 -
+/wp-admin/network/about.php 1 http://waisakaproperty.com/wp-admin/network/about.php
+/wp-includes/certificates/zmFM.php 1 -
+/up.php 1 http://waisakaproperty.com/up.php
+/wp-admin/js/index.php 1 http://waisakaproperty.com/wp-admin/js/index.php
+/ioxi002.PhP7 1 http://waisakaproperty.com/ioxi002.PhP7
+/simple.php 1 http://waisakaproperty.com/simple.php
+/xx.php 1 http://waisakaproperty.com/xx.php
+/mah.php 1 http://waisakaproperty.com/mah.php
+/user/laravel-filemanager 1 -
+/vendor/laravel-filemanager 1 -
+/wp-includes/sitemaps/about.php 1 http://waisakaproperty.com/wp-includes/sitemaps/about.php
+/web.php 1 http://waisakaproperty.com/web.php
+/wp-admin/css/index.php 1 http://waisakaproperty.com/wp-admin/css/index.php
+/wp-content/mah.php 1 http://waisakaproperty.com/wp-content/mah.php
+/wp-includes/js/jquery/jquery.js 1 -
+/wp-admin/css/about.php 1 http://waisakaproperty.com/wp-admin/css/about.php
+/wp-content/languages/wp-login.php 1 http://waisakaproperty.com/wp-content/languages/wp-login.php
+/registration 1 -
+/lufix.php 1 http://waisakaproperty.com/lufix.php
+/style.php 1 www.google.com
+/wp-includes/theme-compat/zmFM.php 1 -
+/wp-includes/wp-class.php 1 http://waisakaproperty.com/wp-includes/wp-class.php
+/filemanager 2 -
+/wp-content/plugins/hello.php 1 http://waisakaproperty.com/wp-content/plugins/hello.php
+/templates/beez/index.php 1 http://waisakaproperty.com/templates/beez/index.php
+/wp-content/themes/pridmag/db.php 1 http://waisakaproperty.com/wp-content/themes/pridmag/db.php
+/wp-conflg.php 1 http://waisakaproperty.com/wp-conflg.php
+/frontend-filemanager 1 -
+/user.php 1 http://waisakaproperty.com/user.php
+/randkeyword.PhP7 1 http://waisakaproperty.com/randkeyword.PhP7
+/inc.php 1 http://waisakaproperty.com/inc.php
+/phpinfo.php 1 -
+/new.php 1 http://waisakaproperty.com/new.php
+/public/backend/filemanager 1 -
+/index/function.php 1 http://waisakaproperty.com/index/function.php
+/test.php 1 http://waisakaproperty.com/test.php
+/wp-content/themes/sketch/404.php 1 http://waisakaproperty.com/wp-content/themes/sketch/404.php
+/.well-known/pki-validation/moon.php 1 http://waisakaproperty.com/.well-known/pki-validation/moon.php
+/fm 1 -
+/sitemap.xml.gz 2 -
+/wp-add.php 1 http://waisakaproperty.com/wp-add.php
+/wp-content/themes/digital-download/new.php 1 http://waisakaproperty.com/wp-content/themes/digital-download/new.php
+/wp-includes/PHPMailer//zmFM.php 1 -
+/wp-mail.php 1 http://waisakaproperty.com/wp-mail.php
+/wp-admin/maint/index.php 1 http://waisakaproperty.com/wp-admin/maint/index.php
+/wp-admin/network/index.php 1 http://waisakaproperty.com/wp-admin/network/index.php
+/writeable.php 1 http://waisakaproperty.com/writeable.php
+/wp-content/upgrade/about.php 1 http://waisakaproperty.com/wp-content/upgrade/about.php
+/.env 5 http://waisakaproperty.com/.env
+/xml.php 1 http://waisakaproperty.com/xml.php
+/bypass.php 1 http://waisakaproperty.com/bypass.php
+/elp.php 1 http://waisakaproperty.com/elp.php
+/public/asset/laravel-filemanager 1 -
+/wp-content/tmpls.php 1 http://waisakaproperty.com/wp-content/tmpls.php
+/asset/file-manager 1 -
+/admin/registration 1 -
+/sitemap.txt 1 -
+/x.php 1 http://waisakaproperty.com/x.php
+/chosen.php 1 http://waisakaproperty.com/chosen.php
+/ova.php 1 http://waisakaproperty.com/ova.php
+/repeater.php 1 http://waisakaproperty.com/repeater.php
+/xl2023.php 1 http://waisakaproperty.com/xl2023.php
+/b.php 1 http://waisakaproperty.com/b.php
+/wp-admin/admin.php 1 http://waisakaproperty.com/wp-admin/admin.php
+/wp-content/themes.php 1 http://waisakaproperty.com/wp-content/themes.php
+/wp-includes/css/about.php 1 http://waisakaproperty.com/wp-includes/css/about.php
+/.tmb/about.php 1 http://waisakaproperty.com/.tmb/about.php
+/wp-includes/IXR/wp-login.php 1 http://waisakaproperty.com/wp-includes/IXR/wp-login.php
+/admin/feature/filemanager 1 -
+/wp-content/index.php 1 http://waisakaproperty.com/wp-content/index.php
+/fck.php 1 http://waisakaproperty.com/fck.php
+/randkeyword.php 1 http://waisakaproperty.com/randkeyword.php
+/wp-includes/room.php 1 http://waisakaproperty.com/wp-includes/room.php
+/temp 1 -
+/wp-includes/fonts/index.php 1 http://waisakaproperty.com/wp-includes/fonts/index.php
+/sad/about.php 1 http://waisakaproperty.com/sad/about.php
+/plugins.php 1 http://waisakaproperty.com/plugins.php
+/laravelfm 1 -
+/xmlrpc.php 2 http://waisakaproperty.com/xmlrpc.php
+/wp 1 -
+/wp-admin/css/colors/about.php 1 http://waisakaproperty.com/wp-admin/css/colors/about.php
+/sitemap_index.xml 2 -
+/wp-content/classwithtostring.php 1 http://waisakaproperty.com/wp-content/classwithtostring.php
+/wp-includes/link.php 1 http://waisakaproperty.com/wp-includes/link.php
+/baxa1.phP8 1 http://waisakaproperty.com/baxa1.phP8
+/app 1 https://waisakaproperty.com/app/
+/public/plugins/filemanager 1 -
+/worksec.php 1 http://waisakaproperty.com/worksec.php
+/assets/aws/js/popper.min.js.map 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php 1 -
+/menu.php 1 http://waisakaproperty.com/menu.php
+/wp-admin/wp-login.php 1 http://waisakaproperty.com/wp-admin/wp-login.php
+/wp-includes/images/wp-login.php 1 http://waisakaproperty.com/wp-includes/images/wp-login.php
+/wp-content/content.php 1 http://waisakaproperty.com/wp-content/content.php
+/wp-login.php 1 http://waisakaproperty.com/wp-login.php
+/wp-admin/images/about.php 1 http://waisakaproperty.com/wp-admin/images/about.php
+/ws.php 1 http://waisakaproperty.com/ws.php
+/public/backend/file-manager 1 -
+/asset/filemanager 1 -
+/public/backend/laravel-filemanager 1 -
+/byp.php 1 http://waisakaproperty.com/byp.php
+/.well-known/about.php 1 http://waisakaproperty.com/.well-known/about.php
+/wp-content/languages/index.php 1 http://waisakaproperty.com/wp-content/languages/index.php
+/1337.php 1 http://waisakaproperty.com/1337.php
+/wp-links.php 1 http://waisakaproperty.com/wp-links.php
+/wp-content/plugins/ioxi/alfa-ioxi.php 1 http://waisakaproperty.com/wp-content/plugins/ioxi/alfa-ioxi.php
+/content.php 1 http://waisakaproperty.com/content.php
+/wp-includes/fonts/about.php 1 http://waisakaproperty.com/wp-includes/fonts/about.php
+/wp-admin/css/network.php 1 http://waisakaproperty.com/wp-admin/css/network.php
+/wp-includes/customize/about.php 1 http://waisakaproperty.com/wp-includes/customize/about.php
+/wp-includes/ID3/about.php 1 http://waisakaproperty.com/wp-includes/ID3/about.php
+/wp-admin/css/colors/index.php 1 http://waisakaproperty.com/wp-admin/css/colors/index.php
+/xt/index.php 1 http://waisakaproperty.com/xt/index.php
+/new 1 -
+/wp-content/cong.php 1 http://waisakaproperty.com/wp-content/cong.php
+/templates/beez/jsstrings.php 1 http://waisakaproperty.com/templates/beez/jsstrings.php
+/wp-includes/pomo/wp-login.php 1 http://waisakaproperty.com/wp-includes/pomo/wp-login.php
+/wp.php 1 http://waisakaproperty.com/wp.php
+/version.php 1 http://waisakaproperty.com/version.php
+/wordpress 1 -
+/register 2 -
+/504.php 1 http://waisakaproperty.com/504.php
+/wp-includes/wp-includes_function.php 1 http://waisakaproperty.com/wp-includes/wp-includes_function.php
+/old 1 -
+/wp-includes/sitemaps/providers/zmFM.php 1 -
+/wp-includes/SimplePie/about.php 1 http://waisakaproperty.com/wp-includes/SimplePie/about.php
+/wp-includes/fonts/wp-login.php 1 http://waisakaproperty.com/wp-includes/fonts/wp-login.php
+/wp-content/plugins/revslider/includes/external/page/index.php 1 http://waisakaproperty.com/wp-content/plugins/revslider/includes/external/page/index.php
+/wp-includes/assets/index.php 1 http://waisakaproperty.com/wp-includes/assets/index.php
+/blog/index.php 1 http://waisakaproperty.com/blog/index.php
+/1.php 1 http://waisakaproperty.com/1.php
+/wp-content/themes/include.php 1 http://waisakaproperty.com/wp-content/themes/include.php
+/public/asset/file-manager 1 -
+/editor.php 1 http://waisakaproperty.com/editor.php
+/themes.php 1 http://waisakaproperty.com/themes.php
+/.well-known/traffic-advice 4 -
+/wp-includes/wp-login.php 1 http://waisakaproperty.com/wp-includes/wp-login.php
+/s.php 1 http://waisakaproperty.com/s.php
+/backend/laravel-filemanager 2 -
+/ova-tools.php 1 http://waisakaproperty.com/ova-tools.php
+/wp-content/json.php 1 http://waisakaproperty.com/wp-content/json.php
+/wp-content/plugins/WordPressCore/include.php 2 http://waisakaproperty.com/wp-content/plugins/WordPressCore/include.php
+/w.php 1 http://waisakaproperty.com/w.php
+/wp-content/plugins/helloapx/wp-apxupx.php 1 http://waisakaproperty.com/wp-content/plugins/helloapx/wp-apxupx.php
+/test 1 -
+/wp-includes/widgets/include.php 1 http://waisakaproperty.com/wp-includes/widgets/include.php
+/js/file-manager 1 -
+/admin/register 1 -
+/wp-includes/admin.php 1 http://waisakaproperty.com/wp-includes/admin.php
+/api/.env 1 -
+/wp-includes/Text/about.php 1 http://waisakaproperty.com/wp-includes/Text/about.php
+/defaults.php 1 http://waisakaproperty.com/defaults.php
+/admin.php 1 http://waisakaproperty.com/admin.php
+/wp-content/uploads/about.php 1 http://waisakaproperty.com/wp-content/uploads/about.php
+/rbh/log.ph 1 http://waisakaproperty.com/rbh/log.ph
+/.well-known/acme-challenge/zmFM.php 1 -
+/ans.php 1 http://waisakaproperty.com/ans.php
+/tiny.php 1 http://waisakaproperty.com/tiny.php
+/text.php 1 http://waisakaproperty.com/text.php
+/wp-content/themes/deeto/login.php 1 http://waisakaproperty.com/wp-content/themes/deeto/login.php
+/plugins/laravel-filemanager 1 -
+/back-office/ppid-filemanager 1 -
+/mini.php 1 http://waisakaproperty.com/mini.php
+/public/vendor/laravel-filemanager 1 -
+/c.php 1 http://waisakaproperty.com/c.php
+/small.php 1 http://waisakaproperty.com/small.php
+/sitemaps.xml 1 -
+/wp-content/themes/about.php 1 http://waisakaproperty.com/wp-content/themes/about.php
+/404.php 1 http://waisakaproperty.com/404.php
+/as.php 1 http://waisakaproperty.com/as.php
+/public/admin/laravel-filemanager 1 -
+/85022df0ed31.php 1 http://waisakaproperty.com/85022df0ed31.php
+/Njima.php 1 http://waisakaproperty.com/Njima.php
+/403.php 1 http://waisakaproperty.com/403.php
+/public/vendor/filemanager 1 -
+/wp-includes/product.php 1 http://waisakaproperty.com/wp-includes/product.php
+/edit.php 1 http://waisakaproperty.com/edit.php
+/wp-content/themes/seotheme/mar.php 1 http://waisakaproperty.com/wp-content/themes/seotheme/mar.php
+/cgi-bin/wp-login.php 1 http://waisakaproperty.com/cgi-bin/wp-login.php
+/wp-content/themes/seotheme/db.php 1 http://waisakaproperty.com/wp-content/themes/seotheme/db.php
+/plugin.php 1 http://waisakaproperty.com/plugin.php
+/js/laravel-filemanager 1 -
+/customize.php 1 http://waisakaproperty.com/customize.php
+/file-manager 2 -
+/wp-l0gin.php 1 http://waisakaproperty.com/wp-l0gin.php
+/public/laravel-filemanager 2 -
+/wp-info.php 1 http://waisakaproperty.com/wp-info.php
+/wp-admin/dropdown.php 1 http://waisakaproperty.com/wp-admin/dropdown.php
+/wp-content/admin.php 1 http://waisakaproperty.com/wp-content/admin.php
+/back.php 1 http://waisakaproperty.com/back.php
+/wp-includes/rest-api/index.php 1 http://waisakaproperty.com/wp-includes/rest-api/index.php
+/buy.php 1 http://waisakaproperty.com/buy.php
+/admin/signup 1 -
+/wp-admin/js/about.php 1 http://waisakaproperty.com/wp-admin/js/about.php
+/wp-content/plugins/litespeed-cache/readme.txt 2 -
+/public/plugins/laravel-filemanager 1 -
+/wp-includes/Text/wp-login.php 1 http://waisakaproperty.com/wp-includes/Text/wp-login.php
+/public/vendor/file-manager 1 -
+/wp-content/plugins/ubh/up.php 1 http://waisakaproperty.com/wp-content/plugins/ubh/up.php
+END_SIDER_404
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 312
+20.231.225.4 15 277 1253346 20241226225622
+137.226.113.44 8 8 50210 20241227094147
+35.225.116.81 7 7 79933 20241213232304
+18.118.106.19 7 7 44484 20241202023031
+159.65.24.22 7 7 54776 20241216203601
+34.248.137.227 6 94 24723379 20241201220015
+43.157.56.179 5 5 34320 20241220082852
+185.147.125.23 5 5 306150 20241231092150
+106.75.154.180 5 21 2109725 20241201193814
+106.75.157.14 4 6 705351 20241201192859
+43.153.54.14 1 1 11421 20241231134050
+195.242.10.152 0 1 142242 
+43.157.156.190 1 1 5098 20241223141007
+64.227.180.96 1 2 2371284 20241206085010
+93.158.91.249 1 1 11382 20241206180150
+192.36.109.108 1 1 11382 20241221011242
+165.232.70.245 1 1 11421 20241202201601
+49.51.253.26 1 1 8092 20241223231338
+185.247.137.122 0 1 3457357 
+196.196.53.4 1 1 61218 20241204100327
+119.96.24.54 1 1 11421 20241224160800
+106.75.130.42 1 9 627439 20241201192957
+143.198.111.182 1 2 3469345 20241216085456
+43.153.27.244 2 2 16883 20241223181128
+66.96.225.134 0 1 113231 
+170.106.152.218 1 1 11421 20241224210431
+43.134.190.89 1 1 11419 20241206092643
+43.128.67.187 1 1 11421 20241230120126
+88.210.10.79 2 2 19850 20241203130215
+43.131.249.153 1 1 11419 20241218190027
+180.252.127.88 1 47 3134356 20241214202413
+91.246.41.166 2 2 19850 20241229201414
+222.79.103.59 1 1 11419 20241214143401
+43.133.139.6 1 1 11419 20241225032520
+111.231.10.88 1 1 11384 20241214182250
+43.130.14.245 1 1 4455 20241223150512
+43.153.10.83 1 1 11421 20241218122834
+182.2.166.96 0 43 0 
+182.2.146.229 0 1 29803 
+43.159.152.184 3 3 28190 20241226182508
+80.85.245.5 4 4 39700 20241211170931
+216.180.106.201 0 1 265080 
+93.158.90.46 1 1 11382 20241227013128
+64.227.159.202 1 1 11384 20241219121055
+167.172.165.198 1 2 3469345 20241224071135
+43.157.170.13 1 1 4368 20241223163029
+170.106.197.109 1 1 11419 20241229170655
+43.135.182.43 1 1 11421 20241207131844
+46.38.243.247 1 1 11382 20241228025301
+43.155.166.202 1 1 11421 20241203141546
+194.36.25.31 1 1 9724 20241201204501
+43.153.19.83 1 1 11419 20241226142125
+66.42.55.188 1 1 11419 20241202094430
+14.215.163.132 1 1 11421 20241212084212
+49.51.183.84 1 1 11419 20241214063611
+43.130.47.33 2 2 22838 20241219072820
+104.168.140.60 2 2 14212 20241220200339
+64.225.5.221 1 1 11421 20241202131804
+80.85.246.144 2 2 19850 20241228040310
+43.130.40.120 1 1 11421 20241201020119
+106.75.139.250 1 2 143610 20241201190634
+27.115.124.45 1 1 10040 20241205172323
+125.94.144.102 1 1 11419 20241230105617
+43.135.134.127 3 3 34259 20241208161443
+128.199.140.136 2 2 19448 20241221075608
+43.153.47.201 1 1 11421 20241214132725
+43.163.6.124 1 1 5012 20241223215014
+114.124.243.56 0 43 0 
+182.0.198.53 1 50 4749935 20241207160039
+182.44.9.147 1 1 11421 20241226232804
+167.94.145.105 1 2 634523 20241221203744
+43.130.16.212 1 1 11421 20241216050614
+178.156.142.109 1 1 5862 20241218173730
+90.160.219.103 0 1 3457889 
+43.153.123.3 3 3 34259 20241220144834
+157.230.49.195 1 2 1928894 20241214074820
+43.159.128.247 1 1 11419 20241212132341
+199.45.154.120 1 2 1781403 20241228141013
+47.129.212.27 1 1 506 20241201185925
+34.204.174.51 1 1 11421 20241205191034
+209.38.44.238 1 2 2830016 20241204141254
+13.60.83.148 1 1 517 20241201185926
+49.51.203.164 1 1 11421 20241216181644
+43.135.138.128 4 4 45676 20241222093531
+223.15.245.170 1 1 11421 20241229001355
+171.244.43.14 1 1 11241 20241202212648
+136.143.176.64 4 4 34571 20241206051615
+54.254.162.138 1 1 9769 20241202023756
+13.38.130.241 1 1 11419 20241221032605
+101.33.66.34 2 2 10378 20241226151257
+193.186.4.176 2 2 9223 20241223122127
+111.172.249.49 1 1 11421 20241231220806
+34.16.38.250 1 1 9724 20241205234035
+43.153.36.110 1 1 11419 20241218053228
+43.130.32.245 1 1 11419 20241228023455
+64.233.173.164 1 1 0 20241210160415
+124.156.193.7 1 1 11419 20241205150449
+117.33.163.216 1 1 0 20241225043153
+193.186.4.145 1 1 4486 20241231072611
+34.68.59.81 2 2 22838 20241217140742
+110.166.71.39 2 2 22838 20241231104554
+185.226.197.13 1 1 0 20241225011320
+167.160.79.125 0 1 472877 
+106.75.166.28 2 4 455494 20241201193542
+188.143.244.135 1 1 11382 20241231164552
+103.172.71.99 0 1 124215 
+167.160.76.201 0 1 66468 
+43.159.139.164 2 2 22840 20241220023129
+128.214.253.12 1 1 6353 20241206195933
+206.189.142.164 1 1 11384 20241212200734
+23.178.112.100 1 1 517 20241201185929
+119.12.235.127 1 1 11382 20241201100809
+34.221.114.127 2 2 1012 20241201185931
+3.144.121.109 1 1 506 20241201185941
+43.153.123.4 1 1 11421 20241226134817
+54.169.155.20 1 1 11382 20241201185146
+103.121.100.190 1 46 8857884 20241228194739
+42.83.147.56 3 3 34079 20241227054159
+161.35.113.151 1 2 2895572 20241212072640
+109.61.85.37 2 2 16983 20241210221133
+156.255.20.183 1 1 11421 20241213034932
+209.97.188.92 1 2 2059421 20241206135447
+185.147.125.24 4 4 244902 20241225163456
+62.210.124.144 1 1 11419 20241209031941
+80.85.245.145 2 2 19850 20241209160938
+172.96.90.170 0 1 131234 
+182.2.166.28 0 1 113231 
+199.244.88.230 2 2 20080 20241218191545
+216.213.27.49 0 1 204214 
+35.223.104.55 0 1 0 
+43.135.140.225 2 2 22840 20241229104355
+34.59.82.31 3 14 324734 20241214133408
+103.121.108.212 1 50 7192042 20241215132722
+106.75.169.16 3 11 676185 20241201190702
+84.139.25.196 1 1 5153 20241209034112
+43.135.130.202 2 2 22838 20241222210422
+170.106.140.110 1 1 11419 20241215091125
+195.211.77.140 1 1 1316 20241201190014
+185.224.128.43 1 1 11382 20241231060125
+167.160.72.44 0 1 148567 
+158.140.162.212 0 41 8829698 
+43.128.110.17 1 1 11421 20241211074616
+164.90.169.77 1 1 11421 20241230142124
+89.185.80.2 1 1 11419 20241222180322
+170.106.180.139 1 1 11419 20241230054330
+223.244.35.77 1 1 11419 20241219094851
+170.106.110.146 1 1 5420 20241223122329
+159.203.186.120 1 2 3469345 20241204072228
+168.91.14.34 0 3 700999 
+43.157.201.184 1 1 11419 20241221094051
+125.75.66.97 3 3 34263 20241230224950
+43.159.143.187 2 2 22842 20241222153008
+212.118.53.218 2 2 19850 20241222170535
+54.185.12.14 1 1 11419 20241203171655
+43.135.148.92 2 2 22840 20241205062345
+43.156.204.134 1 1 11419 20241217004029
+43.157.149.188 1 1 2761 20241223174353
+113.141.91.58 1 1 11419 20241217003827
+212.102.33.206 1 1 11419 20241218153429
+182.42.104.32 2 2 22838 20241215194021
+191.102.157.213 2 48 981289 20241225164422
+195.211.77.142 1 1 11419 20241201190034
+109.199.118.129 1 1 10040 20241226100753
+185.226.197.29 1 1 11419 20241205202400
+159.223.192.119 1 1 11421 20241216151639
+185.180.141.33 1 1 11419 20241224151909
+185.7.214.130 1 1 61218 20241220094630
+36.84.141.118 1 27 430675 20241219100955
+182.3.53.13 1 48 7033753 20241214195633
+170.106.113.235 3 3 34257 20241230182536
+13.51.86.244 1 1 506 20241201185931
+180.102.134.69 2 2 22838 20241220143719
+5.133.192.171 1 2 3469345 20241222152331
+106.75.164.149 1 3 258853 20241201190711
+43.159.140.236 2 2 16517 20241226171437
+5.133.192.87 1 2 3469345 20241210003531
+212.102.33.222 1 1 11419 20241221173749
+54.88.179.33 2 2 123008 20241211142553
+182.2.167.154 3 62 14725575 20241202150747
+62.141.44.236 3 3 30120 20241219172040
+88.99.26.177 2 2 22838 20241201190358
+146.190.162.203 2 2 19374 20241204033040
+198.211.117.174 1 2 3133140 20241208074736
+159.203.167.74 1 1 11419 20241213184317
+5.133.192.168 1 2 3469345 20241216083828
+46.4.61.110 1 1 9769 20241217040348
+182.42.110.255 1 1 11421 20241222083251
+206.168.34.122 1 1 0 20241228104402
+131.153.142.170 3 3 34257 20241202165144
+87.236.176.162 1 1 11382 20241223053950
+43.156.202.34 1 1 11421 20241212035011
+185.247.137.155 1 1 11384 20241219151806
+128.199.4.181 1 1 11419 20241226080703
+170.106.73.216 1 1 11419 20241201171442
+170.106.84.136 1 1 4455 20241226173212
+106.75.137.66 2 4 517422 20241201191025
+170.106.148.137 3 3 34263 20241212212640
+43.153.86.78 2 2 16515 20241226150021
+43.130.16.140 2 2 22840 20241231070033
+43.163.8.148 1 1 6531 20241223210831
+170.106.181.163 1 1 11419 20241204205154
+106.75.173.165 2 12 1115692 20241201190354
+142.147.108.114 0 1 124783 
+43.153.71.132 1 1 5420 20241226153125
+34.202.205.166 1 1 9732 20241222220947
+167.94.146.58 1 2 2174619 20241229133337
+87.236.176.205 0 1 3457357 
+185.247.137.201 1 1 11384 20241220074409
+89.169.34.140 1 1 10040 20241212210332
+43.159.135.203 1 1 11419 20241229041018
+110.172.98.2 1 1 11419 20241222060521
+76.164.207.143 2 2 14212 20241212001533
+124.226.222.66 2 2 22842 20241209180555
+161.82.239.115 1 1 9687 20241214140527
+49.7.227.204 1 1 11421 20241218202855
+182.5.8.163 0 1 124215 
+43.153.85.46 1 1 11421 20241202212029
+92.255.85.164 4 4 244872 20241225064024
+49.51.36.179 2 2 22842 20241225094500
+150.109.253.34 1 1 11421 20241231003912
+206.198.219.147 0 1 51203 
+114.124.150.121 3 89 17776979 20241201190743
+43.153.15.51 2 2 22840 20241223092304
+49.51.50.147 1 1 11421 20241228091338
+43.130.39.254 1 1 11419 20241209094947
+80.85.245.187 4 4 39700 20241220041158
+182.3.47.144 3 13 1148525 20241202100959
+182.44.8.254 2 2 22840 20241206012919
+15.204.182.106 2 2 22840 20241203092630
+156.146.36.95 1 1 0 20241207213601
+87.236.176.203 1 1 11382 20241223081924
+178.62.202.35 1 1 11421 20241218145935
+46.38.236.149 1 1 11384 20241228040130
+5.161.241.137 1 13 1424958 20241212144955
+94.103.87.196 2 2 19850 20241202025605
+172.96.93.210 0 1 16723 
+165.232.184.115 1 1 11382 20241202041609
+196.196.53.93 1 1 61218 20241215203906
+43.134.142.8 1 1 11421 20241206182655
+43.130.60.195 1 1 11421 20241217075831
+142.147.111.232 0 1 128110 
+54.184.119.225 1 1 11419 20241203171653
+43.159.152.187 1 1 11421 20241223031535
+52.74.35.155 2 2 22764 20241201184605
+80.85.247.231 4 4 39700 20241215170005
+182.3.45.244 0 1 74547 
+167.71.240.205 1 2 3288790 20241220132045
+43.153.216.189 1 1 11419 20241213115318
+43.159.145.149 1 1 11421 20241213232402
+43.153.54.138 1 1 11419 20241211064741
+101.50.1.70 2 47 9132678 20241201190239
+206.168.34.223 1 1 0 20241229094141
+185.147.125.18 2 2 122436 20241230222126
+87.236.176.175 0 1 3457357 
+193.186.4.182 1 1 0 20241223110426
+49.51.253.83 2 2 22840 20241228213934
+185.247.137.252 1 1 11382 20241224082534
+175.6.217.4 2 2 22842 20241211000905
+159.65.87.214 1 1 11419 20241228080805
+23.178.112.101 1 1 517 20241201185924
+192.104.34.34 4 4 61217 20241208211350
+142.147.108.43 0 1 15905 
+206.168.34.82 1 2 3469308 20241226222239
+162.62.213.165 1 1 11421 20241219134742
+138.246.253.15 1 1 0 20241220101804
+158.140.162.208 1 3 54550 20241201190247
+43.130.34.74 2 2 16515 20241223141845
+106.75.132.125 1 3 390301 20241201190546
+43.135.172.89 1 1 11421 20241215023702
+170.106.72.93 1 1 11421 20241206002848
+80.85.245.128 2 2 19850 20241219032115
+43.130.57.46 2 2 22840 20241220083801
+43.159.138.217 1 1 11421 20241210133626
+15.204.161.7 2 2 12715 20241204123039
+5.133.192.136 2 4 6938690 20241228223630
+170.106.192.3 1 1 5098 20241223163940
+43.153.96.233 1 1 11421 20241215154637
+77.238.225.41 3 3 31232 20241218034608
+43.130.15.147 2 2 22840 20241226071904
+221.229.106.25 1 1 11421 20241223150321
+193.186.4.146 1 1 0 20241210160415
+2a06:98c0:3600::103 2 2 16162 20241230111537
+49.51.180.2 1 1 5284 20241223120457
+43.156.228.27 1 1 11419 20241207040159
+43.135.145.73 1 1 11419 20241203231242
+80.85.246.214 2 2 19850 20241205164331
+134.209.203.34 1 2 3469345 20241218075644
+43.159.132.207 1 1 11421 20241208070251
+104.236.24.142 1 1 11419 20241230070950
+138.197.170.20 1 1 11384 20241217150028
+43.159.148.221 1 1 11419 20241214195841
+217.160.202.182 1 1 10040 20241207191533
+103.16.116.94 2 2 19374 20241228112858
+37.27.207.147 1 1 11382 20241228171934
+43.163.6.35 1 1 10575 20241223195404
+43.134.141.244 1 1 11421 20241217221917
+3.237.234.88 1 1 11419 20241206151037
+13.250.120.101 1 1 506 20241201185930
+43.153.122.30 1 1 11419 20241204003654
+43.135.135.57 1 1 11421 20241205004234
+124.236.100.56 1 1 11419 20241219131457
+43.153.119.119 1 1 11419 20241216113848
+64.23.183.23 1 2 3469345 20241222073603
+45.77.36.115 1 1 11419 20241231165421
+178.128.236.208 1 2 2346708 20241220080643
+142.147.111.166 0 1 3341111 
+182.3.50.59 3 99 17511237 20241206092748
+165.227.168.39 1 1 11419 20241210092417
+195.2.78.89 2 2 19850 20241207074148
+166.88.126.195 0 1 567176 
+106.75.168.5 3 5 390249 20241201192619
+27.115.124.101 1 1 11450 20241206085331
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20241201 61 378 71405211 36
+20241202 31 102 16413141 17
+20241203 12 13 3590593 10
+20241204 11 13 6438348 9
+20241205 12 12 180771 11
+20241206 22 120 22216738 16
+20241207 8 57 4814084 7
+20241208 9 10 3233126 6
+20241209 8 8 82104 7
+20241210 13 15 3737726 11
+20241211 11 11 221065 9
+20241212 15 28 4455955 13
+20241213 10 11 213250 9
+20241214 12 117 12488486 10
+20241215 10 59 7391457 9
+20241216 15 20 7229816 8
+20241217 12 56 316202 11
+20241218 11 18 4798635 11
+20241219 12 41 4606300 11
+20241220 23 27 9530531 16
+20241221 10 13 1101646 10
+20241222 13 16 7070523 12
+20241223 22 23 279613 22
+20241224 5 8 7539521 5
+20241225 9 57 4495818 8
+20241226 29 292 4831917 15
+20241227 4 4 22801 3
+20241228 15 105 14229416 14
+20241229 10 11 2262991 9
+20241230 10 11 212160 10
+20241231 10 10 156988 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 343
+30mn-1h 2
+2mn-5mn 2
+30s-2mn 7
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/ 349 5950737 308 284
+/properti/13/dijual-kavling-hoek-cluster-nebraska-kota-wisata-shm 17 141689 0 16
+/about 13 74731 5 7
+/properti/14/dijual-rumah-semi-furnished-2lt-cluster-visalia-kota-wisata-kota-wisata-bogor 7 44583 4 6
+/about_project 6 31571 1 3
+/kontak 6 26778 1 3
+/berita/read/kota-wisata-jadi-satu-satunya-perumahan-dengan-gerbang-tol-langsung-di-cibubur 6 33965 3 3
+/berita 5 23435 3 3
+/.well-known/acme-challenge/76mdNInDyuO4fUIcbnFusN2FpMzRvXEQvKpv1DYzlnY 5 2541 4 5
+/search/jual 4 37478 1 2
+/berita/layanan/jual-property 2 10568 2 2
+/properti/15/dijual-rumah-bagus-full-furnished-cluster-florence-kota-wisata-kota-wisata-bogor 2 12963 1 1
+/properti/16/dijual-cepat-kavling-hoek-cluster-west-covina-kota-wisata 1 6151 0 0
+/properti/4/kota-wisata-siap-huni-2-lantai 1 5895 0 0
+/berita/read/gerbang-tol-cbd-hingga-mall-tingkatkan-nilai-properti-di-kota-wisata-cibubur 2 11119 0 0
+/berita/layanan/kontraktor 2 10840 2 2
+/properti/7/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm 1 5899 1 0
+/properti/11/di-jual-rumah-di-komplek-graha-jala-yudha-angkatan-laut-al-shm-siap-huni 1 5966 1 1
+/berita/kategori/updates 3 15282 3 3
+/berita/kategori/mall-living-world-kota-wisata-telah-dibuka 1 0 1 1
+/agent/6 1 4715 1 1
+/search/sewa 3 24336 2 0
+/berita/read/mall-living-world-kota-wisata-telah-dibuka 2 8528 0 1
+/.well-known/traffic-advice 1 0 1 1
+/.well-known/acme-challenge/Dz_ny4A1dT9S4pf7PqtyTGMK0igtPZctMK___QT8KI4 4 2046 4 3
+/berita/layanan/sewa-property 1 5462 1 1
+/assets/aws/js/bootstrap.min.js.map 1 192261 0 1
+/properti/18/rumah-kota-wisata-hoek-mewah-depan-taman 1 5810 0 0
+/properti/17/rumah-kota-wisata-mewah-shm-siap-huni 2 13888 1 1
+/login 2 3901 1 1
+/berita/kategori/berita 1 4368 1 1
+/video 2 8910 2 2
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+2K-5K 872
+500-1K 173
+0-44 451
+1K-2K 858
+5K+ 2282
+100-500 493
+END_FILESIZE

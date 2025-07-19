@@ -1,0 +1,2681 @@
+AWSTATS DATA FILE 7.9 (build 20230109)
+# If you remove this file, all statistics for date 202410 will be lost/reset.
+# Last config file used to build this data file was /home/waisakap/domains/waisakaproperty.com/awstats/.data/awstats.waisakaproperty.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2150                
+POS_TIME 2812                
+POS_VISITOR 76735               
+POS_DAY 83508               
+POS_DOMAIN 3686                
+POS_LOGIN 3918                
+POS_ROBOT 4073                
+POS_WORMS 5025                
+POS_EMAILSENDER 5156                
+POS_EMAILRECEIVER 5299                
+POS_SESSION 84298               
+POS_FILESIZE 86095               
+POS_SIDER 84466               
+POS_FILETYPES 5434                
+POS_DOWNLOADS 5692                
+POS_OS 5740                
+POS_BROWSER 6038                
+POS_SCREENSIZE 7271                
+POS_UNKNOWNREFERER 7345                
+POS_UNKNOWNREFERERBROWSER 7760                
+POS_ORIGIN 7983                
+POS_SEREFERRALS 8123                
+POS_PAGEREFS 8288                
+POS_SEARCHWORDS 8436                
+POS_KEYWORDS 8588                
+POS_MISC 2475                
+POS_ERRORS 8647                
+POS_CLUSTER 3774                
+POS_SIDER_403 8811                
+POS_SIDER_404 9015                
+POS_SIDER_400 8933                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241101002237 3 595 20782351939710
+FirstTime 0
+LastTime 20241031210536
+LastUpdate 20241101002552 3 0 2 0 0
+TotalVisits 220                 
+TotalUnique 167                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 171                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 23 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 71 12786412 51 124 1461178
+1 11 67 12769124 48 104 3950949
+2 4 5 3503567 799 874 3754560
+3 8 8 68514 643 678 14224522
+4 6 6 106857 436 542 4120316
+5 11 72 14378754 286 414 5728674
+6 12 15 7173962 932 1001 6100465
+7 13 36 5364823 74 212 4433248
+8 9 15 12655845 51 132 7866316
+9 9 11 5077263 547 631 5825939
+10 8 8 229332 140 186 6335372
+11 10 99 17299241 56 117 6561014
+12 35 74 9045667 58 154 1713572
+13 17 51 8091546 670 713 8303475
+14 19 62 9056682 1358 1415 11125897
+15 9 58 7319061 40 77 1236372
+16 9 10 3526440 53 78 687167
+17 8 8 186885 41 70 512754
+18 10 58 13160660 66 144 4372188
+19 8 8 290334 41 118 722939
+20 13 13 245996 1246 1273 3224775
+21 12 12 252649 35 97 844713
+22 10 10 251990 69 263 4268857
+23 12 34 782227 66 155 1747719
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 279 811 143623831
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+AhrefsBot/ 550 3404263 20241031230509 70
+Bytespider 430 2350262 20241031235548 20
+Googlebot/ 381 3656141 20241031180909 27
+SemrushBot/ 238 1079180 20241030164305 108
+DotBot/ 196 3082742 20241021223659 101
+Applebot/ 179 29673123 20241030102345 13
+bingbot/ 149 3831940 20241031220936 30
+bbot 40 151451 20241016055807 21
+YandexBot/ 27 123642 20241029133247 11
+python 27 258767 20241019041201 0
+Googlebot\-Image/ 7 18920368 20241022220239 0
+feed 1 468 20241001045203 1
+bot[\s_+:,\.\;\/\\-] 7 54276 20241021184559 2
+CCBot/ 2 8372 20241005130502 1
+Go\-http\-client/ 5 41541 20241030172430 0
+crawl 5 35236 20241008172520 2
+MJ12bot/ 4 20104 20241026210613 2
+curl 1 11419 20241011180655 0
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 1 10040 20241016034407 0
+unknown 9 4191 20241030041218 9
+no_user_agent 9 437551 20241019033656 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+env 1 0 0 0
+js 160 1743225 0 0
+map 2 385172 0 0
+woff2 41 3076316 0 0
+php 224 4498110 0 0
+css 129 1121920 0 0
+jpeg 24 4909391 0 0
+Unknown 52 361368 0 0
+png 71 115786183 0 0
+jpg 107 11742146 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+androidoreo 22 2
+winxp 1 1
+win10 339 145
+android12 1 0
+ios_ipad 1 1
+win7 5 5
+Unknown 21 14
+linux 211 16
+android 1 1
+macosx11 1 1
+androidkitkat 1 1
+win8.1 2 2
+android10 51 7
+ios_iphone 70 70
+winnt 2 2
+androidnougat 4 4
+macosx15 78 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 57
+chrome121.0.0.0 25 25
+chrome109.0.0.0 44 1
+chrome124.0.0.0 24 12
+chrome101.0.4950.0 44 2
+chrome89.0.4389.82 4 4
+safari7.0 1 1
+safari16.6 1 1
+chrome124.0.6367.93 1 1
+mozilla 17 10
+chrome105.0.0.0 8 4
+chrome124.0.6367.78 5 5
+safari13.0.3 68 68
+firefox59.0 1 1
+safari17.3.1 1 1
+chrome102.0.5005.63 1 1
+edge17 1 1
+firefox63.0 1 1
+chrome60.0.3112.107 4 4
+chrome83.0.4103.97 1 1
+chrome55.0.2883.87 4 4
+firefox123 1 1
+chrome74.0.3729.169 3 3
+chrome60.0.3112.113 1 1
+chrome124.0.6367.92 1 1
+Unknown 6 6
+chrome125.0.0.0 2 2
+chrome91.0.4472.114 4 4
+chrome58.0.3029.110 2 2
+firefox115 2 2
+firefox130.0 117 3
+chrome124.0.6367.119 2 2
+chrome87.0.4280.88 22 2
+chrome113.0.0.0 1 1
+chrome126.0.0.0 24 15
+chrome92.0.4515.107 39 1
+chrome124.0.6367.91 1 1
+android 1 1
+chrome89.0.4389.114 4 4
+chrome66.0.3359.117 3 3
+chrome128.0.0.0 47 1
+chrome79.0.3945.130 21 21
+chrome129.0.0.0 137 12
+opera80.4.4244.7786 1 1
+chrome79.0 2 2
+chrome129.0.6668.100 1 0
+chrome127.0.0.0 28 6
+firefox67.0 1 1
+firefox52.0 1 1
+chrome78.0.3904.108 6 6
+chrome89.0.4389.86 7 7
+chrome124.0.6367.63 2 2
+chrome124.0.6367.60 1 1
+chrome122.0.0.0 5 5
+chrome88.0.4240.193 2 2
+chrome124.0.6367.61 6 6
+firefox129.0 1 1
+safari18.0.1 50 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+quic-go-HTTP/3 20241011155434
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241012090104
+axios/1.6.7 20241021005026
+Searcherxweb 20241006214405
+Chrome_Privacy_Preserving_Prefetch_Proxy 20241010163618
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241016093341
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Chrome_Privacy_Preserving_Prefetch_Proxy 20241010163618
+Searcherxweb 20241006214405
+axios/1.6.7 20241021005026
+quic-go-HTTP/3 20241011155434
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 145 193
+From1 6 6
+From2 12 14
+From3 0 0
+From4 116 598
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 12 14
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 3595 3831720
+403 3 4833
+404 3564 20185003
+405 3 585260
+500 58 17279920
+302 58 69433
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 2
+/.git/config 2 -
+//.git/default.php 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 2074
+/~vizelabs/wp-content/plugins/ifqkfrw/mtsimzwe.php 2 -
+/.well-known/pki-validationabout.php 1 -
+/dev.php 2 www.google.com
+/media/system/js/core.js 2 -
+//news/wp-includes/wlwmanifest.xml 7 -
+/wp-content/plugins/seoo/alfa-ioxi.php 1 -
+/wp-content/themes/index.php 2 -
+/wp-content/themes/wqcfm49j/fooster1337.php 1 -
+/wp-admin/users.php 1 -
+/wp-includes/class-wp-meta-query-json.php 1 -
+/blogs/wp-includes/css/buttons.css 1 -
+/wp-includes/SimplePie/about.php 3 -
+/about/function.php/shell.php/readme.php/text.php 2 -
+/1index.php 3 www.google.com
+/2022/news39//wp-content/themes/seotheme/db.php 2 -
+/wp-content/themes/6x0dtmdc/fooster1337.php 2 -
+/wp-content/plugins/sxx.php 2 -
+/gardendecor//wp-content/themes/pridmag/db.php 1 -
+/gold.php 1 -
+/kn.php 2 www.google.com
+/wp-includes/css 1 -
+//wp2/wp-includes/wlwmanifest.xml 7 -
+//wp-admin/user/about.php 1 -
+/.well-known/acme-challenge/doc.php 1 -
+/botwdhur.php 1 -
+/ZqnVAMN/luuf.php 1 -
+/wp-content/plugins/bcnixki/bmaikrfx.php 2 -
+/settings.php 2 -
+/pki-validation/admin1.php 1 -
+/xp.php 1 -
+/wp-includes/about.php 3 -
+//repeater.php 1 -
+/wp-admin/includes/GHoawuaa.php 1 -
+/index/luuf.php 1 -
+/wp-system.php 2 www.google.com
+/anons79.php 2 www.google.com
+/13.php 3 -
+/wp-content/plugins/css-ready/file.php 2 -
+/gecko.php 4 -
+/wp-content/plugins/5wr09dfi/fooster1337.php 1 -
+/manager.php 4 -
+/css/themes.php 1 -
+/wp-admin/user/xmrlpc.php 3 -
+/wp-admin/erin1.PhP7 1 -
+//.well-known/pki-validation/luuf.php 1 -
+/product.php 1 -
+/wp-content/themes/vmpsfbjh/fooster1337.php 2 -
+/wp-content/ovavxpzry.php 1 -
+/wp-includes/rest-api/ws.php.php 2 -
+/wp-content/uploads/autoload_classmap.php 1 -
+/foxwso.php 2 www.google.com
+/aa.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/wlknxoxg.php 1 -
+/core.php 1 -
+/abe.php 1 -
+/wp-includes/js/ws.php 1 -
+/wp-content/themes/cepair/doc.php 2 www.google.com
+/images/ioxi002.PhP7 1 -
+/wp-includes/block-editor.php 2 -
+/wp-content/themes/alera/gecko.php 1 -
+/assets/about.php7 1 -
+/images/inputs.php 2 -
+/wp-content/plugins/phocsqfz/fooster1337.php 1 -
+/block-patwp.php 2 www.google.com
+/avaa.php 4 -
+/config.php 3 -
+/wp-content/plugins/shell/luuf.php 1 -
+/wp-admin/ovabcxfdr.php 1 -
+/max.php 1 -
+/lufix.php 1 -
+/wp-one.php 2 www.google.com
+/assets/images/manager.php 2 -
+//wordpress/wp-includes/wlwmanifest.xml 7 -
+/cache-compat.php 2 -
+/indosec.php 2 -
+/classwithtostring.php 1 -
+/add_class.php 1 -
+/wp-includes/qqzqflcv.php 1 -
+/tool.php 1 -
+/defau1t.php 2 www.google.com
+/wp-admin/install.php 3 -
+/wp-content/gallery/about.php 2 -
+/modules/autoupgrade/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+//wp-content/themes/digital-download/new.php 1 -
+/wp-content/plugins/josozab/ypbuphxl.php 1 -
+/lock360.php 5 -
+/pchgflmv.php 2 -
+/10.php 2 www.google.com
+/.wp-cli/fosil.php 2 -
+/plugins.php 1 -
+/wp-content/themes/1hd4k2kz/fooster1337.php 1 -
+/priv8.php 3 www.google.com
+/wp-includes/class-admin.php 2 -
+/FoxWSO-full.php 2 www.google.com
+/htaccess.php 1 -
+/wp-includes/alfa-rex.php 1 -
+/ALFA_DATA/ws.php 1 -
+/wp-content/languages/luuf.php 2 -
+/.well-known/luuf.php 2 -
+/wp-content/themes/consultio/inc/demo-data/finance-rtl/con 1 -
+/wp-content/plugins/zedd/1.php 1 -
+/3.php 2 www.google.com
+/njwrdzrp.php 1 -
+/wp-head.php 3 -
+/utchiha.phP 2 www.google.com
+/wp-content/plugins/wp-freeform/includes/loadme.php 2 www.google.com
+/wp-content/themes/krs2kdwa/fooster1337.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/themes.php 1 -
+/index/admin.php 2 -
+/wp-content/themes/kadence/functions.php 1 -
+/wp-backup-sql-302.php 2 www.google.com
+//wp.php 1 -
+/ALFA_DATA/themes.php 1 -
+/config.php/text.php/qqzqflcv.php 1 -
+/cgi-bin/cgi-bin 2 -
+/wp-content/plugins/daeachprsl/wp-editor.php 2 -
+/app.php 2 -
+/yumhbntb.php 2 -
+/images/smilies/file.php 1 -
+/wp-admin/network/admin.php 2 -
+/0.php 3 www.google.com
+/plugins/alfa-rex.php 2 -
+/wp-admin/ovamgstpa.php 1 -
+//site/wp-includes/wlwmanifest.xml 7 -
+/wp-content/plugins/trxfree/elp.php 1 -
+/wp-admin/css/colors/modern/tRqUhh.php 1 -
+/wp-content/themes/noriumportfolio/img_screen.php 2 www.google.com
+/js/admin.php 2 -
+/wp-content/plugins/Cache/fosil.php 1 -
+/autoload_classmap.php/text.php/qqzqflcv.php 2 -
+/wp-admin/css/colors/modern/pcgpLhql.php 2 -
+/mfi.php 2 -
+/alf.php 2 www.google.com
+/v3.php 2 www.google.com
+/css 2 -
+/fileman/dev.html 1 -
+//wp-content/themes/seotheme/luuf.php 1 -
+/ALFA_DATA/alfacgiapi/alfa-rex.php 1 -
+/wp-includes/SimplePie/wp-login.php 2 -
+/wp-admin/css/colors/coffee/about.php 1 -
+/wp-includes 1 -
+/black.php 2 www.google.com
+/wp-includes/SimplePie/gzdecodes.php.suspected 3 -
+/wp-content/plugins/mar.php 1 -
+/function.php 1 -
+//wp-admin/includes/about.php 2 -
+/wp-content/themes/j4h3i9ec/fooster1337.php 1 -
+/wp-plugins.php 2 www.google.com
+/wp-content/plugins/hwapaus/rxvdtkeo.php 1 -
+/wp-content/plugins/wp-freeform/black2llleaf.php 1 -
+/orqdvcag.php 1 -
+/tshop.php 2 www.google.com
+/kupgjqzy.php 2 -
+/Simple.php 1 -
+/home.php 1 -
+/wp-content/ovawmhumw.php 1 -
+/ups.php 2 www.google.com
+/wp-admin/images/wp-login.php 2 -
+/js/js.php 1 -
+/wp-content/uploads/index.php 1 -
+/wp-content/est.php 1 -
+/wp-content/themes/9yatx80d/fooster1337.php 1 -
+/wp-content/plugins/lsmrtfs/lmnhgcib.php 1 -
+/languages/404.php 1 -
+/wp-content/upgrade/alfa-rex.php7 1 -
+/assets/editor/fileman/dev.html 1 -
+/wp-content/themes/mub7a1ve/fooster1337.php 1 -
+//wp-content/plugins/WordPressCore/include.php 1 -
+/wp-includes/Text/Diff/Engine/lmfi2.php 1 -
+/wp-site.php 2 www.google.com
+/gawean.PhP7 2 -
+/options-writing.php 1 -
+//wp-admin/css/colors/sunrise 1 -
+/wp-admin/images/oussdz.php 1 -
+/.well-known/pki-validation/x.php 2 -
+/wp-content/plugins/p3cmf96s/fooster1337.php 1 -
+/wp-content/plugins/fhergt 1 -
+/wp-includes/f0x.php 1 -
+/xzltqixj.php 1 -
+/alf4.php 2 www.google.com
+/rzhfy.php 2 -
+/wp-content/themes/cakiltheme/idx.php 2 www.google.com
+/mainpage/wp-content/plugins/fix/up.php 2 -
+/WSO.php 3 www.google.com
+/wp-content/alfa-rex.php8 1 -
+/f.php 3 -
+/alwso.php 2 www.google.com
+/wp-content/themes/1v624l7i/fooster1337.php 1 -
+/SH9JQ3.php 1 -
+/ALFA_DATA/admin.php 2 -
+/sys.php 2 www.google.com
+/mszydssv.php 1 -
+/wp-admin/admin-ajax.php 3 -
+/wp-includes/js/alfa-rex.php8 2 -
+/wsanon.php 2 www.google.com
+/.well-known/acme-challenge/license.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/foxx.php 2 www.google.com
+/images/about.php 5 -
+/alfa.php 5 -
+/.lu/luuf.php 1 -
+/wsoyanz.php 3 -
+/css.php 3 -
+/alfakun.php 2 www.google.com
+/6.php 2 www.google.com
+/wawe.php 2 www.google.com
+/wp-content/plugins/pwnd-2/pwnd.php 1 -
+/wp-includes/ID3 2 https://waisakaproperty.com/wp-includes/ID3/
+/wp-admin/css/colors/coffee/ioxi002.PhP7 2 -
+/wpindex.php 2 www.google.com
+/wp-comments-post.php 1 -
+/cgi-bin/index.php 2 -
+/asus.php 2 -
+/ALFA_DATA/alfacgiapi/fosil.php 1 -
+/wp-content/themes/5ub4481p/fooster1337.php 2 -
+/wp-includes/block-patterns/themes.php 3 -
+/wp-content/themes/f9adobjx/fooster1337.php 1 -
+/8.php 2 www.google.com
+/wp-includes/rest-api/alfa-rex.php7 1 -
+//wp-content/plugins/wp-sec/wp.php 1 -
+/old/wp-content/plugins/oldfree/elp.php 1 -
+/.well-known/acme-challenge/upfile.php 1 -
+/libraries/joomla/session/luuf.php 1 -
+/.well-known/pki-validation/xmrlpc.php 3 -
+/bless.php 2 http://waisakaproperty.com/bless.php#888xyz999
+/wp-content/plugins/Cache/api.php 1 -
+/tmpls.php 1 -
+//mari.php 1 -
+/wp-content/themes/tk9zgum9/fooster1337.php 1 -
+/wpup.php 2 -
+/options.php 1 -
+/.well-known/fierzashell.php 1 -
+/cgi-bin/radio.php 2 -
+/.well-known/pki-validation/parx.php 3 -
+//wp-content/plugins/linkpreview/db.php 1 -
+/wp-admin/js/autoload_classmap.php 1 -
+/wp-content/plugins/mvhwht7j/fooster1337.php 1 -
+/wp-content/plugins/Cache/admin.php 2 -
+/r57.php 2 www.google.com
+/la.php 2 www.google.com
+/wp-admin/js/about.php7 2 http://waisakaproperty.com/wp-admin/js/about.php7
+/xd.php 2 www.google.com
+/wso1.php 2 www.google.com
+/file-manager.php 1 -
+/wp-content/themes/twentytwentythree/patterns/index.php 1 -
+/uploads/alfa-rex.php8 1 -
+/wp-includes/SimplePie/Exception-class.php 1 -
+/wp-content/bp.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/zxhkccdc.php 1 -
+/wp-includes/customize/sxx.php 1 -
+/instaface/wp-content/themes/an1rsama/fooster1337.php 2 -
+/wp-we.php 2 www.google.com
+/wp-json/litespeed/v1/cdn_status 1 https://WAISAKAPROPERTY.COM
+/cgi-bin/cgi-bin/erin1.PhP7 1 -
+/991176.php 2 www.google.com
+/wp-includes/Requests/Transport/partners.php 1 -
+/themes/zMousse/otuz1.php 1 -
+/img/aqizhrnx.php 1 -
+/jp.php 1 -
+/wp-includes/js/tinymce/alfa-rex.php56 1 -
+//blog/wp-includes/wlwmanifest.xml 7 -
+/.well-known/pki-validation/install.php 2 -
+/wp-content/themes/erin1.PhP7 1 -
+/wordpress/ynz.PhP7 2 -
+/js/themes.php 1 -
+/ALFA_DATA/alfacgiapi/ws.php.php 2 -
+/nzwxrdrl.php 2 -
+/libraries/legacy/updates.php 2 -
+/p6ko99ke.php 1 -
+/wp-admin/user/index.php 2 -
+/wp-includes/rest-api/fosil.php 1 -
+/wp_wrong_datlib.php 2 www.google.com
+/anjay.php 2 www.google.com
+/.well-known/iwpairbj.php 1 -
+/sala/wp-content/plugins/fix/up.php 2 -
+/wp-includes/images/media/JERzeK.php 1 -
+/wp-admin/css/colors/midnight/wp-login.php 1 -
+/estudiante16/default.php 1 -
+/wp-content/plugins/fonnvlu/bahrcaug.php 1 -
+/wp-content/themes/twentyeleven/functions.php 1 -
+/css/alfa-rex.php8 1 -
+/wp-content/themes/luuf.php 1 -
+/future-of-cloud-17/wp-content/plugins/fix/up.php 2 -
+/wp-includes/function.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/.well-known/pki-validation/afnew.php 3 -
+/wp-key.php 2 www.google.com
+/marijuana.php 3 www.google.com
+/assets/wp-login.php 2 -
+/wp-includes/ID3/luuf.php 1 -
+/4tl1h0lm.php 1 -
+/wp-admin/images/cloud.php 3 -
+/feedback.php 1 -
+/wp-content/ovamujgxi.php 2 -
+/403.php 2 www.google.com
+/authorize.php 1 -
+/wordpress/wp-includes/css/buttons.css 1 -
+/pegi.php 1 -
+/admin/wp-fclass.php 2 -
+/wp-admin/network/cloud.php 3 -
+/cgi-bin/xmrlpc.php 5 -
+/iedqxery.php 1 -
+/assets/themes.php 1 -
+/wp-includes/blocks/query-pagination-numbers 1 -
+/gank.php.PhP 2 www.google.com
+/tesla.php 2 www.google.com
+/ALFA_DATA/alfa-rex.php 2 -
+/wp-content/plugins/xxcvw 1 -
+/bezzozdp.php 2 -
+/.well-known/pki-validation/classwithtostring.php 2 -
+/wp-admin/images 1 -
+/wp-includes/js/plupload/TqYLASaEkH.php 1 -
+/wp-content/themes/x0wn04ey/fooster1337.php 1 -
+/wp-content/plugins/ty6yz6gk/fooster1337.php 2 -
+/wp-content/plugins/9rafadt6/fooster1337.php 1 -
+/wp-includes/SimplePie/Decode/lv.php 1 -
+/storage/filemanager.php 1 -
+/wp-admin/js/wp-login.php 1 -
+//wp-includes/SimplePie/about.php 2 -
+/item.php 2 -
+/postfs.php 2 www.google.com
+/gank.php 2 www.google.com
+/wp-content/themes/1ibye7fh/fooster1337.php 2 -
+/qindex.php 2 www.google.com
+/wp-content/wso.php 1 -
+/randkeyword.PhP8 1 -
+/.well-known/file.php 1 -
+/.well-known/about.php 4 -
+/js/alfa-rex.php8 2 -
+/wp-includes/customize/class-wp-customize-new-menu-section-compiler.php 1 -
+//shell20211028.php 1 -
+/img/about.php 2 -
+/wp-content/dir/fosil.php 2 -
+/ring.php 1 -
+/public/option.php 1 -
+/cgi-bin/install.php 1 http://waisakaproperty.com/cgi-bin/install.php
+/wp-content/dir/ws.php.php 1 -
+/n.php 2 www.google.com
+//wp-admin/images/wp-login.php 2 -
+/web/wp-admin/install.php 1 -
+/xmlrpc.php 1 -
+/wp-content/languages/about.php7 1 -
+/wp-content/plugins/iedqxery/fooster1337.php 1 -
+/sitemap_index.xml 2 -
+/wp-admin/css/colors/modern 2 -
+/uploads/ws.php.php 2 -
+/my-awesome-site//wp-content/themes/pridmag/db.php 1 -
+/cgi-bin/alfa-rex.php8 1 -
+/V3.php 2 www.google.com
+/wp-content/themes/skatepark/img_screen.php 2 www.google.com
+/ccaef.php 2 www.google.com
+/ffAA531.php 2 www.google.com
+/js.php 2 www.google.com
+/plugins/wp-help/admin/wp-fclass.php 1 -
+/mass.php 2 www.google.com
+/tuco.php 2 www.google.com
+/SimplePie/Cache/checkbex.php 1 -
+/xindex.php 2 www.google.com
+/wp-content/plugins/envato-market/inc/class-envato-market-github.php 2 -
+/cgi-bin/cloud.php 3 -
+/wp-admin/cloud.php 2 -
+/ligkglcg.php 1 -
+/wp-content/themes/gjndu36o/fooster1337.php 1 -
+/reportes/wp-content/themes/e6rffsr5/fooster1337.php 2 -
+/.well-known/traffic-advice 3 -
+/wp-content/languages/alfa-rex.php8 2 -
+/rHjcUTLj.php 1 -
+/bs.php7 2 -
+/Marvins.php 1 -
+/wp-admin/themes.php 2 -
+/js/alfa-rex.php56 2 -
+//wordpress/wp-content/plugins/trfree 2 -
+/blog/wp-includes/fonts/iqb.php 2 www.google.com
+/wp-admin/js/ldigzw.php 2 -
+/0x.php 2 -
+/t.php 3 www.google.com
+/wp-content/plugins/Core-Econ/upH.php 1 -
+/wp-content/ovatouruo.php 1 -
+/vendor/laravel-filemanager/js/lfm.js 1 -
+/~vizelabs/wp-content/plugins/pfqygot/lebvinaa.php 1 -
+/wp-content/plugins/tbruqvw/ftpzhflf.php 2 -
+/plugin.php 1 -
+/lufi.php 1 -
+/symlink.php 2 www.google.com
+/wp-includes/customize/123.php 1 -
+/cgi-bin/cgi-bin/alfa-rex.php 1 -
+/bsrdf.php 1 -
+/cgi-bin/about.php7 2 -
+/cgi-bin/cgi-bin/about.php 2 -
+/js/fileman/dev.html 1 -
+/rsf.php 2 -
+/wp-content/plugins/utaavla/xgppwtlj.php 2 -
+/wp-content/plugins/db/mar.php 2 www.google.com
+/degeselih.php 2 www.google.com
+/cache/g/a/g/f/duqyhfnlbcr.php 2 -
+//wp-content/themes/about.php 2 -
+/packed.php 2 -
+/sitemaps.xml 2 -
+/wp-includes/Text/admin.php 1 -
+//wp-content/plugins/simple/simple.php 1 -
+/wp-content/languages/about.php 3 -
+/wp-admin/includes/class-wp-page-0MC1kr.php 2 -
+/wp-admin/css/colors/blue/blkcbfpl.php 2 -
+/wp-content/alfa.php 1 -
+/alfanew.php7 3 -
+/.well-known/qdsqxykt.php 1 -
+/wp-content/plugins/apikey/mar.php 1 -
+//xmlrpc.php 7 -
+/wp-mail.php 1 -
+/ova-tools.php 2 -
+/wp-content/upgrade/index.php 1 -
+/wso.php 2 www.google.com
+/tonant.php 2 www.google.com
+/cgi-bin/fosil.php 2 -
+/wp-includes/SimplePie/file.php 2 -
+/wp-includes/class-snoopi.php.suspected 2 -
+/wp-admin/includes/jesIpp.php 1 -
+/wp-admin/images/atomlib.php 2 -
+/wso1337.php 2 www.google.com
+/wp-mails.php 2 www.google.com
+/assets/images/787f128efb.php 1 -
+/wp-content/upgrade-temp-backup/about.php 4 -
+/.well-known/sxx.php 2 -
+/wp-content/flame.php 2 www.google.com
+/sql.php 2 www.google.com
+/sidwsi.php 2 -
+/templates/hcapmaster_comps.php 2 -
+/lolzk.php 2 www.google.com
+/images/egogjvmu.php 1 -
+/wp-content/themes/gpgfxnp/ujdimark.php 1 -
+/wp-content/themes/meo5q6dg/fooster1337.php 1 -
+/wp-content/themes/skatepark/db.php 2 www.google.com
+/.well-known/acme-challenge/worksec.php 1 -
+/wp-admin/css/colors/modern/ECLmcjPC.php 1 -
+/sitemap.xml 5 -
+/wp-content/themes/bxjwxbk/kmzuqykr.php 1 -
+/wp-content/uploads/2024/09/luuf.php 2 -
+/wp-admin/js/about.php 7 -
+/wp-content/fonts/ws.php.php 2 -
+/blog/wp-includes/fonts/dev.php 2 www.google.com
+/id.php 2 www.google.com
+/wp-content/themes/hideo/network.php 1 -
+/wp-admin/maint/go.php 1 -
+/wp-content/themes/twentytwenty/functions.php 1 -
+/wp-admin/ioxi002.PhP7 1 -
+/dosya.php 2 www.google.com
+/q.php 2 www.google.com
+/wp-includes/fonts/wp-login.php 2 -
+/wp-content/uploads/y.php 1 -
+/wp-content/themes/fitnessbase/crp.php 2 www.google.com
+//wp-content/plugins/revslider/includes/external/page/index.php 2 -
+/themes.php 1 -
+/wp-content/themes/9xu60d0w/fooster1337.php 2 -
+/wp-includes/css/buttons.css 1 -
+/wp-includes/Text/7ayddz.php 1 -
+/.well-known/acme-challenge/wso112233.php 2 -
+//wp-admin/css/wp-login.php 1 -
+/404.php 3 -
+/wp-admin/bmokwybx.php 2 -
+/js/crop/cropper.php 1 -
+/wp-includes/ID3/wp-login.php 1 -
+/.well-known/pki-validation/wp-sigunq.php 1 -
+/wp-includes/fex.php 2 -
+/.well-known/doc.php 1 -
+/wp-includes/ID3/mariju.php 1 -
+/864axcqt.php 2 -
+/w3llstore.php 2 www.google.com
+/wp-includes/themes.php 1 -
+/l.php 2 www.google.com
+/templates/beez3/ctilfnjt.php 2 -
+/ws.php 4 -
+/new/wp-admin/install.php 1 -
+/wp-content/plugins/6i85g10k/fooster1337.php 1 -
+/nf_tracking.php 1 -
+/thumbs.php 1 -
+//.well-known/pki-validation/wp-login.php 1 -
+/wp-content/plugins/frbzyba/fcqushsg.php 1 -
+/sym.php 2 www.google.com
+/about.php 8 -
+/wp-content/plugins/about.php 2 -
+/wp-admin/css/colors/blue/index.php 2 -
+/alfa-rex.php 2 -
+/temp 1 -
+/0z.php 2 www.google.com
+/wp-includes/Text/Diff/Engine.php 1 -
+/modules/mod_ariimageslidersa/vagvjnhd.php 1 -
+/wp-content/plugins/usgdwko/nktehugn.php 2 -
+/wp-admin/js/widgets/COBUIy.php 1 -
+//gel4y.php 2 -
+/wp-content/themes/beeycrd/gijbkfzq.php 1 -
+/wp-content/themes/ow5k50sh/fooster1337.php 1 -
+/iq.php 2 www.google.com
+/wp-includes/widgets/themes.php 1 -
+/wp-content/plugins/revslider/includes/external/page/index.php 2 -
+/wp-content/radio.php 1 -
+/nasgor.php 2 www.google.com
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-admin/css/colors/blue/blkcdmdz.php 1 -
+//wp-content/themes/pridmag/db.php 2 -
+/wp-admin/css/colors/hOiNKc.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/alfa-rex.php8 1 -
+/.well-known/acme-challenge/admin.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/ws.php 1 -
+/wp-content/themes/e6v27bqq/fooster1337.php 2 -
+/profile.php 2 -
+/min.php 2 www.google.com
+/doc.php 3 -
+/blog/wp-includes/css/buttons.css 1 -
+/priv.php 3 -
+/wordpress/themes.php 2 -
+/fnyeltio.php 2 -
+/mvhwht7j.php 1 -
+/wp-includes/wso.php 1 -
+/customize.php 2 -
+/wp-configer.php 2 www.google.com
+/wp-content/mu-plugins-old/index.php 2 www.google.com
+/ALFA_DATA/alfacgiapi/wp-conflg.php 1 -
+/wp-content/themes/sohtoj03/fooster1337.php 1 -
+/wp-content/plugins/seoo/luuf.php 2 -
+/wp-content/uploads/wp-login.php 2 -
+/testwp.php 2 www.google.com
+/wp-admin/network/xmrlpc.php 2 -
+/ALFA_DATA/erin1.PhP7 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/moodle/default.php 2 -
+/wp-admin/maint/users.php 1 -
+/wp-admin/user 1 -
+/fm1.php 1 -
+/wp-cache.php 2 -
+/rorykqqh.php 2 -
+/wp-includes/SimplePie/network.php 1 -
+/wordpress/wp-content/plugins/erfd/ms-edit.php 2 -
+/zk.php 2 www.google.com
+/con7.php 2 www.google.com
+/wp-content/ovaflhffe.php 1 -
+/js/atomlib.php 1 -
+/default.php 2 -
+/upload/surat_masuk/about.php 2 -
+/wp-content/themes/api.php 1 -
+/assets/images/ups.php 3 -
+/wp-content/plugins/cp-pro/luuf.php 1 -
+/room.php 2 www.google.com
+/cache/f/e/d/a 2 -
+/edit.php 1 -
+/.well-known/pki-validation/sxx.php 2 -
+/thfd.php 2 -
+/uploads/upload.php 1 -
+/wp-content/plugins/tuenucrlvl/luuf.php 1 -
+/wp-includes/js/about.php 1 -
+//wp-content/languages/luuf.php 1 -
+/qinfofuns.php 1 -
+/wp-includes/jp.php 2 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/lf.php 2 www.google.com
+/wp-content/themes/workart/db.php 2 www.google.com
+/srx.php 2 www.google.com
+/ozb8yz26.php 2 -
+/wp-admin/css/colors/blue/atomlib.php 2 -
+/assets/about.php 1 -
+/4mosan.php 2 www.google.com
+/wp-file.php 1 -
+/1877.php 2 www.google.com
+/backup/wp-admin/install.php 1 -
+/wp-includes/js/alfa-rex.php 1 -
+/wp.php 5 -
+/wp-content/uploads/themes.php 1 -
+/wp-title.php 2 www.google.com
+/wp-content/themes/wxifoghn/fooster1337.php 1 -
+/worksec.php 2 -
+/wp-content/themes/ws.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/vvmczyrm.php 1 -
+/wp-content/themes/trtnvjz/kzwmwqxy.php 1 -
+/wp-content/themes/h94apf1r/fooster1337.php 2 -
+/wp-admin/maint/atomlib.php 1 -
+/wp-content/themes/seotheme/mar.php 5 -
+/fpvztega.php 1 -
+/wp-admin/js/widgets/cloud.php 5 -
+/wp-content/blogs.dir/about.php 4 -
+/wp-includes/js/jquery/jquery.js 2 -
+/kgomwscz.php 1 -
+/wp-admin/css/colors 1 -
+/wp-admin/css/colors/index.php 4 -
+/cgi-bin/cgi-bin/alfa-rex.php8 1 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-includes/js/tinymce/plugins/compat3x/css/ioxi002.PhP7 1 -
+/user/info.php 1 -
+//wp-content 1 -
+/atomlib.php 1 -
+/wp-booking.php 2 www.google.com
+/wp-admin/css/about.php 4 -
+/wp-includes/certificates/logins.php 2 -
+/codeboy1877x.php 2 www.google.com
+/wp-content/plugins/ynz.PhP7 2 -
+/wp-content/uploads/2014/was-wp.php 1 -
+/wp-content/plugins/pwnd 1 -
+/wp-includes/repeater.php 2 -
+/wp-content/plugins/wp-help/index.php 1 -
+/content.php 4 -
+/wp-logout.php 1 -
+/classwithtostring.php/rbzccnnp.php/text.php 1 -
+/wp-includes/js/admin.php 1 -
+/byp.php 5 -
+///wp-admin/js/widgets 1 -
+/wp-content/ovasyyyqk.php 2 -
+/0byte.php 2 www.google.com
+/wp-includes/js/alfa-rex.php56 1 -
+/wp 1 -
+/wp-includes/index.php 3 -
+/wp-content/plugins/linkpreview/db.php 7 -
+/wp-content/themes/wp-classic/inc/index.php 2 -
+/.well-known/acme-challenge/plugins.php 1 -
+//wp-content/uploads/js_composer/luuf.php 1 -
+/css/index.php 3 -
+/cgi-bin/wp-login.php 1 -
+/iqb.php 2 www.google.com
+/wp-includes/style-engine 1 -
+/images/admin.php 1 -
+/wp-admin/css/wp-login.php 1 -
+//wp-content/plugins/wp-login.php 1 -
+/.well-known/pki-validation/cloud.php 4 -
+/wp-content/themes/alera/alpha.php 4 -
+/mfjtrzzg.php 1 -
+/site/fosil.php 1 -
+/ynz.PhP7 2 -
+/s/Text/erin1.PhP7 1 -
+/kepo.php 2 www.google.com
+/images/xmrlpc.php 2 -
+/mini.php 5 -
+/wp-includes/js/tinymce/skins/lightgray/img/luuf.php 1 -
+/mail.php 2 -
+//js/upfile.php 2 -
+/wp-includes/certificates/index.php 1 -
+/media.php 1 -
+/wp-includes/css/tools.php 2 -
+/wp-includes/Text/api.php 1 -
+/xdqablrk.php 2 -
+/wp-defaul.php 2 www.google.com
+/custom-header.php 1 -
+/old 1 -
+/wsoyanzfv3.phP7 2 -
+/wp-includes/style-engine/about.php 4 -
+/wp-content/languages/wp-login.php 2 -
+/wp-content/themes/fswm8po3/fooster1337.php 1 -
+//themes.php 1 -
+/wp-wso.php 2 www.google.com
+/wp-content/themes/prr2d5sb/fooster1337.php 1 -
+/wp-content/luuf.php 1 -
+/.well-known/pki-validation/mariju.php 1 -
+/.well-known/acme-challenge/autoload_classmap.php 1 -
+/ms-upgrade-network.php 2 -
+/wp-content/ovagwbtbi.php 2 -
+/wp-content/updates.php 4 -
+/lol.php 2 www.google.com
+/0x0.php 2 www.google.com
+/wp-includes/js/tinymce/admin.php 2 -
+/wp-includes/PHPMailer/alfa-rex.php 2 -
+/.well-known/acme-challenge/about.php 2 -
+/wp-content/themes/b22behou/fooster1337.php 1 -
+/Mo2AaAaAaPrivateShell.php 2 www.google.com
+/ALFA_DATA/alfacgiapi/alfa-rex.php8 2 -
+/.well-known/acme-challenge/fond.php 1 -
+/wp-includes/wp-includes/class-wp-widget-factory.php 1 -
+/wp-content/plugins/mowvjxh/vctikuij.php 2 -
+//web/wp-includes/wlwmanifest.xml 7 -
+/images/t.php 2 -
+/batm.php 2 www.google.com
+/images/mariju.php 1 -
+/alfa-rex.php8 1 -
+//wp-admin/network/index.php 1 -
+/wp-includes/css/dist/components/admin.php 1 -
+/assets/alfa-rex.php7 2 -
+/shirtkobain/mail.php 1 -
+/wp-includes/rest-api/alfa-rex.php8 2 -
+/wp-admin/fmadmin.php 1 -
+//images/mini.php 2 -
+/hello.php 2 www.google.com
+/wp-includes/js/tinymce/plugins/compat3x/css/alfa-rex.php 1 -
+/wp_cron.php 1 -
+/api.php 1 -
+/wp-content/plugins/fosil.php 2 -
+/wp/wp-admin/includes/class-wp-filesystem-base.php.bak 1 -
+/.well-known/aatvncrr.php 1 -
+/edit-tags.php 3 -
+/wp-content/ovaehukjx.php 2 -
+/kndw1.php 2 www.google.com
+/galekjaya.php 2 www.google.com
+/alfacgiapi/alfa.php 2 -
+/v.php 2 www.google.com
+/bypas.php 2 www.google.com
+/shl.php 2 www.google.com
+/wp-content/themes/tflow 2 -
+/demo.php 1 -
+/backup 1 -
+/class.php 3 -
+/wp-content/uploads/paste.myconan.net/ovavoucrt.php 2 -
+/FoxWSOv1.php 2 www.google.com
+/db.php 3 -
+/luuf.php 2 -
+/wp-content/plugins/alfa-rex.php7 1 -
+/wp-admin/css/colors/admin.php 1 -
+/wp-editor.php 1 -
+//dropdown.php 1 -
+/wp-content/themes/ioxi002.PhP7 2 -
+/.well-known/pki-validation/file.php 2 -
+/adriv.php 2 www.google.com
+/js/erin1.PhP7 1 -
+/ohayo.php 2 www.google.com
+//wp-2019.php 1 -
+/wp-content/themes/mvhwht7j/fooster1337.php 2 -
+/wp-includes/Requests/network.php 1 -
+/god4m.php 2 www.google.com
+/wp-content/plugins/seoplugins/mar.php 3 -
+/.well-known/admin.php 1 -
+/lUcaHqp/luuf.php 1 -
+/max.php/text.php/mariju.php 1 -
+/wp-content/plugins/updraftplus/central/css/luuf.php 1 -
+/admin.php 8 -
+/wp-includes/l10n 1 -
+/ufdqlzwb.php 2 -
+/js/ws.php.php 1 -
+//inc.php 1 -
+/tdgdesr.php 2 -
+/wp-content/ovarcgosl.php 1 -
+/wp-admin/includes/1975Team.php 2 -
+/wp-includes/makeasmtp.php 2 -
+/wp-includes/zwi-cofg.php.suspected 1 -
+/wp-content/ovarzpfnh.php 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-includes/Text/Diff/MdwwZ.php 2 -
+/wp-content/plugins/dfgs/ms-edit.php 2 -
+/wp-admin/includes/cloud.php 4 -
+/cjfuns.php 1 http://waisakaproperty.com/cjfuns.php
+/img/bangu.php 2 -
+/ALFA_DATA/alfacgiapi/shell.php 1 -
+/wp-includes/class-wp-other.php 2 www.google.com
+/sendmail.php 2 www.google.com
+/worm0.PhP7 2 -
+//img/about.php 1 -
+/wp-content/plugins/cekidot/mar.php 2 www.google.com
+/Dz.php 2 www.google.com
+/wp-includes/js/codemirror/index.php 2 -
+/wp-content/updraft/themes.php 1 -
+/wp-includes/Requests/Text/admin.php 2 -
+/www.php 2 www.google.com
+/nowp.php 2 -
+/wp-content/upload.php 2 -
+/ws.php7 2 -
+/wp-content/wso112233.php 2 -
+/.well-known/pki-validation/upfile.php 2 -
+/xeijumgl.php 1 -
+/wp-class.php 3 www.google.com
+/wp-content/themes/tflow/up.php 1 -
+/wp-content/plugins/pwnd/pwnd.php 2 -
+/wp-admin/GLAX3NCMq47.php 1 -
+/admin/uploads/cklnruxv.php 1 -
+/footer.php 1 -
+/wp-content/plugins/wp-freeform/wawe.php 2 www.google.com
+/wp-content/item.php 2 -
+/wp-content/plugins/onmrxst/yofffrbx.php 2 -
+/as.php 1 -
+/init.php 3 www.google.com
+/wp-admin/network/luuf.php 1 -
+/wp-content/themes/gol5mqem/fooster1337.php 1 -
+/xxx.php 2 www.google.com
+/dirs.php 2 -
+/wp-includes/widgets/class-wp-widget-media-images.php 1 -
+/wp-content/languages/themes.php 1 -
+/c99.php 2 www.google.com
+//media/wp-includes/wlwmanifest.xml 3 -
+/test 1 -
+/wp-links.php 1 -
+/wp-admin/css/colors/blue/blkncoix.php 2 -
+/wp-includes/fonts/doc.php 1 -
+/.well-known/pki-validationabout.php7 1 -
+/.well-known/rk2.php 1 -
+//default.php 1 -
+/wp-content/themes/twentyfive/include.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/uploads/about.php7 1 -
+/system.php 3 -
+/wp-includes/class-wp-block-styles-registry.php 1 -
+/wp-includes/js/tinymce/api.php 1 -
+/wp-aa.php 2 -
+/wp-includes/radio.php 1 -
+/wp-includes/wp-activate.php 2 -
+/wp-admin/includes/fex.php 2 -
+/Njima.php 2 -
+/ccx/index.php 2 -
+/payment.php 1 -
+/assets/expect.php 2 -
+/wp-admin/css/colors/blue/luuf.php 2 -
+//css.php 1 -
+/.well-known/btsmicjy.php 2 -
+/wp-content/uploads/paste.myconan.net/ovauqbkic.php 2 -
+/public_html//wp-content/themes/seotheme/db.php 1 -
+/hi.php 2 www.google.com
+/wp-content/themes/alera/alera 1 -
+/wp-content/themes/as/radio.php 2 -
+/pgs.phP7 2 -
+/assets/admin.php 1 -
+/wp-includes/pomo/install.php 1 -
+/wp-includes/php-compat/index.php 1 -
+//up.php 1 -
+/up.php 4 -
+/.well-known/acme-challenge/install.php 2 -
+/wp-includes/install.php 3 -
+/wp-admin/images/file.php 1 -
+/anone.php 2 www.google.com
+/libraries/vendor/updates.php 2 -
+/wp-admin/maint/plugins.php 2 -
+/wp-includes/js/crop/index.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/css/about.php 1 -
+/wp-includes/IXR/doc.php 2 -
+/wp-includes/Requests/menu.php 1 -
+/wp-p.php7 3 -
+/wp-admin/css/colors/xPPIeqvrsJ.php 2 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-content/themes/wp-pridmag/up.php 4 -
+/.well-known/acme-challenge/shimo.php 2 -
+/wp-content/plugins/whlp/includes/wp-heart.php 2 -
+/bod/.ll/luuf.php 1 -
+/kk.php 2 www.google.com
+/87.php 2 www.google.com
+/.well-known/wp-signup.php 2 www.google.com
+/power.php 1 -
+/lzmrjmgg.php 2 -
+/wp-includes/SimplePie/Content/Type/rangma.php 1 -
+/base.php 2 www.google.com
+/app 2 https://waisakaproperty.com/app/
+/add.php 1 -
+/cgi-bin/about.php 3 -
+/site/wp-includes/css/buttons.css 1 -
+/wp-content/updraft 1 -
+/wp-includes/Text/wp-login.php 1 -
+/docindex.php 2 www.google.com
+/blog/wp-admin/install.php 1 -
+/wp-admin/includes/wp-login.php 1 -
+/wp-content/themes/seotheme/db.php 4 -
+/wp-admin/network 2 -
+/4.php 2 www.google.com
+//wp-admin/js/widgets 2 -
+/wp-content/plugins/xhxevus/iyyrbewj.php 1 -
+/wp-content/themes/wp-pridmag/init.php 3 www.google.com
+/wp-includes/certificates/wp-login.php 1 -
+/wp-includes/Text/about.php 6 -
+/wp-content/updraft/about.php 2 -
+/wp-atom.php 3 -
+/wp-2019.php 4 -
+/modules/mod_simplefileuploadv1.3/elements/oizbojxn.php 2 -
+/wp-content/themes/plugins.php 1 -
+/xleet.php 3 www.google.com
+/wp-includes/rest-api/ws.php 1 -
+/owAKyWT/luuf.php 1 -
+/lib/fileman/dev.html 1 -
+//image/gecko.php 1 -
+/wp-admin/index.php 3 -
+/wp-content/themes/fswefy0o/fooster1337.php 1 -
+/wp-includes/sitemaps/providers/index.php 2 -
+/wp-includes/fonts/plugins.php 1 -
+/wp-admin/css/colors/light/vSqcqEF.php 2 -
+/wp-content/upgrade-temp-backup 1 -
+/modules/mod_simplefileuploadv1.3/elements/shalxqug.php 1 -
+/wp-signup.php 2 -
+/wp-admin/maint/repair-condition.php 1 -
+/wp-includes/sxx.php 1 -
+/site/wp-admin/install.php 1 -
+/minishell.php 2 www.google.com
+/wp-content/themes/noriumportfolio/alpha.php 2 www.google.com
+/wp-admin/user/about.php 2 -
+/alfa-rex2.php7 2 -
+/wp-admin/ajax-actions.php 2 -
+/z.php 2 www.google.com
+/files/index.php 2 -
+/wp-content/uploads 1 https://waisakaproperty.com/wp-content/uploads/
+//website/wp-includes/wlwmanifest.xml 7 -
+/wp-admin/alfa-rex.php8 1 -
+/images/alfa-rex.php 1 -
+/wp-trackback.php 2 -
+/.well-known/lofmebwd.php 1 -
+/wp-content/certificates/includes 2 -
+/wp-content/ovaeujchh.php 1 -
+/wp-admin/css/up.php 1 -
+/wp-admin/admin.php 1 -
+/wp-content/themes/76qiprzo/fooster1337.php 2 -
+/wp-content/plugins/virr/uploader.php 2 www.google.com
+/wp-content/style-css.php 1 -
+/wp-admin/includes/class-wp-users.php 1 -
+/anon.php 2 www.google.com
+/.well-known/pki-validation/404.php 1 -
+/wp-includes/js/fosil.php 1 -
+/9.php 2 www.google.com
+/.well-known/pki-validation/wp-login.php 2 -
+/wp-admin/includes/luuf.php 1 -
+/un.php 4 www.google.com
+/wp-content/plugins/dzs-zoomsounds/1877.php 2 -
+/vuln.php 2 www.google.com
+/wp-content/sxx.php 1 -
+/wp-admin/js/cc.php 1 -
+/wp-content/fonts/ws.php 1 -
+/cms/wp-content/plugins/fix/up.php 1 -
+//xmrlpc.php 1 -
+/wp-content/themes/jnemuhn2/fooster1337.php 2 -
+/wp-content/plugins/fix/autoload_classmap.php 1 -
+/wp-content/plugins/trfree/elp.php 1 -
+/classsmtps.php 1 -
+/defaults.php 3 -
+/wp-content/themes/pridmag/init.php 2 www.google.com
+/wp-content/themes/astra/inc/ki1k.php 3 -
+/wp-content/themes/travel 2 -
+/images/class-config.php 2 -
+/wp-includes/sitemaps/providers/rk2.php 1 -
+/wp-content/plugins/o2ytteco/fooster1337.php 1 -
+/wp-admin/css/colors/blue/rk2.php 2 -
+/css/alfa-rex.php 2 -
+/wp-content/ovacnqjzf.php 1 -
+/tresculturas.mx/wp-content/plugins/fix/up.php 1 -
+/cgi-bin/erin1.PhP7 1 -
+/cgi-bin/cgi-bin/ioxi002.PhP7 1 -
+/insert_activity_db.php 2 -
+/wp-admin/luuf.php 1 -
+/modules/search-body.php 1 -
+/wp-info.php 3 -
+/haxor.php 2 www.google.com
+/css/0808.php 1 -
+/wp-content/ovahdtjry.php 2 -
+/text.php/cc.php 2 -
+/wp-content/themes/cuqfq0i8/fooster1337.php 1 -
+/tiny.php 1 -
+/.well-known/fw.php 1 -
+/new 1 -
+/cgi-bin/file.php 1 -
+/wp-includes/404.php 1 -
+/wp-includes/images/smilies/autoload_classmap.php 1 -
+//wp-admin/images/index.php 1 -
+/css/fosil.php 1 -
+/admin/uploads/worksec.php 3 -
+/wp-content/plugins/index.php 2 -
+/shell.php 4 -
+/brundyn//wp-content/themes/pridmag/db.php 1 -
+/wp-content/themes/rishi/db.php 2 www.google.com
+/wp-content/plugins/wp-diambar/includes/loadme.php 3 www.google.com
+/i.php 2 www.google.com
+/class-bulk-skin.php 1 -
+//wp-includes/PHPMailer/plugins.php 1 -
+/wp-includes//wp-includes/atomlib.php 1 -
+/cache.php 2 -
+/wp-content/plugins/rsrnyue/pjoxtklh.php 2 -
+/wp-content/plugins/vgztboruqu/wp-editor.php 2 -
+/nav-menus.php 1 -
+/wp-ad.php 2 www.google.com
+/user.php/text.php/ini.php 1 -
+/wp-admin/alfa.php 2 -
+/wp-content/plugins/cache-wordpress/wp-activates.php 2 www.google.com
+/ids.php 2 www.google.com
+/admin/uploads/Property_5bb750a72c247.php__ 1 -
+/.env 9 -
+/wp-includes/ID3/index.php 1 -
+/wp-content/plugins/ihjnenb/ypnyvhjr.php 1 -
+/wp-content/themes/about.php 5 -
+/.well-known/acme-challenge/gif.php 1 -
+/.well-known/wp-MhEXPkK80t.php 2 -
+/filemanager/dialog.php 1 -
+/wp-content/themes/338rqgf3/fooster1337.php 1 -
+/wp-content/themes/wp-pridmag/22x.php 2 www.google.com
+/wp-content/plugins/core-plugin/include.php 3 -
+/wp-content/plugins/Cache/Cache.php 3 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 -
+/mi.php 2 www.google.com
+/.well-known/default.php 2 -
+/xxc.php 1 -
+/wp-content/plugins/virr/v.php 2 www.google.com
+/wp-content/ovaeztalj.php 1 -
+/ioxi.php 2 www.google.com
+/new-index.php 2 www.google.com
+/wp-includes/js/tinymce/plugins/compat3x/erin1.PhP7 2 -
+/cp.php 1 -
+/wp-content/plugins/one-click-demo-import/vendor 1 -
+/wp-blog-header.php 1 -
+/.wp-cli/ioxi002.PhP7 2 -
+/wp-content/plugins/Cache/themes.php 1 -
+/1975Team.php 2 www.google.com
+/wp-content/plugins/pwnd-1/pwnd.php 1 -
+/alfatesla.php 2 www.google.com
+/wp-content/f0x.php 1 -
+/wp-admin/about.php 2 -
+/wp-content/plugins/google-seo-rank 1 -
+/wp-content/themes/dlbzag05/fooster1337.php 2 -
+/wp-content/plugins/core/include.php 1 -
+/wp-includes/assets/webdb.php 1 -
+/cgi-bin/cgi-bin/alfa-rex.php56 1 -
+/wp-conctent.php 2 www.google.com
+/wp-content/wp/plugins/mbt.php 1 -
+/wp-admin/css/colors/blue/blkawjvc.php 1 -
+/wp-content/themes/fosil.php 2 -
+/.tmb/plugins.php 1 -
+/css/xmrlpc.php 3 -
+/wp-content/dropdown.php 2 -
+/plugins/2.delivery.php 2 -
+/fox.php 2 www.google.com
+/wp-includes/au8rhc.php 1 -
+/wp-includes/item.php 2 -
+/r00t.php 2 www.google.com
+/oldsite/wp-admin/install.php 1 -
+/p0wny.php 1 -
+/wp-includes/rlkrftts.php 1 -
+/wp-admin/includes/class-wp-terms-list-table-ajax-response.php 2 -
+//wp-content/plugins/linkpreview/index.php 1 -
+/ALFA_DATA/about.php 1 -
+/a.php 2 www.google.com
+/bak.php 3 -
+/ALFA_DATA/alfacgiapi/alfa-rex.php56 1 -
+/network.php 1 -
+/blog 1 -
+/wp-content/themes/0sdysrzs/fooster1337.php 1 -
+/wp-includes/IXR/admin.php 1 -
+/wp-content/plugins/dskywse/jmigqqki.php 2 -
+/xm.php 2 www.google.com
+/twin.php 2 www.google.com
+/sendgrid/.env 2 -
+/w.php 4 -
+/.well-known/acme-challenge/themes.php 2 -
+/wp-admin/css/colors/blue/backup.php 1 -
+/.well-known/pki-validation/de06e834-937c-4b4e-a67c-8f85e4cec8c2.php 2 -
+/WordPress/wp-content/plugins/fix/up.php 1 -
+/wp-content/languages/alfa-rex.php7 2 -
+/about/function.php 3 -
+/wp-content/themes/9rafadt6/fooster1337.php 1 -
+/adminfuns.php7 2 -
+/m.php/text.php/footer.php 1 -
+/wp-content/uploads/style_upload.php 1 -
+/wp-includes/bak.php 3 -
+//wp-admin/network/cloud.php 2 -
+//newtab 1 -
+/wp-includes/ID3/admin.php 1 -
+/wp-content/uploads/wso112233.php 2 -
+/wp-admin/maint/GVNjXnV.php 2 -
+/wp-includes/fonts/iqb.php 2 www.google.com
+/zx.php 2 www.google.com
+/wp-admin/css/rk2.php 1 -
+/wp-admin/includes/wso.php 1 -
+/doc.php/cc.php 1 -
+/wp-content/mah.php 1 -
+/xl2023.php.php 1 -
+/wp-admin/includes/class-wp-filesystem-base.php.1601627960 1 -
+/wp-admin/js/QwUtdIQCnC.php 1 -
+/wp-includes/js/tinymce/themes/feed.php 2 -
+/wp-admin/api.php 1 -
+/wp-content/fonts/ioxi002.PhP7 1 -
+/chosen.php 6 -
+/wp-content/plugins/WordPressCore 2 -
+/images.php 2 -
+/cgi-bin/ws.php 2 -
+/wp-admin/css 2 -
+/wp-content/plugins/sderfgt 2 -
+/library.php 1 -
+/wp/wp-content/plugins/qqjpdzwvna/wp-editor.php 1 -
+/b.php 2 www.google.com
+/cgi-bin/cgi-bin/about.php7 2 http://waisakaproperty.com/cgi-bin/cgi-bin/about.php7
+/wp-content/upgrade/alfa-rex.php8 1 -
+/uploads/ynz.PhP7 2 -
+/wp-configs.php 1 -
+/wp-includes/shell.phpp 1 -
+/index1.php 1 -
+/cgi-bin/alfa-rex.php7 1 -
+//wp-admin/admin.php 2 -
+/wp-includes/customize 2 -
+/wp-admin/setup-config.php 1 -
+/wp-content/plugins/db/uploader.php 2 www.google.com
+/x/index.php 1 -
+/tools.php 1 -
+/wp-includes/widgets/autoload_classmap.php 1 -
+/.well-known/acme-challenge/index.php 2 -
+/wp-content/upgrade/admin.php 2 -
+/wp-content/plugins/cache-wordpress/payment.php 2 www.google.com
+/wp-content/plugins/Cache/ioxi002.PhP7 1 -
+/wp-admin/images/install.php 1 http://waisakaproperty.com/wp-admin/images/install.php
+//.well-known/pki-validation/about.php 1 -
+/wp-includes/api.php 1 -
+/srf.php 1 -
+/cmmhmaqh.php 2 -
+/portal/dilpsvwm.php 2 -
+/wp-includes/rest-api/themes.php 1 -
+/wp-content/themes/drpjyrek/fooster1337.php 2 -
+/evil.php 2 www.google.com
+/wp-includes/theme-compat/about.php 3 -
+/wp-admin/css/colors/coffee/fex.php 1 -
+/wp-admin/ws.php.php 1 -
+/wordpress/erin1.PhP7 2 -
+/assets/css/403.php 2 -
+/wp-content/themes/noriumportfolio/db.php 2 www.google.com
+/wp-content/themes/4lmfvb5t/fooster1337.php 1 -
+/wp-content/uploads/index_2.php 2 -
+/wp-includes/theme-compat/wp-xml-function.php 1 -
+/readme.php 5 -
+/wp-content/themes/vklwg5dd/fooster1337.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/cspklbkv.php 1 -
+/css/install.php 1 http://waisakaproperty.com/css/install.php
+/old/wp-content/plugins/xxcvw 1 -
+/wp-content/plugins/seoo/alfa-rex1.php 1 -
+/wp-content/themes/twentynineteen/inc/ty.php 1 -
+/wp-admin/cmHBMXtq9s7.php 1 -
+/xmrlpc.php 4 -
+/cgi-bin/cgi-bin/ynz.PhP7 1 -
+/wp-content/plugins/wp-freeform/style.php 2 www.google.com
+/install.php 4 -
+/wp-content/themes/workart/doc.php 2 www.google.com
+/templates/beez3/gydvttvm.php 2 -
+/usb.php 2 www.google.com
+//wp-content/about.php 2 -
+/wp-includes/Text/index.php 1 -
+/bs1.php 2 -
+/wp-includes/sitemaps/providers/mariju.php 2 -
+/wp-content/plugins/pwnd/luuf.php 1 -
+/wp/wp-includes/fonts/dev.php 2 www.google.com
+/sksrrt/control/wp-content/themes/qkyvn1jf/fooster1337.php 2 -
+/kyami.php 2 www.google.com
+/wp-content/languages/ws.php 1 -
+/wp-content/plugins/ndak/marijuana.php 2 www.google.com
+/ALFA_DATA/alfa-rex.php56 1 -
+/shop//wp-content/themes/pridmag/db.php 1 -
+/nn56122-ovh//wp-content/themes/pridmag/db.php 1 -
+/alfanew2.php7 3 -
+/wp-content/plugins/litespeed-cache/readme.txt 1 -
+/cgi-bin/cgi-bin/ws.php 2 -
+/wp-admin.php 2 www.google.com
+/wp-includes/html-api/about.php 2 -
+/.well-known/pki-validation/xl2023.php 1 -
+/wp-admin/css/colors/modern/baWMOqlmqm.php 2 -
+/wp-includes/pomo/root.php 1 -
+/wp-admin/css/colors/light/BQwQQps.php 1 -
+/fm.php 2 -
+/.well-known/makeasmtp.php 2 -
+/jzulxjaj.php 2 -
+/gser.php 2 -
+/.well-known/content.php 1 -
+/.well-known/pki-validationynz.PhP7 2 -
+/cgi-bin/cgi-bin/admin.php 1 -
+/wp-content/themes/sky-pro/js.php 2 -
+/1975.phP 2 www.google.com
+/wikindex.php 3 -
+/wp-content/about.php7 2 -
+/olux.php 2 www.google.com
+/error.php 2 www.google.com
+/images/luuf.php 2 -
+/wp-includes/IXR/cloud.php 2 -
+/am.php 1 -
+/wp-admin/wp-login.php 1 -
+//wp-admin/about.php 1 -
+/xx.php 3 www.google.com
+/wp-content/plugins/cekidot/readme.txt 2 www.google.com
+/wp-content/plugins/classic-editor/wp-login.php 1 -
+/wp-content/plugins/Cache/about.php 1 -
+/wp-content/uploads/upload_handler.php 2 -
+/6GC9QJ.php 1 -
+/ALFA_DATA/alfacgiapi/ws.php 1 -
+/qgywmjbm.php 1 -
+//content.php 2 -
+/.ll/luuf.php 1 -
+/hehe.php 2 www.google.com
+/bj.php 2 www.google.com
+/autoload_classmap.php/text.php 1 -
+/uploads/autoload_classmap.php 1 -
+//wordpress/wp-content/plugins/trfree/ms-edit.php 2 -
+//wp-content/themes/seotheme/db.php 1 -
+/wp-admin/images/index.php 3 -
+/wp-content/plugins/xemskce/qijvachs.php 1 -
+/wp-admin/css/colors/blue/fex.php 1 -
+/wp-includes/js/tinymce/ws.php.php 1 -
+/wp-admin/maint/file.php 1 -
+/wp-includes/Text/alfa-rex.php7 2 -
+/img/cloud.php 2 -
+/wp-includes/ws.php.php 1 -
+//wp-admin/luuf.php 1 -
+/wp-admin/css/colors/h.php 1 -
+/wp-content/plugins/dfgev2ig/fooster1337.php 1 -
+/flame.php 2 www.google.com
+/wp-content/ovawavtzm.php 2 -
+/rex.php 2 www.google.com
+//wp-content/plugins/not/includes/about.php 2 -
+/assets/ioxi002.PhP7 1 -
+/maint/alfa-rex.php 1 -
+/1975.php 6 www.google.com
+/xl.php 2 www.google.com
+/wp-content/plugins/gol5mqem/fooster1337.php 2 -
+/wp-includes/PHPMailer/admin.php 3 -
+/sxx.php 2 -
+/wp-admin/maint/parx.php 2 -
+/wp-content/themes/evita/issue.php 1 -
+/wp-scripts.php 2 -
+/if.php 2 www.google.com
+/index_.php 1 -
+/uxquidwa.php 2 -
+/wp-content/plugins/plugin/allez.php 1 -
+/wp-content/themes/aw9tlrp8/fooster1337.php 2 -
+/portal/wp-content/plugins/jyhpemo/ziynkmdi.php 2 -
+/cgi-bin/ynz.PhP7 1 -
+/ww.php 2 www.google.com
+/xbvsfugp.php 1 -
+/test/wp-admin/install.php 1 -
+/wp-admin/images/iR7SzrsOUEP.php 1 -
+/assets/editor/fileman/index.html 1 -
+/pwqcgeht.php 1 -
+/sitemap.xml.gz 1 -
+/zf.php 2 www.google.com
+/wp-admin/maint/repair.php 2 -
+//wp-content/themes/twenty/twenty.php 1 -
+//aulavirtual/.github/default.php 1 -
+/.tmb/cloud.php 1 -
+/wp-includes/sitemaps/providers/about.php 2 -
+/wp-includes/SimplePie/HTTP 1 -
+/wp-admin/images/NReYVLP.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-content/plugins/install.php 1 http://waisakaproperty.com/wp-content/plugins/install.php
+/tes.php 2 www.google.com
+/images/neko.php 2 -
+//assets/jquery-file-upload/server/php/index.php 1 http://waisakaproperty.com/assets/jquery-file-upload/server/php/index.php
+/museu/wp-content/plugins/wmmpicl/qrfmimcv.php 2 -
+/wp-content/themes/sketch/404.php 2 -
+/radio.php 5 -
+/wp-admin/css/index.php 5 -
+/wp-content/uploads/chosen.php 1 -
+/wp-content/themes/oc7y6yjs/fooster1337.php 1 -
+/.well-known/themes.php 1 -
+/wp-admin/includes/xmrlpc.php 3 -
+//chosen.php 1 -
+/lnedx.php 2 www.google.com
+/send.php 2 www.google.com
+/wp-admin/maint/index.php 2 -
+/b0.php 2 -
+/wp-content/plugins/trxfree/ms-edit.php 1 -
+/wp-includes/IXR/luuf.php 2 -
+/.wp-cli/about.php7 2 -
+/yanz.php 3 -
+/wp-includes/css/native.php 1 -
+/WP/wordpress/wp-content/plugins/fix/up.php 1 -
+/vv.php 1 -
+/es.php 2 -
+/wp-includes/rest-api/api.php 1 -
+/ndex.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/wjxulqye.php 1 -
+/.well-known/acme-challenge/65afag.php 2 -
+/img/cd.php 1 -
+/wp-content/themes/newstoday/lang.php 1 -
+/d.php 2 www.google.com
+/.github/default.php 1 -
+/wp-includes/Text 1 -
+/maintenance/wp-login.php 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 1 -
+/wp-content/themes/jobart/doc.php 2 www.google.com
+/wp-includes/wp-class.php 4 www.google.com
+/abc.php 2 www.google.com
+/ggft.php 1 -
+/shop/wp-admin/install.php 1 -
+/wp-content/plugins/item.php 1 -
+/wp-admin/user/themes.php 1 -
+//2018/wp-includes/wlwmanifest.xml 3 -
+/wp-admin/includes/class_api.php 1 -
+/wp-includes/js/erin1.PhP7 1 -
+/cgi-bin/themes.php 3 -
+/mar.php 3 www.google.com
+/wp-content/plugins/xdmrryr/twdkpstm.php 1 -
+/gyj.php 2 -
+/wp-content/uploads/UrOXWTJdwJ.php 1 -
+/wp-admin/css/colors/modern/yZChe.php 2 -
+/wp-includes/class-wp-site-query-pic.php 2 -
+/byps.php 2 www.google.com
+/.wp-cli/admin.php 1 -
+/wp-content/plugins/pwnd/fex.php 2 -
+/images/options.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/ynz.PhP7 1 -
+/wp-admin/js/index.php 2 -
+/wp-blog.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/as.php 1 -
+/wp-content/themes/k3myd6ht/fooster1337.php 1 -
+/cgi-bin/alfa-rex.php 2 -
+/css/cloud.php 2 -
+/.well-known/acme-challenge/index1.php 1 -
+/r.php 2 www.google.com
+/wp-content/admin.php 1 -
+/wp-includes/block-supports/luuf.php 1 -
+/wp/wp-includes/fonts/iqb.php 2 www.google.com
+/wp-admin/user/wp-login.php 2 -
+/wp-admin/defaults.php 1 -
+/.well-known/wp-login.php 1 -
+/wp-content/plugins/ecffdik/elbewnfu.php 1 -
+/sitemap.txt 1 -
+/wp-includes/Text/ynz.PhP7 1 -
+/wp-content/plugins/trfree 2 -
+//wp-includes/Requests/about.php 2 -
+/ALFA_DATA/autoload_classmap.php 1 -
+/100.php 2 www.google.com
+/system_log.php 1 -
+/posm//wp-content/themes/seotheme/db.php 2 -
+/components/bmokwybx.php 1 -
+/assets/aws/js/popper.min.js.map 2 -
+/wp-content.php 2 www.google.com
+/sellers.json 1 -
+/includes/moon.php 1 -
+/assets/images/icees.php.php.png 1 -
+/wp-content/patior 1 https://waisakaproperty.com/wp-content/patior/
+/wp-admin/repeater.php 2 -
+/images/ws.php 2 -
+/wp-content/plugins/trfree/ms-edit.php 1 -
+/wp-includes/SimplePie/Cache/arhr.php 2 -
+/log.php 3 -
+//sito/wp-includes/wlwmanifest.xml 7 -
+/wp-content/themes/twentythirteen/functions.php 1 -
+//wp-content/languages 1 -
+/wp-admin/S7fHiMZBUg1.php 1 -
+/wp-includes/Text/Diff/Engine/autoload_classmap.php 2 -
+/wp-includes/js/tinymce/themes/modern/wsoyanzfv3.phP8 1 -
+/wp-admin/includes/inc.php.suspected.1524379932 2 -
+/wp-admin/js/eZTJWZuq.php 2 -
+/inputs.php 1 -
+/wp-content/plugins/dqankjc/mhngwazy.php 1 -
+/bre.php 2 www.google.com
+/dbx.php 2 www.google.com
+/wp-content/themes/ynz.PhP7 1 -
+/wp-config-sample.php 1 -
+/.tmb/b37inc.php 1 -
+/load.php 3 -
+/wp-content/themes/skatepark/doc.php 2 www.google.com
+/wp-content/x/index.php 1 -
+/wp-includes/rest-api/rest-api/index.php 1 -
+/wp-includes/hnkmhdbj.php 1 -
+/wp-admin/maint 2 -
+/wp-content/fonts/alfa-rex.php 1 -
+/o.php 2 www.google.com
+/wp-content/themes/oceanwp/functions.php 1 -
+/cloud.php 3 -
+/wp-content/ynz.PhP7 1 -
+/wp-admin/maint/vCBzp/index.php 2 -
+/wp-admin/js/lv.php 2 -
+/wp-includes/admin.php 1 -
+/wp-admin/autoload_classmap.php 1 -
+/wp-includes/assets/autoload_classmap.php 1 -
+/site/alfa-rex.php7 2 -
+/wp-admin/images/xmrlpc.php 5 -
+/index/fex.php 1 -
+/wp-content/plugins/pvqlmhl/qpusbhbw.php 2 -
+/wp-admin/includes/index.php 1 -
+/.wp-cache.php 2 www.google.com
+/wp-content/themes/fag0z08y/fooster1337.php 1 -
+/wp-includes/widgets 1 -
+/ws.php.php 2 -
+/bala.php 2 -
+/wordpress/bwp//wp-content/themes/seotheme/db.php 2 -
+/wp-admin/includes/about.php 5 -
+/.well-known/pki-validation/rx.php 1 -
+/erin1.PhP7 1 -
+/fw.php 3 www.google.com
+/ajax-actions.php 2 -
+/wp-content/plugins/index-ajax-response.php 1 -
+/wp-content/dir/ws.php 1 -
+/css/about.php7 2 -
+/dozypzuc.php 1 -
+/portal/wp-content/plugins/wdyridg/ijveymvj.php 1 -
+/wp-content/plugins/fix/sxx.php 2 -
+/wp-content/wp-login.php 1 -
+/wp-content/themes/zancdcj/mbnyynmk.php 1 -
+/lib/fileman/index.html 1 -
+/moon.php 2 -
+/.wp-cli/ws.php 2 -
+/wp-content/cong.php 1 -
+/wp-includes/Text/fosil.php 1 -
+/wp-content/themes/p09wp44b/fooster1337.php 2 -
+/wp-content/plugins/fix 2 -
+/wp-content/plugins/hnitegb/sqbavtds.php 2 -
+/wp-includes/rest-api/about.php 5 -
+/01.php 2 www.google.com
+/wp-content/uploads/2023/05/404.php 1 -
+/mrjn.php 2 www.google.com
+/assets/ws.php.php 2 -
+/.well-known/acme-challenge/custom-plugin.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/admin.php 2 -
+/wp-header.php 1 -
+/assets/chosen343242.php 1 -
+/wp-includes/block-patterns/about.php 3 -
+/alfateslav4.php 2 www.google.com
+/s.php 3 www.google.com
+/wp-includes/fonts/dev.php 2 www.google.com
+//wp-content/plugins/download-plugin/wp-access.php 2 -
+/wp-admin/images/abs.php 1 -
+/wp-admin/css/colors/blue/blkdzyog.php 1 -
+/wp-content/install.php 3 -
+/dropdown.php 5 -
+/wp-includes/rest-api/alfa-rex.php56 1 -
+/wficyctk.php 2 -
+/docs/cc.php 1 -
+/133795//wp-content/themes/pridmag/db.php 1 -
+/wp-content/plugins/ndak/1.php 2 www.google.com
+/wp-content/alfa-rex.php56 2 -
+//wp-content/plugins/pwnd/luuf.php 1 -
+/customize/admin.php 1 -
+/old-index.php 2 www.google.com
+/datbvwgi.php 1 -
+/u.php 3 www.google.com
+/style.php 1 -
+/ss.php 6 -
+/wp-content/fex.php 2 -
+/~vizelabs/wp-content/plugins/csiydwj/pvkszsqg.php 1 -
+/wp-includes/pomo/infos.php 2 -
+/wp-admin/css/license.php 2 -
+/map.php 1 -
+/wp-content/about.php 5 -
+/wp-admin/css/colors/ocean/about.php 2 -
+/.well-known/acme-challenge/file1.php 1 -
+//wp-admin/css/about.php 2 -
+/wp-pluging.php 2 www.google.com
+/wp-includes/autoload_classmap.php 2 -
+/wp-admin/css/colors/coffee/admin.php 1 -
+/test.php 4 -
+/al.php 2 www.google.com
+/wp-includes/css/core.php 1 -
+/xltavrat.php 1 -
+/g.php 2 www.google.com
+/adminer.php 2 -
+/epinyins.php 1 -
+/wp-admin/css/colors/blue/lock.php 1 -
+/update/upload.php 1 -
+/edit.php/nhybelpl.php/text.php 2 -
+/makeasmtp.php 3 -
+/wp-includes/pomo/shwn-mnds789.php 1 -
+/wp-content/themes/p3cmf96s/fooster1337.php 2 -
+/teslav.php 2 www.google.com
+/idx.php 2 www.google.com
+/fes/wordpress//wp-content/themes/pridmag/db.php 1 -
+/k.php 2 www.google.com
+/.inhec.PhP7 1 -
+/wp-includes/certificates/about.php 1 -
+/wp-includes/fonts/iq.php 2 www.google.com
+/wp-includes/IXR/plugins.php 1 -
+//autoload_classmap.php 2 -
+/wp-content/plugins/tyygbsq/jujhlitb.php 1 -
+/ini.php 2 -
+/file.php 4 -
+/uploads/baa.php 1 -
+/admin/fileman/dev.html 1 -
+/puiching2023/wp-content/plugins/fix/up.php 1 -
+/libraries/phpmailer/updates.php 2 -
+/bb.php 2 www.google.com
+/wp-comment.php7 1 -
+/images/cloud.php 3 -
+/ficmdwty.php 2 -
+//wp-includes/wlwmanifest.xml 7 -
+/update.php 1 -
+/hvoxejcn.php 1 -
+/wp-conflg.php 3 -
+/wp-admin/css/colors/blue/blkcicrg.php 2 -
+/ty.php 3 -
+/wordpress 1 -
+/wordpress/wp-content/plugins/erfd 2 -
+/ova.php 1 -
+/wp-content/plugins/8lbspabw/fooster1337.php 2 -
+/wp-load.php 3 -
+/wp-content/plugins/zaen/includes/loadme.php 1 -
+/zone.php 2 www.google.com
+/assets/alfa-rex.php56 1 -
+/AK-74.php 1 -
+/wp-config.php 3 -
+/admin-post.php 2 -
+/wp-admin/css/colors/coffee/themes.php 2 -
+/bs.php 2 -
+/moderation.php 1 -
+/wp-admin/css/colors/cloud.php 2 -
+/wp-includes/admin.php.suspected 2 -
+/wp-content/cloud.php 1 -
+/wp-content/fosil.php 1 -
+/x.php 4 -
+/.tmb/bkgnhgri.php 2 -
+/wp-content/ovaqgqmxc.php 1 -
+/rbzccnnp.php 1 -
+/images/cadastro-2.php 1 -
+//assets/global/plugins/jquery-file-upload/server/php/index.php 1 http://waisakaproperty.com/assets/global/plugins/jquery-file-upload/server/php/index.php
+/js/tinymce/skins/lightgray/fonts/about.php 1 -
+/wordpress/fosil.php 2 -
+/wp-content/alfa-rex.php7 2 -
+/pref.php 2 www.google.com
+/js/us.php 1 -
+/wp-content/plugins/Cache/alfa-rex.php 1 -
+/wp-content/ovacsaxcv.php 2 -
+/wp-includes/PHPMailer/GbwLxZktl.php 2 -
+/about.php7 3 -
+/2019//wp-content/themes/seotheme/db.php 2 -
+/.well-known/plugins.php 3 -
+/nee.php 2 www.google.com
+/wp-admin/includes/class-language-pack-upgrader-variable.php.suspected 1 -
+/wp-content/fonts/admin.php 2 -
+/777.php 2 www.google.com
+/.well-known/pki-validation/9gVnajSvYGb.php 2 -
+/pip-install.php 2 -
+/0x.php/text.php/max.php 1 -
+/abe.php/smaxx.php/text.php 1 -
+/ebmblog//about.php 1 -
+/ok.php 3 -
+/wp-content/alfa-rex.php 1 -
+/gecko.php/text.php/ae.php 1 -
+/loginform.inc.php3 1 -
+/goods.php 2 -
+/by.php 2 www.google.com
+/AE5VAL.php 1 -
+/.wp-cli/ynz.PhP7 2 -
+/wp-content/mu-plugins/fex.php 1 -
+/wp-admin/css/colors/midnight/EWociX.php 1 -
+/gnxdfcoj.php 2 -
+/.wp-cli/alfa-rex.php 1 -
+//wp-admin/css/index.php 1 -
+/wp-admin/images/rk2.php 1 -
+/wp-content/plugins/rniesac/yfcpyvdn.php 1 -
+/wp-includes/Text/ioxi002.PhP7 2 -
+/site/api.php 1 -
+/wp-includes/IXR/index.php 1 -
+/wp-content/themes/8t6nhqef/fooster1337.php 1 -
+/wp-includes/text/diff/engine/parx.php 2 -
+/wp-content/themes/skatepark/alpha.php 2 www.google.com
+/txets.php 2 -
+/tinyfilemanager/tinyfilemanager.php 2 -
+/wp-admin/js/widgets/fex.php 1 -
+/wp-content/themes/01k8dise/fooster1337.php 1 -
+/blog/wp-content/plugins/fix/sxx.php 2 -
+/y.php 2 www.google.com
+/wp-includes/SimplePie/Exception-wp.php 2 -
+/wp-content/plugins/ishbqyl/skfbqznv.php 1 -
+/wp-content/themes/jdgt100i/fooster1337.php 1 -
+/wordpress/about.php7 2 -
+/wp-admin/VuabrsdyTU1.php 2 -
+/wp-content/themes/f3ki6b7y/fooster1337.php 1 -
+/wp-content/themes/864axcqt/fooster1337.php 1 -
+/wp-includes/customize/about.php 4 -
+/crack_self_restore.php 1 -
+//cgi-bin/about.php 1 -
+/wp-content/ovansizds.php 1 -
+/lig.php 1 -
+/Xzd.php 2 www.google.com
+/wp-content/themes/vdbhtep/uslkvvna.php 2 -
+/source.php 3 -
+/wp-content/plugins/bbdsafree 1 -
+/wp-content/themes/dy16y6ar/fooster1337.php 1 -
+/wp-content/index.php 1 -
+/wp-content/ovaltfkhh.php 1 -
+/con.php 2 www.google.com
+/wp-includes/js/ynz.PhP7 2 -
+/.well-known/pki-validation 2 -
+/link.php 1 -
+/xl2023.php 1 -
+/.tmb/rqqosixz.php 1 -
+/goat1.php 2 -
+/engine.php 1 -
+/wp-includes/blocks 1 -
+/wp-admin/css/colors/coffee/iaudKoGK.php 1 -
+/wp-content/plugins/hellopress/index.php.suspected 1 -
+/~spectral/MPHWFux/luuf.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/ws.php 1 -
+/log.php/images.php/text.php 1 -
+/alfa123.php 2 www.google.com
+/fileman/index.html 1 -
+/wp-content/plugins/tdtbbpf/tvfkqcfq.php 1 -
+/updates.php 4 -
+/.well-known/pki-validation/radio.php 1 -
+/images/wp-login.php 2 -
+/wp-admin/user/cloud.php 2 -
+/wp-content/themes/h47vbpo2/fooster1337.php 1 -
+/wp-content/plugins/fix/up.php 3 -
+/img/xmrlpc.php 2 -
+/loader/ff.php 2 www.google.com
+/update/wp-content/plugins/aboarcp/sdowxvlr.php 1 -
+/image.php 1 -
+/css/erin1.PhP7 1 -
+/ee.php 1 http://waisakaproperty.com/ee.php
+/wp-includes/IXR/about.php 3 -
+/valubil//wp-content/themes/seotheme/db.php 2 -
+/repeater.php 4 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-content/uploads/hanna1337.php 2 -
+/.seo.php 1 -
+/wp-content/plugins/admin.php 3 -
+/wp-admin/css/colors/midnight/alfa-rex.php 1 -
+/wp.php/alfa1.php/text.php 1 -
+/ALFA_DATA/alfacgiapi/ynz.PhP7 2 -
+/wp-includes/js/tinymce/ynz.PhP7 2 -
+/ciis.php 2 www.google.com
+/.well-known/acme-challenge/LA.php 1 -
+/wp-content/themes/twenty/twenty.php 2 -
+/ALFA_DATA/ynz.PhP7 1 -
+/.well-known/index.php 2 -
+/wp-content/themes/qxv62c0s/fooster1337.php 2 -
+/73.php 2 www.google.com
+/FoxWSO.php 2 www.google.com
+/ebs.php7 2 -
+/wp-content/themes/twentytwentytwo/index.php 3 -
+/wp-includes/js/codemirror/lmfi2.php 2 -
+/admin/fileman/index.html 1 -
+/wp-content/languages/themes/tventyptwentytwentyone-it_IT.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 3 -
+/css/ws.php 1 -
+/wp-admin/images/dropdown.php 1 -
+/images/ynz.PhP7 2 -
+/wp-admin/maint/bless.php 1 -
+/wp-includes/5DE21.phtml.suspected.1525776199 1 -
+/wp-content/uploads/wpr-addons/forms/elp.php 1 -
+/wp-content/themes/ws.php.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/themes.php 1 -
+//2019/wp-includes/wlwmanifest.xml 6 -
+/wp-admin/includes/1975.php 2 www.google.com
+/pki-validation/edit.php 2 -
+/repeater.php7 1 -
+/uploader.php 3 -
+/yanz.php/wp-admin/user/cloud.php 1 -
+/wp-content/plugins/n8hy6xml/fooster1337.php 1 -
+/wp-admin/css/colors/blue/blkvykgw.php 2 -
+/blog/wp-content/plugins/fix/luuf.php 1 -
+/wp-admin/css/colors/file.php 1 -
+/.well-known/pki-validationadmin.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/fzutgsmc.php 1 -
+/images/about.php7 1 -
+/upload.php 3 -
+/cludes/js/tinymce/ws.php 1 -
+/wp-content/plugins/ftnnyfr/ijwzlamv.php 1 -
+/e.php 2 www.google.com
+/alpha.php 2 www.google.com
+/wp-content/uploads/2023/05/118d6e31b2.php.suspected 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+/modules/mod_simplefileuploadv1.3/elements/pcbbyagx.php 2 -
+/screenshot_1.php 1 -
+/wp-files.php 1 -
+/wp-includes/images/about.php 3 -
+/wp-content/themes/vzkzxjdi/fooster1337.php 1 -
+/ova-wso.php 1 -
+/site/about.php 1 -
+/.well-known/pki-validationalfa-rex.php8 1 -
+/wp-includes/widgets/about.php 3 -
+/filemanager.php 3 -
+/modules/class.cache.php 1 -
+/wp-admin/css/colors/coffee 1 -
+/wp-includes/3i5hg.php 2 -
+/plugins/seoo/alfa-rex.php 2 -
+/wp-help.php 2 www.google.com
+/wp-includes/css/admin.php 1 -
+/wp-admin/css/colors/blue/admin.php 3 -
+/wp-includes/images/smilies/blurbs.php 1 -
+/rahma.php 2 www.google.com
+/dmantzar/icu/wp-content/plugins/fix/up.php 1 -
+/wp-2020.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/babduqsn.php 2 -
+/readme.php/LA.php/text.php 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-admin/wp-admin.php 3 -
+/xxl.php 1 -
+/wp-includes/images/about.php7 2 -
+//wp-content/plugins/core-plugin/include.php 1 -
+//lufix.php 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp-content/plugins/press/wp-class.php 1 -
+/wp-content/plugins/ipqhnaq/owhzsnwh.php 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-pano.php 1 -
+/DJTXPV.php 2 -
+/.well-known/gtdwdvje.php 1 -
+/un2.php 2 www.google.com
+/wp-includes/random_compat/chosen.php 1 -
+/ALFA_DATA/alfacgiapi/themes.php 2 -
+/wp-admin/f0x.php 1 -
+/wp-seo.php 1 -
+/wp-content/repeater.php 3 -
+/wp-content/uploads/ethwwuzd.php 1 -
+/mari.php 1 -
+/mas.php 2 www.google.com
+/lock.php 1 -
+/post.php 1 -
+/upfile.php 3 -
+/wp-content/themes/bltm 2 -
+/wp-includes/pomo/about.php 3 -
+/qpglkpgm.php 2 -
+/wp-content/banners 2 -
+/gh.php 2 www.google.com
+/.tmb/fdnnwjkz.php 1 -
+/wp-content/plugins/mbbeecuhxt/wp-editor.php 1 -
+/info.php 3 -
+//wp-includes/customize/wp-login.php 2 -
+/wp-content/languages/erin1.PhP7 2 -
+/EGH1KS.php 1 -
+/shx.php 2 www.google.com
+/link-manager.php 1 -
+/wp-content/themes.php 1 -
+/wp-admin/css/colors/coffee/fosil.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://waisakaproperty.com/wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-content/uploads/luuf.php 1 -
+/wp-admin/inc 1 -
+/wp-posts.php 2 www.google.com
+/contact.php 2 -
+/wp-includes/rest-api/search/index.php 2 -
+/img/adminer.php 2 -
+/admin/uploads 1 -
+/wp-content/themes/admin.php 3 -
+/wp-includes/ID3/cloud.php 2 -
+/wp-content/languages/index.php 3 -
+/bcs_website//wp-content/themes/pridmag/db.php 1 -
+/uploads/admin.php 1 -
+/.well-known/pki-validation/wp-signup.php 2 www.google.com
+/wp-includes/Text/ws.php.php 1 -
+/wp-consar.php 2 -
+/wordpress/alfa-rex.php7 2 -
+/js/alfa-rex.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/css/wp-login.php 1 -
+/wp-activate.php 1 -
+/.well-known/pki-validation/shell.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 3 -
+/websites/keiron_leach/public_html/wp-content/plugins/fix/up.php 1 -
+/wp-admin/includes/mariju.php 1 -
+/local.php 2 www.google.com
+//test/wp-includes/wlwmanifest.xml 7 -
+/css/fex.php 1 -
+/uploads/alfa-rex.php 2 -
+/wp-admin/css/colors/blue/viewer.php 2 -
+/0o.php 2 www.google.com
+//wp-content/plugins/plugins/Cyb3r.php 1 -
+/45.php 2 www.google.com
+/mclash.php 2 www.google.com
+/3index.php 2 www.google.com
+/wp-includes/assets/index.php 1 -
+/images/file.php 2 -
+/wp-includes/css/dist/niil.php 1 -
+/.wp-cli/alfa-rex.php7 1 -
+/phpmailer.lang-sv.php 2 -
+/versions.php 1 -
+/chitoge.php 2 www.google.com
+/plugins/3rdPartyServers/ox3rdPartyServers/luuf.php 2 -
+/.well-known/acme-challenge/cidbpvxh.php 1 -
+//assets/plugins/jquery-file-upload/server/php/index.php 1 http://waisakaproperty.com/assets/plugins/jquery-file-upload/server/php/index.php
+/wp-includes/js/ioxi002.PhP7 2 -
+/wp-admin/css/colors/blue/blkqvmih.php 2 -
+/wp-content/plugins/cakil/up.php 3 www.google.com
+/wp-admin/images/admin.php 1 -
+/wp-inlcudes.php 2 www.google.com
+/wp-admin/maint/about.php 1 -
+/wp-admin/css/colors/blue/blkafewl.php 1 -
+/bkqmgnts.php 2 -
+/wp-content/uploads/wp-login.php.suspected 2 -
+/aks.php 3 -
+/alfanew.PHP7 1 -
+/wp-content/upgrade/ws.php 1 -
+/randkeyword.php 1 -
+/wp-includes/js/tinymce/plugins/paste/about.php7 1 -
+//jp.php 1 -
+/dir.php 2 -
+/nadalshibatravel//about.php 1 -
+/plugins/ph-file-manager/wp-file.php 1 -
+/BbPmyEI/luuf.php 2 -
+/anesthesiology/wp-content/plugins/fix/up.php 1 -
+/wp-includes/SimplePie/Content/version.php 1 -
+/sym403.php 3 www.google.com
+/con7ext.php 2 www.google.com
+/wp-includes/Text/Diff/Renderer/index.php 1 -
+/.well-known/112.php 1 -
+/alfanew.php 4 -
+/wp-admin/js/widgets/bbrmTpvjG.php 2 -
+/.well-known 2 -
+/wp-admin/maint/rk2.php 1 -
+/2index.php 2 www.google.com
+//wp-includes/pomo/about.php 1 -
+/liefs.php 1 -
+/wp-includes/fonts/luuf.php 1 -
+/wp-content/plugins/themes.php 1 -
+/app-ads.txt 1 -
+/jindex.php 4 -
+/chosen 1 -
+/ncimplant21//wp-content/themes/pridmag/db.php 1 -
+/fierza.php 2 www.google.com
+/.well-known/acme-challenge/mariju.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/wp-content/plugins/girmllk/hqivyfsf.php 1 -
+/wp-content/uploads/paste.myconan.net/ovaqkklhr.php 1 -
+/wordpress/api.php 2 -
+/site/ynz.PhP7 2 -
+/wp-login.php 4 -
+/st.php 1 http://waisakaproperty.com/st.php
+/.well-known/hyknpcxe.php 2 -
+/wp-content/plugins/jbmkpcf/cfpimwgw.php 2 -
+/style.php/text.php/duck.php 1 -
+/yl10gohp.php 2 -
+/wp-content/themes/5tprvqdl/fooster1337.php 2 -
+//phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php 1 http://waisakaproperty.com/phpformbuilder/plugins/jQuery-File-Upload/server/php/index.php
+/wp-admin/js/cong.php 2 -
+/form.php 1 -
+/doc.php/cc.php/text.php 1 -
+/wp-content/plugins/WordPressCore/include.php 2 -
+/XxX.php 2 www.google.com
+/wp-content/languages/fosil.php 2 -
+/wp/wp-includes/css/buttons.css 1 -
+/images/vuln.php 1 -
+/ninja.php 2 www.google.com
+/gelay.php 2 www.google.com
+/h.php 2 www.google.com
+/alfa-rex.php7 4 -
+//wp-admin/css/colors/blue 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/alfa-rex.php56 2 -
+/wp-content/themes/rishi/doc.php 2 www.google.com
+/wp-content/themes/9geiaoo5/fooster1337.php 1 -
+/wp-content/wp.php 1 -
+/wp-includes/js/tinymce/alfa-rex.php8 1 -
+/root.php 2 www.google.com
+/wp-content/plugins/wp-theme-editor/include.php 2 -
+/wp-includes/Requests/HMQZKB.php 2 -
+//wp-content/plugins/dummyyummy/wp-signup.php 1 -
+/wp-admin/ynz.PhP7 1 -
+/upload/duck.php 1 -
+/images/alfa-rex.php56 1 -
+/wp-content/plugins/rex/l/index.php 1 -
+/gel4y.php 2 www.google.com
+/wp-content/themes/wp-pridmag/status.php 2 www.google.com
+/.wp-cli/alfa-rex.php8 1 -
+/.well-known/ulqlgtkd.php 1 -
+/ivcquuxu.php 1 -
+/uploads/ws.php 1 -
+/cgi-bin/.%252e/.%252e/.%252e/.%252e/.%252e/bin/bash 1 -
+/wp-includes/luuf.php 1 -
+/.well-known/classwithtostring.php 1 -
+/.well-known/wp-2019.php 3 -
+/wp-content/themes/404.php 1 -
+/.well-known/pki-validation/about.php 3 -
+/indoxploit.php 2 www.google.com
+/pi.php 2 www.google.com
+/mdpjatct.php 1 -
+/wp-admin/css/colors/blue/blkwikkc.php 2 -
+/wp-admin/css/colors/blue/blue.php 1 -
+/wp-admin/file.php 3 -
+/wp-content/file.php 2 -
+/wp-admin/js/widgets/about.php 2 -
+/wp-admin/dropdown.php 5 -
+/intranet//wp-content/themes/seotheme/db.php 1 -
+/wp-includes/ID3/module.tag.id3v1-sql.php 1 -
+/wp-content/plugins/Cache/alfa-rex.php7 1 -
+/xcv.php 2 www.google.com
+/wp-admin/css/colors/blue/blkjwaoc.php 2 -
+/lx.php 2 www.google.com
+/wp-content/themes/dewg079l/fooster1337.php 2 -
+/wp-includes/vcydsoup.php 1 -
+/ludes/class-foo.php 2 -
+/wp-content/themes/b9jsx1f5/fooster1337.php 1 -
+/wp-rss.php 2 www.google.com
+/comdofuns.php 1 -
+/usr.php 2 www.google.com
+/cong.php 5 -
+//wp-includes/css/index.php 1 -
+/cgi-bin/users.php 2 -
+/wp-content/plugins/eapobou/rkibated.php 1 -
+/wp-admin/maint/alfa-rex.php 2 -
+//wp1/wp-includes/wlwmanifest.xml 7 -
+/wp-includes/blocks/about.php 4 -
+/MARIJUANA.php 1 -
+//2020/wp-includes/wlwmanifest.xml 3 -
+/img/img.php 1 -
+/ALFA_DATA/alfacgiapi/ioxi002.PhP7 1 -
+/webdb.php 1 -
+/portal/kcwepiaw.php 1 -
+/cgi-bin/mariju.php 1 -
+/.well-known/radio.php 1 -
+/wp-includes/Text/Diff/Engine/mariju.php 1 -
+/abouts.php 3 -
+/alfa-ioxi.php 3 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+//cms/wp-includes/wlwmanifest.xml 7 -
+/wp-content/banners/about.php 2 -
+/v4.php 2 www.google.com
+/p.php 2 www.google.com
+/wp-content/plugins/dehhgca/tmyyrohe.php 1 -
+/wp-content/themes/fitnessbase/dev.php 2 www.google.com
+/wp-admin/css/colors/midnight/WuTRJzFra.php 1 -
+/wp-content/fonts/about.php7 2 -
+/wp-content/themes/bprd5a37/fooster1337.php 1 -
+/wp-content/themes/phocsqfz/fooster1337.php 1 -
+/css/about.php 2 -
+/wp-content/themes/pridmag/db.php 6 -
+/phpinfo.php 3 www.google.com
+/defense.php 1 -
+/wp-content/plugins/Cache/dropdown.php 1 http://waisakaproperty.com/wp-content/plugins/Cache/dropdown.php
+/wp-content/themes/d8663d17/fooster1337.php 2 -
+/xidcm.php 2 www.google.com
+/wp-includes/SimplePie/Decode/about.php7 1 -
+/6i85g10k.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 -
+/wp-content/plugins/dropdown.php 2 -
+/V5.php 2 www.google.com
+/beta/wp-content/plugins/fix/up.php 1 -
+/database.php 1 -
+//.well-known/acme-challenge/xmrlpc.php 1 -
+/wp-includes/upload.php 1 -
+/js/jquery.uploadfile.php 1 -
+/wp-content/themes/theme/gr.php 2 www.google.com
+/wp-includes/images/smilies/about.php 2 -
+/wp-admin/js/widgets/luuf.php 2 -
+/j.php 2 www.google.com
+/js/ws.php 1 -
+/mah.php 3 -
+/.well-known/ykiqudvc.php 1 -
+/wp-content/ovaaepfwa.php 1 -
+/l/index.php 1 -
+/wp-content/uploads/wso.php 1 -
+/wp-content/ovapsrwsx.php 1 -
+/.well-known/pki-validation/index.php 1 -
+/wp-content/plugins/qbfhish/naoeisxm.php 2 -
+/wp-email.php 2 www.google.com
+/wi.php 2 www.google.com
+/wp-content/plugins/cp-pro/js.php 2 -
+/wp-content/plugins/uiaqgqm/trbfhnlu.php 1 -
+/new.php 2 www.google.com
+/api/add_shared_file.php 2 -
+/opd0hh1k.php 1 -
+/.well-known/acme-challenge/file.php 1 -
+/buy.php 2 -
+/nktylvyp.php 1 -
+/wp-content/themes/fex.php 2 -
+/widgets.php 1 -
+/.well-known/fm.php 1 -
+/wp-admin/includes/class-wp-media-list-table-ezd.php 1 -
+/wp-includes/alfa-rex.php7 1 -
+/minimo.php 2 www.google.com
+/wp-content/themes/634r1wwk/fooster1337.php 2 -
+/simple.php 3 -
+/api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/images/info.php 1 -
+/3301.php 2 www.google.com
+/wp-content/upgrade/ynz.PhP7 1 -
+/ads.txt 1 -
+/wp-content/plugins/d8663d17/fooster1337.php 1 -
+/nrVjkQq/luuf.php 1 -
+/site/ioxi002.PhP7 2 -
+/2.php 5 -
+/wp-content/plugins/google-seo-rank/module.php 1 -
+/wp-includes/ms-load-reference.php 2 -
+/wp-admin/404.php 3 -
+/web/wp-content/plugins/fix/up.php 2 -
+/alfa1.php 1 -
+/dup-installer/main.installer.php 1 http://waisakaproperty.com/dup-installer/main.installer.php
+/cgi-bin/wp-2019.php 2 -
+/wp-content/plugins/seoo/wsoyanz.php 4 -
+/wp-content/themes/7nd9yzxp/fooster1337.php 1 -
+/wordpress/about.php 1 -
+/wp-includes/PHPMailer/autoload_classmap.php 1 -
+//filemanager/dialog.php 1 -
+/.well-known/acme-challenge/file 2 -
+/wp-admin/codeboy1877_up.php 1 -
+/plugins/revslider/includes/external/page/gif.php 1 -
+/wp-includes/Requests/about.php 4 -
+/wp-includes/certificates/autoload_classmap.php 1 -
+/wp-content/uploads/sxx.php 1 -
+/modules/mod_simplefileuploadv1.3/elements/luuf.php 1 -
+/wp-includes/Text/Diff/Engine/wp-login.php 1 -
+/site//wp-content/themes/pridmag/db.php 2 -
+/c.php 4 -
+/js/fileman/index.html 1 -
+/wp-includes/SimplePie/luuf.php 1 -
+/wp-includes/js/plupload/wp-admin.php 1 -
+/5.php 2 www.google.com
+/wp-content/themes/v9isxdej/fooster1337.php 2 -
+/wp-content/themes/f25zgwig/fooster1337.php 2 -
+/wp-includes/wp-load.php 1 -
+/wp-admin/css/colors/luuf.php 2 -
+/wp-includes//wp-includes/admin-bar.php 3 -
+/wp-content/fonts/alfa-rex.php56 1 -
+/wp-content/themes/noriumportfolio/doc.php 2 www.google.com
+/admin/upload/css.php 3 -
+/ALFA_DATA/ioxi002.PhP7 2 -
+/text.php 3 -
+/wp-content/mu-plugins/sso.php 1 -
+/js/fosil.php 1 -
+/wp-admin/maint/moon.php 1 http://waisakaproperty.com/wp-admin/maint/moon.php
+/modules/mod_simplefileuploadv1.3/elements/roitwxmv.php 1 -
+/wp-includes/ID3/about.php 3 -
+/css/settings.php 1 -
+/wp-includes/rest-api/luuf.php 2 -
+/hoot.php 1 -
+/zJnGVpC/luuf.php 1 -
+/1.php 4 -
+/wp-admin/xl2023.php 2 -
+/wp-content/ws.php 2 -
+/museu/wp-content/plugins/lokdeye/agbkcfrz.php 1 -
+/wp-admin/network/index.php 2 -
+/wp-content/ovaiojiph.php 1 -
+//wp-admin.php 1 -
+/upload/upload.php 2 -
+/wp-content/plugins/Cache/ws.php 2 -
+/.wp-cli/wp-login.php 2 -
+/alfa-shell-v4.php 2 www.google.com
+/wp-content/autoload_classmap.php 3 -
+/login.php 1 -
+/index.html 1 -
+/bypass.php 4 -
+/pricingform//wp-content/themes/seotheme/db.php 1 -
+/class.api.php 1 http://waisakaproperty.com/class.api.php#888xyz999
+/.wp-cli/ws.php.php 2 -
+/wp/wp-admin/install.php 1 -
+/wp-content/ovaxkirqe.php 2 -
+/unknown.php 2 www.google.com
+/.well-known/options.php 1 -
+/xid.php 2 -
+/shell20211028.php 6 -
+////wp-atom.php 1 -
+/.well-known/acme-challenge/radio.php 1 -
+/CSVdkIX/luuf.php 1 -
+/wp-admin/includes/xleet-shell.php 1 -
+/wp-content/db-cache.php 2 -
+/wp-content/fonts/erin1.PhP7 2 -
+//shop/wp-includes/wlwmanifest.xml 6 -
+/images/ayk.php 2 -
+/wp-content/themes/sj2vznmo/fooster1337.php 1 -
+/de/shell.php 1 -
+/wp-admin/images/about.php 5 -
+/tinyfilemanager.php 3 -
+//wp/wp-includes/wlwmanifest.xml 7 -
+/7.php 2 www.google.com
+/.well-known/pki-validation/admin.php 2 -
+/wp-content/bala.php 1 -
+/wp-admin/xmrlpc.php 3 -
+/xleet-shell.php 2 www.google.com
+/wso2.php 2 www.google.com
+/css/ynz.PhP7 1 -
+/portal/wp-content/plugins/qgrawle/vscveagc.php 2 -
+/tejidoscelia//wp-content/themes/pridmag/db.php 2 -
+/zfox.php 2 www.google.com
+/xox.php 2 www.google.com
+/wp-includes/Requests 1 -
+/wp-content/ovacdjmwj.php 1 -
+/wp-singupp.php 2 www.google.com
+/wp-content/languages/ynz.PhP7 1 -
+/cgi-bin/cgi-bin/ws.php.php 1 -
+/shells.php 2 www.google.com
+/images/plugins.php 1 -
+/assets/api.php 2 -
+/wp-includes/fosil.php 2 -
+/.well-known/alfanew.php 1 -
+/wp-admin/css/colors/blue/blkikxvz.php 1 -
+/geju.php 1 -
+/wp-includes/Text/Diff/Engine/index.php 2 -
+/configs.php 1 -
+/include/Lurd.class.php 2 -
+/admin/uploads/gif.php 2 -
+/m.php 3 -
+/modules/mod_simplefileuploadv1.3/elements/kcjuocmd.php 1 -
+/wp-includes/js/tinymce/erin1.PhP7 1 -
+/wp-includes/SimplePie/index.php 3 -
+/wp-links-opml.php 1 -
+/dnjyoumb.php 1 -
+/wp-includes.bak/html-api/about.php 4 -
+/wp-content/themes/8zwmxo3q/fooster1337.php 1 -
+/exit.PHP 1 -
+/images/iR7SzrsOUEP.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/about.php7 1 -
+/ioxi-rex4.php7 2 -
+/Files/luuf.php 1 -
+/autoload_classmap.php 3 -
+/wp-js.php 2 www.google.com
+/4x4.php 2 www.google.com
+/wp-admin/css/admin.php 2 -
+/wp-content/themes/cakiltheme/up.php 2 www.google.com
+/wp-content/plugins 2 https://waisakaproperty.com/wp-content/plugins/
+/modules/mod_footer/tmpl/index.php 1 -
+/minik.php 2 www.google.com
+/.well-known/pki-validation/best-shell.php 1 -
+/ALFA_DATA/alfacgiapi/alfa-rex.php7 1 -
+/pinuseren.php 1 -
+/ALFA_DATA/ws.php.php 1 -
+/license.php 1 -
+/assets/1.php 1 -
+/wp-admin/wp-1ogin_bak.php 2 -
+/wp-cron.php 1 -
+/avbxfstf.php 2 -
+/wp-content/themes/vy36x3mg/fooster1337.php 2 -
+/cms/wp-admin/install.php 1 -
+/wp-content/plugins/core/luuf.php 1 -
+/.well-known/atomlib.php 2 -
+/wp-content/themes/jobart/db.php 2 www.google.com
+//wp-content/languages/about.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 171
+34.136.193.83 24 24 274056 20241031133236
+69.160.160.60 22 60 5291490 20241007122145
+138.68.180.18 7 7 54776 20241004142803
+35.226.145.6 6 28 665291 20241013233018
+192.42.116.200 5 5 88949 20241024211307
+144.91.106.14 4 4 45680 20241025140052
+92.255.85.164 4 4 244902 20241029075512
+94.156.104.156 4 4 244512 20241007123905
+176.111.174.153 4 4 244872 20241029104230
+152.42.195.72 4 4 144742 20241005203158
+49.51.233.95 1 1 11421 20241012091935
+72.14.201.147 2 2 0 20241010163619
+152.89.198.68 2 2 122466 20241020195450
+113.62.169.130 1 1 11419 20241023043624
+43.135.138.128 1 1 11421 20241029022740
+43.135.145.117 1 1 11419 20241001033753
+103.16.116.94 1 1 9687 20241004200859
+185.226.197.10 1 1 11419 20241031210536
+52.47.132.237 1 1 11419 20241005135330
+93.158.90.33 1 1 11382 20241010141046
+165.232.97.46 1 1 11419 20241015085011
+87.236.176.40 1 1 11382 20241012052858
+138.246.253.15 1 1 0 20241011155434
+64.233.173.12 1 1 0 20241010163618
+180.243.22.134 2 45 8884293 20241007170821
+43.133.66.151 2 2 22840 20241025075912
+192.104.34.34 1 1 61593 20241029174642
+5.133.192.184 1 1 11382 20241017130236
+45.156.128.49 1 1 11419 20241030012145
+46.4.33.48 1 1 61217 20241021202246
+167.71.108.92 1 1 11419 20241011101526
+212.111.80.107 1 1 61218 20241007100018
+43.156.109.53 1 1 11421 20241003155910
+93.158.91.239 1 1 11382 20241004170050
+199.45.155.74 1 2 1773233 20241005053530
+178.254.29.124 1 1 10040 20241029155320
+203.176.181.93 3 50 11715653 20241011113126
+170.106.84.136 1 1 11419 20241018163021
+182.3.9.110 1 1 0 20241004103559
+34.86.20.236 1 1 0 20241002222246
+119.96.24.54 1 1 11421 20241005235324
+101.50.0.12 2 61 9068303 20241002055520
+128.14.173.123 1 1 11419 20241023092521
+146.190.111.4 2 2 122256 20241006185550
+51.158.205.68 1 13 3603607 20241004003716
+179.43.191.19 1 1 0 20241006214405
+93.170.204.13 1 1 61218 20241030070152
+62.141.44.236 1 1 10040 20241010174931
+52.89.100.223 1 1 11419 20241020164939
+34.75.161.60 2 2 122256 20241031194251
+206.189.239.76 1 2 1347262 20241027084557
+103.163.138.242 2 44 5426891 20241002115126
+93.158.91.29 1 2 3469345 20241020185644
+43.163.6.35 1 1 11419 20241016054846
+178.128.155.224 1 1 11419 20241015221240
+188.163.68.213 1 1 61217 20241008122651
+24.199.97.136 1 1 11419 20241007073556
+43.131.48.214 1 1 11421 20241016153454
+43.156.156.96 2 2 22840 20241027201337
+117.62.235.53 1 1 11419 20241015010100
+43.156.202.34 1 1 11419 20241021220117
+178.128.206.117 1 2 2535102 20241031082633
+147.182.234.151 1 2 3469345 20241013081521
+87.236.176.148 1 1 11382 20241012050505
+43.155.152.154 1 1 11419 20241031051410
+167.99.181.87 1 2 3469347 20241007123529
+43.156.168.214 1 1 5098 20241012133840
+65.109.76.70 1 1 11419 20241011065547
+5.133.192.167 1 2 1158846 20241013180641
+3.145.102.228 1 1 2754 20241018004250
+206.168.34.220 1 2 1429169 20241016093337
+142.93.179.59 1 1 11419 20241004162639
+43.128.100.220 2 2 22842 20241031152630
+49.51.204.74 1 1 11419 20241017003341
+104.28.247.132 2 2 122256 20241013072327
+43.130.7.211 1 1 11421 20241030185053
+192.36.109.105 1 1 11382 20241024022327
+43.153.123.4 1 1 11421 20241021132311
+43.156.204.134 1 1 11421 20241013120406
+217.160.20.102 1 1 0 20241012030700
+5.133.192.99 1 2 3469345 20241006021227
+15.204.161.7 2 2 12715 20241027013135
+157.173.122.176 1 1 10040 20241004230315
+43.131.39.179 1 1 11419 20241020071702
+170.106.101.31 1 1 11419 20241023154134
+69.10.48.174 1 1 59878 20241030152145
+222.79.104.23 1 1 11419 20241024234517
+15.204.182.106 2 2 22840 20241026094840
+178.254.38.45 1 1 10040 20241016123119
+85.209.11.117 2 2 122436 20241029183350
+51.158.37.210 1 1 0 20241004060532
+129.226.93.214 1 1 11419 20241024121149
+138.68.137.8 1 2 1167062 20241021134725
+43.131.248.209 1 1 11421 20241005195440
+128.14.188.101 1 1 11419 20241015124431
+45.55.112.20 1 1 11382 20241031181841
+103.16.116.24 2 2 19374 20241021005026
+202.152.35.70 1 47 8203756 20241010182042
+193.186.4.176 1 1 3450 20241007145245
+43.135.181.13 2 2 22842 20241007065504
+170.106.197.109 2 2 22840 20241029220310
+43.155.166.202 1 1 11421 20241020170224
+43.134.37.211 1 1 11421 20241015004944
+64.225.40.159 1 1 11419 20241015221240
+161.35.208.180 1 2 3083419 20241023080725
+152.42.217.201 2 2 122256 20241004000530
+45.129.84.246 2 2 119756 20241024211244
+43.135.185.59 1 1 11421 20241028062320
+43.133.77.208 1 1 11419 20241029130719
+162.142.125.205 1 2 1298097 20241005065706
+43.133.72.69 1 1 11421 20241015193925
+185.41.185.90 1 1 61218 20241025111712
+170.106.148.137 1 1 11419 20241026041203
+5.133.192.88 1 2 3469345 20241027013825
+93.158.127.79 1 1 11382 20241030041221
+222.79.103.59 1 1 11419 20241012124718
+103.125.43.20 0 1 53580 
+34.79.80.196 1 1 11419 20241003033036
+43.130.40.120 2 2 22840 20241006053531
+43.159.128.149 1 1 11421 20241019015637
+43.163.8.148 1 1 11419 20241010130910
+49.51.233.46 1 1 11419 20241004000701
+36.70.12.24 1 50 7192042 20241014155756
+27.115.124.101 1 11 104810 20241009071740
+206.168.34.36 1 2 2215599 20241007061616
+182.0.101.236 1 1 0 20241012135657
+87.236.176.64 1 1 11382 20241012090055
+47.129.232.163 1 1 11419 20241006155243
+62.122.184.194 4 4 244902 20241030135926
+139.59.58.84 1 2 2109140 20241011085742
+87.236.176.170 0 1 3457357 
+51.159.30.40 1 1 0 20241004050356
+170.106.104.42 1 1 11419 20241005123415
+18.236.220.134 1 1 11419 20241004085502
+180.252.174.78 0 1 65901 
+178.128.34.243 1 2 3469345 20241018164123
+117.33.163.216 2 2 22838 20241028144642
+92.204.175.93 1 1 61218 20241025222700
+65.21.48.193 1 1 11382 20241022120132
+34.201.48.91 1 1 11419 20241007080435
+110.138.94.237 1 34 6742883 20241016134527
+93.100.155.173 1 1 61218 20241026231916
+165.227.71.71 1 1 11419 20241003083036
+43.134.89.111 1 1 11419 20241011233304
+43.153.110.177 1 1 11421 20241018063104
+43.130.32.245 2 2 22840 20241026140931
+134.122.46.162 1 2 1322708 20241005073909
+147.182.207.103 1 2 3469345 20241021073635
+35.180.46.27 1 1 0 20241022045417
+170.106.181.163 4 4 28856 20241019121810
+64.225.64.82 1 1 11419 20241025073654
+43.130.37.62 1 1 11421 20241010205650
+142.132.248.24 2 2 17950 20241005132648
+42.83.147.56 3 3 34079 20241030041727
+162.142.125.37 1 2 3469308 20241007065151
+43.130.16.140 3 3 34259 20241021030057
+170.106.113.159 1 1 11419 20241013203036
+72.14.201.145 1 1 8393 20241007145242
+43.163.1.85 1 1 11419 20241014161104
+43.159.143.187 1 1 11421 20241017112546
+51.159.106.90 1 56 9157298 20241031012627
+43.159.63.75 3 3 34261 20241023052608
+166.70.59.90 1 1 61180 20241004191515
+27.115.124.118 1 11 112563 20241009071748
+43.135.182.43 1 1 11419 20241013005507
+43.131.249.153 1 1 11421 20241011145500
+157.245.251.65 2 2 22838 20241006033054
+180.242.168.35 1 44 8884293 20241007000939
+113.219.218.197 1 1 11419 20241016195300
+87.236.176.180 0 1 3457357 
+146.70.185.114 1 1 11421 20241010112026
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20241001 1 1 11419 1
+20241002 7 108 14567861 5
+20241003 5 5 57097 5
+20241004 27 39 4124918 19
+20241005 13 17 4618694 11
+20241006 12 13 3782553 10
+20241007 38 165 32566162 15
+20241008 4 4 95474 4
+20241009 2 22 217373 2
+20241010 8 54 8259439 8
+20241011 11 59 13943108 9
+20241012 12 14 7003922 10
+20241013 13 38 5503577 7
+20241014 3 52 7214882 3
+20241015 11 11 225241 11
+20241016 6 40 8216351 6
+20241017 6 6 68479 6
+20241018 7 8 3529196 7
+20241019 5 5 57099 5
+20241020 7 8 3587660 7
+20241021 10 12 4825626 10
+20241022 3 3 72600 3
+20241023 5 6 3129097 5
+20241024 13 13 326985 8
+20241025 10 10 213614 6
+20241026 7 7 129736 6
+20241027 5 7 4840741 4
+20241028 2 2 22840 2
+20241029 8 8 289578 8
+20241030 9 9 250793 9
+20241031 9 65 11871716 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 1
+0s-30s 218
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 39
+/ 222 4498110 204 199
+/about 5 30294 2 3
+/search/sewa 4 25667 1 1
+/berita/read/gerbang-tol-cbd-hingga-mall-tingkatkan-nilai-properti-di-kota-wisata-cibubur 3 31371 0 1
+/about_project 3 12215 2 3
+/berita/read/kota-wisata-jadi-satu-satunya-perumahan-dengan-gerbang-tol-langsung-di-cibubur 3 18744 0 0
+/login 3 7430 1 1
+/search/jual 3 30747 0 0
+/assets/aws/js/bootstrap.min.js.map 2 385172 0 1
+/berita/read/mall-living-world-kota-wisata-telah-dibuka 2 10217 0 0
+/properti/17/rumah-kota-wisata-mewah-shm-siap-huni 1 8092 0 0
+/video 1 4455 0 0
+/properti/8/rumah-dijual-di-kota-wisata-siap-huni-2nd-boulevard 1 8066 0 0
+/berita/layanan/sewa-property 1 17655 0 0
+/wp-json/litespeed/v1/cdn_status 1 0 1 1
+/agent/11 1 6625 0 0
+/berita/layanan/kontraktor 1 17450 0 0
+/agent/12 1 6649 0 0
+/agent/5 1 8230 0 1
+/kontak 1 3107 0 1
+/properti/7/rumah-dijual-di-kota-wisata-siap-huni-2-lt-shm 1 7914 0 0
+/properti/18/rumah-kota-wisata-hoek-mewah-depan-taman 1 7932 0 0
+/.well-known/traffic-advice 1 0 1 1
+/properti/14/dijual-rumah-semi-furnished-2lt-cluster-visalia-kota-wisata-kota-wisata-bogor 1 6370 1 1
+/properti/6/rumah-diajual-di-citra-indah-siap-huni-sudah-renov 1 7808 0 0
+/agent/8 1 6636 0 0
+/galeri 1 4605 0 1
+/agent/16 1 6622 0 0
+/ss.php 1 0 1 1
+/berita/kategori/updates 1 18272 1 0
+/agent/13 1 6634 0 0
+/berita/layanan/jual-property 1 17083 0 0
+/berita/kategori/berita 1 4368 0 0
+/agent/9 1 6635 0 0
+/properti/16/dijual-cepat-kavling-hoek-cluster-west-covina-kota-wisata 1 8377 1 0
+/wp-content/plugins/wp-catcher/ 1 0 1 1
+/agent/6 1 0 1 1
+/berita 1 5098 1 1
+/.env 1 0 1 1
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 6
+5K+ 4364
+1K-2K 3747
+0-44 142
+500-1K 261
+100-500 484
+2K-5K 1377
+END_FILESIZE
